@@ -1,0 +1,636 @@
+<center><b>Sức Mạnh Chính Trị của Truyền Thông Xã Hội<br>
+</b>
+Kỹ thuật, không gian công cộng, và thay đổi chính trị
+</center>
+<i>Clay Shirky</i><br>
+Foreign Affairs, số Tháng Giêng/Hai 2011
+
+<i>neofob, x-cafevn.org, chuyển ngữ</i>
+
+Vào ngày 17 tháng Giêng, 2001, trong phiên đàn hặc Tổng thống
+Philippine Joseph Estrada, những chính trị gia trung thành của
+Quốc hội Philippine bỏ phiếu để hủy bỏ bằng chứng trọng
+yếu chống lại ông.  Trong vòng chưa đầy hai giờ sau khi quyết
+định được công bố, hàng ngàn người Phi giận dữ vì tổng thống
+tham nhũng của họ có thể thoát tội đổ dồn về Đại lộ Epifanio
+de los Santos, một giao lộ chính ở Manila.  Cuộc biểu tình được
+tổ chức một phần là nhờ các tin nhắn được chuyền đi,
+<i>"Go 2 EDSA. Wear blk."</i>  Đám đông lớn rộng nhanh chóng
+và trên một triệu người kéo đến trong vài ngày tiếp theo, bóp
+nghẹt giao thông trung tâm Manila.
+
+Khả năng của công chúng có thể điều phối một phản ứng
+ồ ạt và tức thì -- gần bảy triệu tin nhắn được gởi đi trong
+tuần đó -- đánh động các nhà lập pháp đến nỗi họ đảo ngược
+quyết định và cho phép trưng bằng chứng.  Số phận của Estrada
+được định đoạt; đến 20 tháng Giêng, ông ta bị truất phế.(*) Sự
+kiện đánh dấu lần đầu tiên truyền thông xã hội góp phần truất
+phế một lãnh đạo quốc gia.  Estrada đổ lỗi <i>"thế hệ tin
+nhắn"</i> cho sự sụp đổ của mình.
+
+Kể từ lúc Internet phổ biến từ đầu những năm 1990, dân
+số thế giới nối mạng tăng từ vài triệu lên vài tỷ.  Cùng thời
+gian, truyền thông xã hội đã trở thành một phần của đời sống đối
+với xã hội toàn cầu.  Nó bao gồm nhiều yếu tố như dân thường,
+các nhà hoạt động, các tổ chức phi chính phủ, các công ty viễn
+thông, những nhà cung cấp phần mềm, chính phủ.  Điều này đặt
+ra câu hỏi hiển nhiên đối với chính phủ Hoa Kỳ: Sự phổ biến
+truyền thông xã hội ảnh hưởng đến lợi ích của Hoa Kỳ như thế
+nào và chính sách của Hoa Kỳ nên phản ứng ra sao?
+
+Một khi bối cảnh truyền thông trở nên đông đúc hơn, phức
+tạp hơn, và có nhiều người tham gia hơn thì công chúng được
+nối mạng có thêm nhiều truy cập đến thông tin, có thêm nhiều
+cơ hội để tham gia nói chuyện trước công chúng, và có thêm khả
+năng hợp tác tập thể.  Trên vũ đài chính trị, như những cuộc
+biểu tình ở Manila cho thấy, những tự do mới mẻ này có thể
+góp phần phối hợp phần lớn công chúng đang đòi hỏi thay đổi.
+
+Chiến lược Philippine được áp dụng nhiều lần kể từ đó.
+Trong một số trường hợp, những người biểu tình rút cục thành
+công.  Như ở Tây Ban Nha vào năm 2004, những cuộc biểu tình
+được tổ chức bởi tin nhắn dẫn đến việc trục xuất Thủ tướng
+Tây Ban Nha José María Aznar người đã sai lầm đổ lỗi những
+vụ đánh bom Marid cho ly khai Basque.  Đảng Cộng sản đánh
+mất quyền lực ở Moldova vào năm 2009 khi những cuộc biểu
+tình được tổ chức một phần bởi tin nhắn, Facebook, và Twitter
+bùng nổ sau một cuộc bầu cử gian trá hiển nhiên. Trên khắp
+thế giới, Nhà thờ Công giáo phải đối diện với những vụ kiện
+về chứa chấp những kẻ lạm dụng trẻ em.  Vụ việc khởi đầu khi
+tờ Boston Globe năm 2002 khui ra việc lạm dụng tình dục trong
+nhà thờ được đăng tải online trong vòng vài giờ.
+
+Tuy vậy có nhiều ví dụ về những thất bại của những nhà
+hoạt động như ở Belarus tháng Ba 2006 khi những cuộc xuống
+đường (được tổ chức một phần bởi email) chống lại tố cáo dàn
+xếp bầu cử của Tổng thống Aleksandr Lukashenko.  Nó bùng nổ
+rồi lại xẹp xuống làm cho Lukashenko quyết tâm kiểm soát
+truyền thông xã hội.  Suốt cuộc nổi dậy của Phong trào Xanh
+ở Iran vào tháng Sáu 2009, những nhà hoạt động dùng tất cả
+mọi phương tiện kỹ thuật điều phối để phản đối việc đếm
+phiếu sai cho Mir Hossein Mousavi.  Thế nhưng họ rút
+cục bị đánh gục bởi một đàn áp bạo lực. Cuộc nổi dậy Áo
+Đỏ ở Thái Lan vào năm 2010 theo một lối đi tương tự nhưng
+nhanh hơn: những người biểu tình thạo truyền thông xã hội
+chiếm giữ Bangkok cho đến khi chính quyền Thái Lan giải tán
+họ, giết chết vài chục người.
+
+Việc sử dụng những tiện ích truyền thông xã hội -- tin nhắn,
+email, chia sẻ hình ảnh, mạng xã hội, và những thuộc loại
+như vậy -- không có duy nhất một kết quả định trước. Vì thế
+những nỗ lực phác họa những ảnh hưởng của chúng đến diễn
+biến chính trị thường dẫn đến những chuyện cãi vã.  Nếu bạn
+cho rằng sự thất bại của những cuộc biểu tình Belarus để
+truất phế Lukashenko là kiểu mẫu, bạn sẽ cho rằng kinh nghiệm
+Moldova là ngoại lệ và ngược lại.  Thật khó mà kiếm được công
+trình thực nghiệm về đề tài này.  Một phần là bởi vì những
+tiện ích này quá mới và một phần là bởi vì những tiền lệ liên
+quan quá hiếm.  Điều mô tả thận trọng nhất của những nỗ lực
+định lượng để trả lời câu hỏi <i>"Liệu những tiện ích số có làm
+tăng dân chủ"</i> (như trong số câu hỏi Jacob Groshek và Philip
+Howard đặt ra) là những tiện ích có lẽ không gây hại gì về trước
+mắt và có thể hữu ích về lâu dài.  Hơn nữa chúng có những hiệu
+quả kịch tính ở những quốc gia mà không gian công cộng đã kiềm
+chế những hành động của chính phủ.
+
+Mặc dù vấn đề này là không đồng nhất, truyền thông xã hội đã
+trở thành công cụ điều phối gần như cho tất cả các phong trào
+chính trị của thế giới.  Đồng thời hầu hết các chính quyền độc
+tài trên thế giới (và điều đáng báo động là số lượng các nước
+dân chủ trong đó ngày càng tăng) đang cố gắng giới hạn truy cập
+đến nó.  Phản ứng của Bộ Ngoại Giao Hoa Kỳ là đưa <i>"Tự do Internet"</i>
+thành một mục tiêu chính sách riêng.  Biện hộ cho nhân dân quyền
+dùng Internet tự do là một chính sách đúng đắn cho Hoa Kỳ.  Nó
+đúng vì cùng mục tiêu chiến lược của gia tăng xã hội dân sự toàn
+cầu cũng như nó đồng điệu với những quan điểm của Hoa Kỳ về tự do
+ngôn luận.  Thế nhưng những toan tính nối ý tưởng tự do Internet
+vào những mục tiêu trước mắt -- đặc biệt là những ý tưởng dành
+riêng cho những nước riêng biệt hay có chủ đích giúp đỡ những
+nhóm bất đồng chính kiến hay khuyến khích thay đổi chế độ -- có
+lẽ là nói chung không hiệu quả.  Một khi chúng thất bại thì những
+hậu quả không thể coi thường được.
+
+Mặc dù chuyện truất phế Estrada và những sự kiện tương tự khiến
+cho những nhà quan sát tập trung vào sức mạnh của những cuộc biểu
+tình lật đổ chính quyền, khả năng của truyền thông xã hội chủ yếu
+nằm ở sự giúp đỡ xã hội dân sự và không gian công cộng -- thay đổi
+được đo bằng năm và thập niên hơn là tuần hay tháng.  Chính phủ
+Hoa Kỳ nên duy trì tự do Internet như là một mục đích để theo đuổi
+về mặt nguyên tắc và trung lập về chính phủ, không nên là một công
+cụ để ảnh hưởng tức thì các mục tiêu chính trị từng quốc gia một.
+Chúng ta cũng nên giả định rằng sự tiến bộ sẽ là từng bước một và,
+vẫn như cũ, chậm nhất ở những chính quyền độc tài nhất.
+
+<b>NHỮNG HIỂM HỌA CỦA TỰ DO INTERNET</b>
+
+Vào tháng Giêng 2010, Ngoại trưởng Hoa Kỳ Hillary Clinton phác thảo
+Hoa Kỳ sẽ làm thế nào để khuyến khích tự do Internet ở hải ngoại.
+Bà nhấn mạnh vài thể tự do khác nhau bao gồm tự do truy cập thông tin,
+tự do của công dân được xuất bản bằng phương tiện đại chúng riêng
+(như quyền của những nhà hoạt động Miến Điện được blog), và tự do
+của công dân được đối thoại với nhau (như quyền của công chúng được
+dùng instant messaging mà không bị gây trở ngại).
+
+Đáng chú ý nhất là Clinton tuyên bố tài trợ cho việc phát triển những
+tiện ích được thiết kế để mở lại truy cập Inernet ở những quốc gia
+giới hạn điều đó. Cách tiếp cận theo tính phương tiện này đối với
+tự do Internet tập trung vào việc cản trở những quốc gia kiểm duyệt
+những website hải ngoại như Google, YouTube, hay New York Times.  Nó
+tập trung thứ yếu về ngôn luận công cộng của công dân và ít nhất
+về những sử dụng cá nhân hay xã hội của truyền thông số hóa.  Theo
+sự tưởng tượng này thì Washington có thể và nên có những phản ứng
+nhanh chóng và rõ ràng đối với sự kiểm duyệt của những thể chế độc
+tài.
+
+Quan điểm mang tính phương tiện là hấp dẫn về mặt chính trị, có
+hướng hành động, và gần như chắc chắn là sai.  Nó đánh giá quá
+cao giá trị của phương tiện truyền thông trong khi đánh giá thấp
+giá trị của những phương tiện mà chúng cho phép công dân liên lạc
+riêng tư với nhau.  Nó đánh giá quá mức giá trị của truy cập thông
+tin, đặc biệt là thông tin được lưu trữ ở phương Tây, trong khi
+đó đánh giá thấp giá trị của những tiện ích để điều phối ở mức
+địa phương.  Và nó đánh giá quá mức sự quan trọng của computer trong
+khi đánh giá thấp sự quan trọng của những tiện ích đơn giản hơn
+như điện thoại di động.
+
+Cách tiếp cận theo lối phương tiện cũng có thể là nguy hiểm.  Hãy
+xét đến sự thất bại liên quan đến phần mềm Haystack được đề xuất để
+qua mặt kiểm duyệt.  Nó được dự định là một phần mềm để <i>"đánh tay
+đôi với sự kiểm duyệt của chính quyền Iran"</i>.  Tiện ích được khen
+ngợi rộng rãi ở Washington; chính quyền Hoa Kỳ còn cấp giấy phép
+xuất khẩu cho nó.  Thế nhưng chương trình không bao giờ được xem
+xét kỹ lưỡng, và khi chuyên gia bảo mật xem xét nó thì hóa ra nó
+thất bại không chỉ về mục tiêu che dấu thông điệp khỏi chính quyền
+mà còn gây ra (theo lời một phân tích gia) <i>"khả năng đối phương
+xác định từng cá nhân sử dụng"</i>.  Tương phản với điều này, một
+trong những phần mềm thành công nhất về chống kiểm duyệt là Freegate.
+Phần mềm này chẳng nhận được ủng hộ gì nhiều từ Hoa Kỳ, một phần
+là vì những trễ nãi thủ tục hành chính và một phần là vì chính phủ
+Hoa Kỳ lo sẽ làm tổn hại đến bang giao Hoa-Trung: tiện ích nguyên
+thủy được viết bởi Pháp Luân Công, phong trào tâm linh mà chính quyền
+Trung Quốc gọi là <i>"giáo phái xấu xa"</i>.  Những thách thức của
+Freegate và Haystack cho thấy nó thật khó khăn ra sao để vũ trang
+truyền thông xã hội để theo đuổi những mục đích riêng cho từng quốc
+gia và chính sách ngắn hạn.
+
+Tân truyền thông có lợi cho việc dung dưỡng sự tham gia mà có thể
+sẽ thật sự gia tăng những tự do Clinton vạch ra như ấn bản, hệ thống
+bưu điện, điện tín, và điện thoại đã làm trước đó.  Một phàn nàn về
+ý tưởng tân truyền thông như là một lực lượng chính trị là hầu hết
+dân chúng đơn thuần dùng những tiện ích này cho thương mại, đời sống
+xã hội, hay giải trí riêng.  Thế nhưng điều này phổ biến đối với tất
+cả dạng thức của truyền thông.  Nhiều người vào thời 1500 đọc những
+tiểu thuyết gợi tình hơn là <i>"95 Luận Đề"</i> của Martin Luther.
+Và nhiều người đọc <i>Niên giám của Richard Bé Bỏng</i> hơn là công trình
+của <a href="http://en.wikipedia.org/wiki/Committee_of_correspondence">
+Committees of Correspondence</a>.  Thế nhưng những công trình chính
+trị này vẫn có một ảnh hưởng to lớn.
+
+Cũng như Luther đã chọn phương thức ấn bản mới mẻ để phản đối Nhà thờ
+Công giáo, và những nhà cách mạng Hoa Kỳ cập nhật chia sẻ những ý tưởng
+của họ bằng cách sử dụng hệ thống bưu điện mà Benjamin Franklin thiết
+kế.  Những phong trào bất đồng chính kiến ngày nay sẽ dùng bất cứ phương
+tiện nào sẵn có để trình bày những quan điểm của họ và điều phối hoạt
+động của họ.  Thật không thể nào mô tả sự thất bại của Đảng Cộng sản
+Moldova ở Nghị viện sau cuộc bầu cử 2009 mà không đề cập đến việc sử dụng
+điện thoại di động và những tiện ích trực tuyến để động viên bởi những
+những nhà đối lập.  Những chính phủ độc tài bóp nghẹt sự liên lạc giữa
+các công dân với nhau vì họ sợ, một cách chính xác, rằng một dân chúng
+với khả năng điều phối tốt hơn sẽ kiềm chế khả năng của chính phủ hành
+động mà không có giám sát.
+
+Mặc dù cơ bản thực tế là vậy -- rằng là tự do liên lạc là tốt cho tự do
+chính trị -- phương thức phương tiện của chính trị Internet vẫn là không
+ổn.  Thật khó cho người ngoài cuộc có thể hiểu được tình trạng của người
+bất đồng chính kiến.  Ủng hộ từ bên ngoài mang nguy cơ vẩn đục ngay cả
+đối kháng ôn hòa như thể là được chỉ đạo bởi những yếu tố nước ngoài.
+Những nhà bất đồng chính kiến có thể bị lộ bởi những tác dụng phụ của
+những tiện ích mới mẻ.  Những đòi hỏi của chính phủ về tự do Internet ở
+hải ngoại có thể biến thiên theo từng quốc gia một, tùy theo mức độ quan
+trọng của mối bang giao, dẫn đến sự hoài nghi về những động cơ của nó.
+
+Cách nhìn hứa hẹn hơn về truyền thông xã hội là những tiện ích lâu dài
+sẽ củng cố xã hội dân sự và không gian công cộng.  Tương phản với quan
+điểm tiện ích của tự do Internet là quan điểm <i>"hoàn cảnh"</i>.  Theo
+quan niệm này, những thay đổi tích cực ở đời sống của một quốc gia, kể
+cả thay đổi chính quyền thiên dân chủ, theo sau, hơn là đi trước sự phát
+triển của một không gian công cộng vững chắc.  Đây không phải nói rằng
+những phong trào quần chúng sẽ không sử dụng những tiện ích này thành
+công để kiểm soát hay ngay cả lật đổ chính quyền.  Thay vì vậy những
+nỗ lực của Hoa Kỳ chỉ đạo những sử dụng như vậy là có hại hơn có lợi.
+Hãy xem vấn đề theo chiều hướng này, tự do Internet là một cuộc chơi
+trường kỳ.  Nó được thai nghén và ủng hộ không phải là một nghị trình
+riêng rẽ mà đơn thuần là một đóng góp quan trọng cho những tự do chính
+trị căn bản hơn.
+
+<b>BỐI CẢNH CỦA SỤP ĐỔ</b>
+
+Bất cứ cuộc thảo luận nào về hoạt động chính trị ở những chính quyền
+áp bức phải tính đến sự sụp đổ kinh hoàng của cộng sản vào năm 1989 ở
+Đông Âu và sự sụp đổ tiếp theo của Liên Bang Sô Viết vào năm 1991.  Trong
+suốt thời kỳ chiến tranh Lạnh, Hoa Kỳ đầu tư vào nhiều công cụ truyền thông
+khác nhau như đài radio Tiếng Nói Hoa Kỳ, chủ trì một rạp hát Mỹ ở Moscow
+(là chỗ của cuộc <i>"tranh luận nhà bếp"</i> nổi tiếng của Nixon-Khrushchev),
+tuồn lậu máy Xerox vào đằng sau <a href="http://vi.wikipedia.org/wiki/B%E1%BB%A9c_m%C3%A0n_s%E1%BA%AFt">Bức Màn Sắt</a>
+để giúp đỡ báo chí chui, hay còn gọi là samizdat.  Dẫu cho có tầm quan
+trọng của truyền thông, hồi kết của Chiến Tranh Lạnh được dẫn đến không
+phải do một cuộc nổi dậy ngang ngược của những thính giả của Đài Tiếng
+nói Hoa Kỳ mà bởi do thay đổi kinh tế.  Do giá dầu giảm trong khi giá lúa
+mì tăng, mô hình của Sô Viết bán dầu giá mắc để mua lúa mì giá rẻ ngưng hoạt
+động.  Kết quả là điện Kremlin bị buộc phải vay mượn từ phương Tây.  Những
+món nợ này bị cho là có rủi ro khi chính quyền can thiệp quân sự vào nội tình
+của những bang không phải Nga.  Vào năm 1989, người ta có thể cho rằng khả
+năng của công dân có thể liên lạc với nhau, xét đến bối cảnh của những tác
+động kinh tế vĩ mô, là phần lớn không thích hợp.
+
+Thế nhưng tại sao vào lúc đó những quốc gia đằng sau Bức Màn Sắt không để
+công dân chết đói?  Dù gì đi nữa, cổ nhân có câu là quốc gia nào cũng chỉ
+ba bữa đói là có cách mạng hoá ra là sai thê thảm vào thế kỷ hai mươi; thật
+có thể có những nhà lãnh đạo tồn tại được ngay cả hàng triệu người chết đói.
+Stalin làm điều đó vào thập niên 1930, Mao làm điều đó vào thập niên 1960,
+và Kim Jong Il đã làm điều đó hơn một lần vào hai thập niên vừa qua.  Thế
+nhưng sự khác biệt giữa những trường hợp đó và những cuộc cách mạng 1980
+là những nhà lãnh đạo của Đông Đức, Czechoslovakia, và những nước còn lại
+đối mặt với những xã hội dân sự đủ vững chắc để chống cự lại.  Những cuộc
+biểu tình hàng tuần ở Đông Đức, phong trào dân sự Hiến chương 77 ở
+Czechoslovakia, và phong trào Công Đoàn Đoàn Kết ở Ba Lan đều có những
+chính phủ rõ ràng đang sẵn sàng.
+
+Khả năng sáng tạo và phát tán văn học lẫn tài liệu chính trị của những
+nhóm này, kể cả với những máy photocopier đơn giản, đã cho thấy một lựa
+chọn hiển nhiên so với những chính quyền cộng sản.  Đối với những nhóm
+công dân đông đúc ở những quốc gia này, sự đổ vỡ chính trị và quan trọng
+hơn cả là kinh tế của chính phủ không còn là một bí mật không che dấu mà
+là một sự thật công khai.  Điều này gây khó khăn và tiếp theo là bất khả
+cho chính quyền cho ra lệnh binh lính đàn áp những nhóm đông người như
+vậy.
+
+Vì vậy, đó là một chuyển biến về cân bằng quyền lực giữa nhà nước và xã
+hội dân sự làm dẫn đến sự sụp đổ của sự nắm quyền của cộng sản phần lớn
+trong hòa bình.  Khả năng của nhà nước dùng bạo lực đã bị suy yếu và xã
+hội dân sự đã chịu đựng gánh nặng bạo lực cũng lớn mạnh hơn.  Khi xã hội
+dân sự giành chiến thắng thì nhiều người đối lập với chính quyền cộng sản
+trở thành những nhà lãnh đạo chính trị của những quốc gia này như Tadeusz
+Mazowieki ở Ba Lan và Václav Havel ở Czechoslovakia.  Những công cụ truyền
+thông trong thời kỳ Chiến Tranh Lạnh đã không làm chính phủ sụp đổ nhưng
+chúng giúp dân chúng lấy lại quyền lực của nhà nước khi nó suy yếu.
+
+Ý kiến cho rằng truyền thông, từ Đài Tiếng Nói Hoa Kỳ cho đến samizdat,
+đóng một vai trò yểm trợ trong thay đổi xã hội bằng cách củng cố không
+gian công cộng lập lại vai trò lịch sử của ấn bản báo chí. Như triết gia
+Đức Jürgen Habermas chỉ ra trong quyển sách của ông năm 1962, <i>The Structural
+Transformation of the Public Sphere</i>, ấn bản báo chí góp phần dân chủ
+hóa Châu Âu bằng cách tạo không gian cho thảo luận và đồng thuận giữa những
+công dân tham gia chính trị.  Điều này thường xảy ra trước khi cả nhà nước
+dân chủ hóa hoàn toàn.  Luận điểm này được khai triển sau này bởi những
+học giả như Asa Briggs, Elizabeth Eisenstein, và Paul Starr.
+
+Tự do chính trị phải được đi kèm bởi một xã hội dân sự hiểu biết và
+liên kết chặt chẽ đủ để thảo luận những vấn đề được đưa ra công chúng.
+Trong một công trình nghiên cứu nổi tiếng về quan điểm chính trị sau kỳ
+bầu cử tổng thống Hoa Kỳ 1948, nhà xã hội học Elihu Katz và Paul Lazarsfeld
+khám phá rằng truyền thông đại chúng nói riêng không làm thay đổi suy nghĩ
+của dân chúng; thay vì vậy, đó là một quá trình có hai bước.  Những quan
+điểm đầu tiên được truyền tải bởi truyền thông và sau đó chúng được lập
+lại bởi bạn bè, thành viên gia đình, và đồng nghiệp.  Ở bước xã hội thứ hai
+này mà quan điểm chính trị được hình thành.  Ở bước này, Internet nói chung
+và mạng xã hội nói riêng, có thể làm nên thay đổi.  Cũng như đối với ấn bản
+báo chí, Internet phát tán không chỉ truyền thông tiêu thụ mà còn truyền
+thông xuất bản nữa -- nó cho phép dân chúng phát biểu và tranh luận những
+quan điểm đối nghịch trong hỗn độn ở chốn riêng tư và công cộng.
+
+Một không gian công cộng phát triển từ từ, nơi mà dư luận quần chúng dựa
+vào cả truyền thông và đối thoại, là cốt lõi của quan điểm hoàn cảnh của
+tự do Internet.  Đối nghịch với quan điểm tự phóng đại rằng phương Tây
+có trong tay mã nguồn cho dân chủ -- và nếu như nó có thể truy cập được
+thì những quốc gia độc tài còn lại sẽ đỗ vỡ -- quan điểm hoàn cảnh giả
+định rằng ít có thay đổi chính trị mà không có sự phát tán và chấp nhận
+ý tưởng và quan điểm trong không gian công cộng.  Có thông tin thì ít
+quan trọng hơn là có đối thoại về mặt chính trị.  Hơn thế nữa, một không
+gian công cộng có cơ may nảy sinh ra từ một xã hội do dân chúng bất mãn
+với những vấn đề kinh tế hay sự cai trị hàng ngày hơn là do họ đi theo
+những ý tưởng chính trị trừu tượng.
+
+Lấy một ví dụ đương thời, chính phủ Trung Quốc ngày nay có nguy cơ bị
+buộc phải chấp thuận những quy tắc dân chủ bởi những thành viên trung
+lưu chủng tộc Hán đa số đòi hỏi chính quyền địa phương ít tham nhũng
+hơn hơn là bởi những người Uighur hay Tibet đòi tự trị.  Tương tự,
+Chiến dịch Một Triệu Chữ ký, một phong trào nữ quyền của Iran, tập trung
+vào gỡ bỏ những luật không thân thiện đối với phụ nữ hóa ra thành công
+hơn trong việc mở rộng tự do hóa cách cư xử của chính quyền Iran hơn là
+Phong trào Xanh mang tính cách đối đầu hơn.
+
+Đối với những nhà quan sát biểu tình lạc quan, đây là chuyện nhỏ nhưng
+cả công trình thực nghiệm và lý thuyết đưa ra giả thiết rằng những cuộc 
+những cuộc biểu tình là đích đến của một quá trình lâu dài (nếu có hiệu
+quả) hơn là một sự thay thế cho nó.  Bất cứ một cam kết rõ ràng nào của
+Hoa Kỳ đối với việc tăng cường tự do chính trị toàn cầu đều nên tập trung
+vào quá trình đó.  Điều này chỉ có thể diễn ra một khi có một không gian
+công cộng vững chắc.
+
+<b>BẢO TOÀN TÌNH TRẠNG TIẾN THOÁI LƯỠNG NAN</b>
+
+Những nhóm có rèn luyện và có liên kết, cho dù là thương mại hay chính
+phủ, luôn có lợi thế hơn những nhóm vô kỷ luật; họ tham gia những hoạt
+động chung dễ dàng hơn bởi vì họ có cách điều phối hoạt động của các
+thành viên một cách có lớp lang.  Truyền thông xã hội có thể bù đắp cho
+những bất lợi của những nhóm vô kỷ luật bằng cách giảmi phí của việc
+điều phối.  Phong trào chống Estrada ở Philippines đã sử dụng việc gởi
+và chuyển tiếp tin nhắn dễ dàng để thiết lập một nhóm to lớn mà không
+cần (và chẳng có đủ thì giờ) đến người quản lý theo lệ thường.  Điều này
+dẫn đến việc những nhóm lớn hơn và lỏng lẻo hơn bây giờ có thể thi hành
+những chuyện điều phối như các phong trào biểu tình và các chiến dịch
+truyền thông công cộng mà trước đây chỉ dành cho những tổ chức chính qui.
+Đối với những phong trào chính trị, một trong những hình thức chủ yếu của
+việc điều phối là cái mà phía quân sự gọi là <i>"phòng bị chung"</i>, khả năng
+của mỗi thành viên của nhóm không chỉ nhận thức được tình hình mà còn
+hiểu rằng mọi người cũng biết như vậy.  Truyền thông xã hội gia tăng sự phòng
+bị chung bằng cách phát tán các tin nhắn qua mạng xã hội.  Những cuộc biểu
+tình chống Aznar ở Tây Ban Nha có sức xung kích nhanh chóng đúng vì hàng
+triệu người phát tán tin nhắn không nằm trong một tổ chức qui củ.
+
+Những cuộc biểu tình chống tham nhũng của người Trung Hoa nổ ra sau vụ
+động đất kinh hoàng hồi tháng Năm 2008 ở Tứ Xuyên là một minh chứng khác cho
+loại tổ chức ngẫu nhiên như vậy.  Những người biểu tình là cha mẹ, đặc biệt
+là những bà mẹ, bị mất đứa con duy nhất trong những ngôi trường xây dựng
+gian dối từ sự thông đồng giữa những công ty xây dựng và chính quyền địa
+phương.  Trước khi có động đất, sự tham nhũng ở ngành xây dựng là một
+bí mật ai cũng biết.  Thế nhưng khi những ngôi trường sụp đổ, các công dân
+bắt đầu chia sẻ tài liệu của sự thiệt hại và những vụ biểu tình qua các
+tiện ích của mạng xã hội.  Những hệ quả của chính quyền tham nhũng được
+cho thấy công khai và nó chuyển từ bí mật ai cũng biết cho đến sự thật
+công khai.
+
+Chính quyền Trung Quốc lúc đầu cho phép tường thuật về những cuộc biểu
+tình sau động đất nhưng đột ngột xoay ngược quyết định vào tháng Sáu.
+Các lực lượng an ninh bắt đầu bắt giam những người biểu tình và đe
+dọa những nhà báo khi tình hình trở nên rõ ràng là những người biểu
+tình đòi hỏi địa phương cải cách thật sự và không chỉ đơn thuần những
+đền bù của chính quyền.  Theo cái nhìn của chính quyền, mối đe dọa không
+hẳn là những công dân biết chuyện tham nhũng điều mà nhà nước chẳng có
+thể làm gì được trước mắt.  Bắc Kinh e sợ rằng những hiệu ứng có thể
+của sự hiểu biết này được chia sẻ: họ sẽ phải thi hành cải tổ hoặc
+phải đối phó theo một cách mà sẽ đánh động dân chúng.  Dù gì đi nữa,
+sự phổ thông của điện thoại với máy chụp hình làm cho việc tiến hành
+một cuộc đàn áp rộng lớn nhưng không chứng tích là khó khăn.
+
+Đây là trạng thái của sự phòng bị -- điều mà càng ngày càng rõ rệt ở
+những quốc gia hiện đại -- tạo cái thường được gọi là <i>"sự tiến
+thoái lưỡng nan của nhà độc tài"</i> nhưng có thể được miêu tả chính
+xác hơn bằng thành ngữ mà lý thuyết gia về thông tin Briggs đặt ra:
+<i>"sự bảo toàn tình trạng tiến thoái lưỡng nan"</i>.  Nó được gọi
+như vậy vì nó đúng không chỉ cho những nhà độc tài mà còn cho
+những chính phủ dân chủ và những nhà lãnh đạo tôn giáo và kinh doanh.
+Sự tiến thoái lưỡng nan được tạo ra bởi phương tiện truyền thông mới
+mà nó gia tăng khả năng của công chúng được [tự do] ngôn luận hay
+lập hội; với sự phổ cập của truyền thông, cho dù đó là máy photocopier
+hay trình duyệt Web, một nhà nước đã quen với với độc quyền ngôn luận
+công cộng nhận ra rằng họ cần giải thích những sự khác biệt giữa quan
+điểm của họ và của công luận.  Có hai phản ứng cho sự bảo toàn tình
+trạng tiến thoái lưỡng nan là sự kiểm duyệt và tuyên truyền.  Thế nhưng
+chẳng điều nào trong số này hiệu quả để kiểm soát nguồn tin bằng sự
+bắt ép im lặng đối với công dân.  Nhà nước sẽ kiểm duyệt những chỉ
+trích hay cho ra tuyên truyền nếu họ cần nhưng cả hai hành động này
+trả giá cao hơn là đơn giản không bịt miệng chỉ trích hay đáp trả
+trước hết.  Thế nhưng một chính phủ mà sẽ đóng cửa truy cập Internet
+hay cấm điện thoại di động thì họ sẽ gặp nguy cơ cực đoan hóa những
+công dân vốn ủng hộ chính quyền hoặc gây thiệt hại cho kinh tế.
+
+Sự bảo toàn tình trạng tiến thoái lưỡng nan tồn tại một phần là vì
+phát ngôn chính trị và phi chính trị không loại trừ lẫn nhau.  Nhiều
+thiếu nữ Nam Hàn có mặt ở Công viên Cheonggyecheon vào năm 2008 để
+phản đối thịt bò nhập từ Hoa Kỳ bị cực đoan hóa ở mục thảo luận
+ở một diễn đàn về Dong Bang Shin Ki (một ban nhạc toàn con trai)
+trên mạng.  DBSK không phải là một nhóm chính trị và những người
+biểu tình không phải những nhà chính trị thuần túy.  Thế nhưng cộng
+đồng trực tuyến với khoảng 800 000 ngàn thành viên tích cực đã khuyếch
+đại bước thứ nhì của quá trình hai bước của Katz và Lazarsfeld bằng
+cách cho phép các thành viên định hình ý kiến chính trị qua đối thoại.
+
+Văn hóa đại chúng cũng làm nổi lên sự duy trì tình trạng tiến thoái
+lưỡng nan bằng cách cung cấp vỏ bọc cho những toan tính chính trị
+của truyền thông xã hội.  Những tiện ích được thiết kế đặc biệt cho
+người bất đồng chính kiến thì dễ dàng cho chính quyền ngăn chặn về
+mặt chính trị.  Trong khi đó những tiện ích có sử dụng khái quát
+trở nên khó hơn để kiểm duyệt mà không có nguy cơ chính trị hóa
+những nhóm lớn mà vốn dĩ là thành phần phi chính trị.  Ethan Zuckerman
+của Trung tâm vì Internet và Xã hội ở Havard gọi đây là <i>"lý thuyết
+con mèo dễ thương của hoạt động tuyên truyền số hóa"</i>.  Những tiện
+ích được thiết kế chuyên để qua mặt sự kiểm duyệt của nhà nước (những
+proxy server chẳng hạn) có thể bị đóng cửa mà không có thiệt hại chính
+trị gì.  Thế nhưng những tiện ích chung chung hơn mà đa số dân chúng
+sử dụng, chia sẻ hình ảnh những con mèo dễ thương chẳng hạn, thì khó
+đóng cửa hơn.
+
+Vì những lý do này, thật có lý hơn để đầu tư vào truyền thông xã hội
+như là những tiện ích chung chung để khuyến khích tự quản hơn là những
+tiện ích chính trị riêng biệt.  Tự do ngôn luận nói chung là vốn dĩ
+mang tính chính trị và mang tính phổ quát sâu đậm.  Đến nỗi Hoa Kỳ lấy
+tự do ngôn luận là mục tiêu hàng đầu, ta nên cho rằng mục tiêu đạt được
+tương đối dễ dàng ở những quốc gia dân chủ, ít dễ dàng hơn ở những quốc
+gia phi dân chủ là đồng minh, và ít nhất ở những quốc gia phi dân
+chủ không phải là đồng minh.  Thế nhưng gần như mọi quốc gia trên thế
+giới mong muốn phát triển kinh tế.  Vì các chính phủ làm tổn hại sự
+phát triển khi họ nghiêm cấm những kỹ thuật mà có thể dùng cho cả điều
+phối chính trị và kinh tế.  Hoa Kỳ nên dựa vào những lợi ích kinh tế
+của các quốc gia mà cho phép phổ biến việc sử dụng truyền thông [xã hội].
+Nói cách khác, chính phủ Hoa Kỳ nên hành động vì những điều kiện mà sẽ
+gia tăng sự bảo tồn tình trạng tiến thoái lưỡng nan, hấp dẫn đối với
+lợi ích riêng của các quốc gia hơn là tư cách sinh sự của tự do, như là
+một cách để phát triển hay củng cố không gian công cộng ở những quốc
+gia này. 
+
+<b>SỰ HOÀI NGHI VỀ TRUYỀN THÔNG XÃ HỘI</b>
+
+Nói chung có hai luận điểm phản bác lại ý kiến cho rằng truyền thông xã
+hội sẽ thay đổi chính trị quốc gia.  Điểm thứ nhất là những tiện ích tự
+thân chúng là vô dụng và điểm thứ nhì là chúng có hại lẫn có lợi cho việc
+dân chủ hóa bởi vì những chính phủ độc đoán đang trở nên thành thạo hơn
+về việc sử dụng những tiện ích này để đàn áp bất đồng chính kiến.
+
+Gần đây nhất Malcolm Gladwell viết trên <i>The New Yorker</i> phê bình
+về sự vô dụng, tập trung vào những ví dụ mà được gọi là <i>"chủ nghĩa chểnh
+mảng"</i>.  Nhờ vậy mà những người tham dự theo đuổi thay đổi xã hội qua
+những hành động chi phí thấp như gia nhập nhóm <i>"Save Dafur"</i> của Facebook.
+Những người này có tinh thần lâu dài của những người dán đề can trên xe
+hơi nhưng lại thiếu hành động thiết thực trước mắt.  Sự phê bình quả là
+đúng nhưng không đi vào cốt lõi sức mạnh của truyền thông xã hội; thực tế
+là những người tham gia hời hợt không màng cất bước đi ra một thế giới
+tốt hơn không có nghĩa những người tham gia không thể sử dụng truyền thông
+xã hội có hiệu quả.  Những cuộc biểu tình gần đây -- bao gồm phong trào
+chống những người bảo vệ chủ nghĩa giáo điều ở Ấn Độ năm 2009, những
+cuộc biểu tình phản đối thịt bò ở Nam Hàn năm 2008, và những cuộc biểu tình
+phản đối luật giáo dục ở Chile năm 2006 -- đã dùng truyền thông xã hội
+không phải để thay thế hành động ngoài đời mà dùng chúng để điều phối hành
+động thực tế.  Hậu quả là tất cả những cuộc biểu tình đưa những người tham
+gia đối mặt với hiểm nguy của bạo lực và trong một số trường hợp nó đã
+diễn ra.  Dĩ nhiên việc áp dụng những tiện ích này (đặc biệt là điện thoại
+di động) như là một cách để điều phối và thu thập tin tức những hoạt động
+ngoài đời quả là phổ biến đến nỗi chúng sẽ là một phần của tất cả những
+phong trào chính trị trong tương lai.
+
+Đây rõ ràng không có nghĩa là cứ phong trào chính trị nào dùng những
+tiện ích này sẽ thành công bởi vì nhà nước vẫn chưa mất khả năng đối phó.
+Điều này dẫn đến luận điểm thứ hai, và nó mang tính nghiêm trọng hơn, đó
+là sự chỉ trích rằng truyền thông xã hội là tiện ích để cải thiện chính
+trị -- nói rõ ra là nhà nước càng ngày càng có những phương tiện tinh vi
+để giám sát, ngăn chặn, hay kết nạp những tiện ích này.  Việc sử dụng
+truyền thông xã hội, học giả Rebecca MacKinnon của New America Foundation
+và Evgeny Morozov của Open Society Institute biện luận rằng, là có thể
+củng cố những chính quyền độc tài cũng như làm suy yếu chúng đi.  Chính
+quyền Trung Quốc đã bỏ ra nhiều công sức để hoàn thiện những hệ thống
+để kiểm soát những đe dọa chính trị từ truyền thông xã hội.  Điểm ít
+quan trọng nhất của những hệ thống này là kiểm duyệt và chương trình
+theo dõi.  Theo thời gian chính quyền nhận ra rằng những đe dọa đến
+tính chính danh của họ đến từ bên trong quốc gia và rằng ngăn chặn
+trang web như <i>The New York Times</i> chẳng ngăn cản nổi những
+bà mẹ đau khổ phát tán những than phiền về tham nhũng.
+
+Hệ thống của Trung Quốc đã chuyển biến từ chỉ là đơn giản lọc thông
+tin từ Internet vào Trung Quốc từ giữa thập niên 1990 đến thành hoạt
+động tinh vi mà không chỉ giới hạn thông tin bên ngoài mà còn sử
+dụng những lý luận theo chủ nghĩa dân tộc và đạo đức chung để khuyến
+khích những nhà điều hành các dịch vụ mạng của Trung Quốc kiểm duyệt
+thành viên và thành viên tự kiểm duyệt.  Bởi vì mục tiêu của họ là
+tránh thông tin trở thành có hiệu ứng đồng bộ về chính trị, nhà nước
+không cần kiểm duyệt Internet một cách toàn diện; thay vì vậy họ chỉ
+cần tối giản truy cập đến thông tin.
+
+Những quốc gia độc tài càng ngày càng đóng cửa những hệ thống truyền
+tin của họ để khước từ khả năng điều phối trực tiếp và tường thuật
+sự kiện của những người bất đồng chính kiến.  Chiến lược này cũng
+kích hoạt sự bảo toàn tình trạng tiến thoái lưỡng nan tạo ra một
+hiểm họa ngắn hạn về sự đánh động phần lớn dân chúng về mâu thuẫn
+chính trị.  Khi chính phủ Bahrain cấm Google Earth vì một ghi chú
+trên bản đồ về sự sát nhập đất công của hoàng gia bắt đầu lưu truyền,
+kết quả là nó đánh động nhiều người Bahrain xem tấm bản đồ xúc phạm
+đó hơn là đã biết nó trước đó.  Tin tức lan tràn đến nỗi chính phủ
+đấu dịu và mở lại truy cập bốn ngày sau đó.
+
+Những việc đóng cửa như vậy trở nên mơ hồ hơn cho chính quyền nếu họ
+sống dai như vậy.  Khi những người biểu tình chống chính phủ chiếm
+giữ Bangkok vào mùa hè 2010, sự hiện diện của họ làm gián đoạn khu
+phố buôn bán ở Bangkok, thế nhưng hành động của chính phủ, cắt đứt
+những phần trọng của cơ sở hạ tầng viễn thông Thái Lan, đã gây ảnh
+hưởng đến mọi người không chỉ ở thủ đô.  Cách tiếp cận tạo thêm sự
+duy trì tình trạng tiến thoái lưỡng nan cho chính phủ -- sẽ không
+có kinh tế hiện đại nếu không có điện thoại hoạt động -- và vì thế
+họ bị giới hạn khả năng đóng cửa hệ thống thông tin trong vùng
+rộng lớn và trong thời gian dài.
+
+Trong những trường hợp cực đoan nhất, việc sử dụng những tiện
+ích truyền thông xã hội là vấn đề sống chết, như trong việc
+đề nghị án tử hình cho blogger Hossein Derakhshan ở Iran (sau
+đó bị kết án 19 năm rưỡi tù giam) hay việc treo cổ ám muội
+Oleg Bebenin, sáng lập viên người Belarusia của trang mạng
+phong trào đối lập Hiến chương 97.  Tất nhiên, lý do thiết
+thực nhất để cho rằng tiện ích truyền thông xã hội có thể mang
+lại thay đổi chính trị là do cả những người bất đồng chính
+kiến và chính phủ nghĩ là chúng có thể.  Trên khắp thế giới,
+những nhà hoạt động tin tưởng sự ích lợi của những tiện ích
+này và có những bước thích đáng để sử dụng chúng.  Và đối lại
+những chính quyền mà họ đương đầu cho rằng những tiện ích
+truyền thông xã hội là mạnh mẽ và sẵn sàng quấy rối, bắt giữ,
+lưu đày, hay giết hại những người dùng.  Một cách mà Hoa Kỳ
+có thể gia tăng tình trạng bảo toàn tiến thoái lưỡng nan mà
+không đâm bổ vào những phiền toái chính trị là yêu cầu trao trả
+tự do cho những công dân sử dụng truyền thông xã hội.  Bất cứ
+điều gì mà ngăn cản hiểm họa sử dụng bạo lực của đối với công
+dân sử dụng những tiện ích này từ chính quyền đồng thời cũng
+gia tăng tình trạng bảo toàn tiến thoái lưỡng nan.
+
+<b>NHÌN VỀ TƯƠNG LAI</b>
+
+Ở mức độ mà Hoa Kỳ theo đuổi tự do Internet như là một công cụ
+của hành chính công, họ nên bớt chú trọng vào những tiện
+ích chống kiểm duyệt, đặc biệt là những cái nhắm đến các chính
+quyền chuyên biệt, và tăng cường yểm trợ cho ngôn luận công cộng
+địa phương và lập hội nói chung.  Dĩ nhiên là truy cập đến thông
+tin không phải là không quan trọng nhưng đó không phải là điều
+chính yếu truyền thông xã hội chế ngự những những nhà lãnh đạo
+độc tài hay giúp ích những công dân của xã hội dân chủ.  Một
+cách trực tiếp, Hoa Kỳ đỡ đầu cho những tiện ích hay chiến dịch
+nhắm đến những chính phủ riêng biệt có nguy cơ tạo nên phản ứng
+dữ dội hơn là cách áp dụng những nguyên tắc một cách kiên nhẫn
+và toàn cầu.
+
+Điều này đòi hỏi việc tái sắp xếp những mục tiêu tự do Internet
+của Bộ Ngoại Giao.  Bảo đảm tự do liên lạc cá nhân và xã hội giữa
+dân chúng của một quốc gia nên là ưu tiên hàng đầu, sát theo sau
+là bảo đảm quyền công dân phát biểu nơi công cộng.  Sự tái sắp
+xếp này sẽ phản ánh thực tế là đó là một xã hội dân sự vững chắc
+-- một xã hội mà công dân có tự do lập hội -- hơn là truy cập đến
+Google hay YouTube, điều đó sẽ buộc các chính phủ phục vụ công
+dân của họ hơn cả.
+
+Một ví dụ thực tế của điều này, Hoa Kỳ nên ít ra quan ngại về
+những kiểm soát gần đây của chính phủ Ai Cập về việc bắt buộc
+đăng ký những dịch vụ tin nhắn cho nhóm như là Ai Cập sẽ nỗ lực
+gia tăng những giới hạn tự do báo chí.  [Quyền] Tự do lập hội mà
+những dịch vụ tin nhắn như vậy yểm trợ là cốt lõi của những lý
+tưởng dân chủ của Hoa Kỳ như thể tự do báo chí.  Tương tự, đòi
+hởi của chính quyền Nam Hàn rằng công dân đăng ký một số dịch vụ
+Internet với tên thật là một nỗ lực nhằm giới hạn khả năng của
+họ gây ngạc nhiên cho nhà nước như hành động phối hợp vào năm
+2008 trong cuộc biểu tình ở Seoul.  Nếu Hoa Kỳ không than phiền
+thẳn thắn về chính sách này như họ làm với sự kiểm duyệt của
+Trung Quốc, họ có nguy cơ làm hại khả năng biện luận cho tự do
+Internet như là một lý tưởng toàn cầu.
+
+Khó khăn hơn, nhưng cũng là trọng yếu, cho chính phủ Hoa Kỳ
+để sẽ đưa ra một chính sách cam kết với những công ty tư và tổ
+chức mà họ chứa chấp không gian công nối mạng.  Những dịch vụ
+hoạt động ở Hoa Kỳ như Facebook, Twitter, Wikipedia, và YouTube,
+và những dịch vụ hoạt động ở hải ngoại như QQ (một dịch vụ
+instant-messaging Trung Quốc), WikiLeaks (một kho chứa những
+tài liệu bị lộ ở Thụy Điển), Tueni (một mạng xã hội ở Tây Ban Nha),
+và Naver (một mạng xã hội ở Nam Hàn) là những trang web được dùng
+hầu hết cho phát ngôn chính trị, đối thoại, và điều phối.  Và
+những hãng truyền thông vô tuyến toàn cầu chuyển tiếp tin nhắn,
+hình ảnh, và video từ điện thoại di động qua những trang web đó.
+Chúng ta có thể trông mong những đối tượng này yểm trợ tự do ngôn
+luận và lập hội cho những thành viên được bao nhiêu?
+
+Vấn đề ở đây tương tự như những câu hỏi về tự do ngôn luận ở Hoa
+Kỳ về cá nhân nhưng ở môi trường thương mại.  Ví dụ những chuyện
+như những cuộc biểu tình nào là có thể ở khu thương mại.  Cho dù
+tốt hay xấu, những nền tảng yểm trợ không gian công nối mạng được
+nắm giữ và điều hành bởi tư nhân; Clinton cam kết Hoa Kỳ sẽ làm
+việc với những công ty đó.  Thế nhưng không chắc rằng không có
+một khung pháp lý nào đó, như cái cho ngôn luận và hoạt động của
+thế giới thực, sự thuyết phục đạo đức sẽ là đủ để làm cho những
+thành phần thương mại tin để yểm trợ tự do ngôn luận và lập hội.
+
+Thật là hay nếu có một bộ những chiến thuật ngắn hạn uyển chuyển
+mà có thể được dùng nhằm đối phó những chính quyền khác nhau vào
+những thời điểm khác nhau.  Thế nhưng những đòi hỏi của hành chính
+công ở thực tế có nghĩa là những gì mong muốn nhất có lẽ không
+thể.  Những nhà hoạt động ở cả chính quyền áp chế và dân chủ sẽ
+dùng Internet và những tiện ích liên quan nhằm gây ảnh hưởng
+đến thay đổi ở quốc gia của họ.  Thế nhưng khả năng của Washington
+để định hướng hay nhắm đến những thay đổi này là có giới hạn.
+Thay vì vậy Washington nên chấp nhận một tiếp cận toàn thể hơn,
+khuyến khích tự do ngôn luận, tự do báo chí, và tự do hội họp
+bất cứ nơi đâu.  Và họ nên hiểu cho rằng sự tiến triển sẽ diễn
+ra chậm chạp.  Chỉ bằng cách chuyển từ quan điểm phương tiện
+sang quan điểm hoàn cảnh về ảnh hưởng của truyền thông xã hội
+đến không gian công cộng thì Hoa Kỳ sẽ có thể tận dụng những lợi
+ích lâu dài mà những tiện ích này hứa hẹn -- cho dù điều này có
+nghĩa là chấp nhận thất vọng trước mắt.
+
+== === ==
+
+Nguồn: <a href="http://fam.ag/gnRjqs">The Political Power of Social Media</a>,
+Clay Shirky, Foreign Affairs, Jan/Feb 2011.
+
+http://fam.ag/gnRjqs
+
+== === ==
+
+(*): Vào ngày 19 tháng Giêng, 2001, Tham mưu trưởng Quân đội
+Philippine là Angelo Reynes không ủng hộ Estrada và chuyển sang
+ủng hộ phó tổng thống bà Gloria Macapagal-Arroyo. ND.
+
+<i>tin nhắn</i>: được dùng trong bài để chỉ text message, hay
+còn gọi là SMS, thay vì từng được dùng với nghĩa tin nhắn
+của beeper, pager. ND.
