@@ -1,0 +1,10 @@
+Collection of translated works (finished and unfinished) by me, Tuan,
+and other members of x-cafevn.org
+
+Requirements:
+* htmlizer.pl from my PersonsalTools @ https://github.com/neofob/PersonalTools/
+* make
+* perl
+
+Note: The text files (.txt) are edited by gnome-terminal with VIQR input mode.
+The files are saved in UTF-8 encoding.
