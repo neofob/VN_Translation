@@ -159,6 +159,7 @@ thành chiến tranh cao.
 <i>staff writer:</i> phóng viên trụ cột, tay viết thường xuyên
 của tờ báo
 
+<!--
 ---oOo---
 
 Suy nghĩ riêng: Trung Quốc đã và đang xây dựng một hải cảng
@@ -168,7 +169,7 @@ hàng 8 máy bay P-8I tuần duyên chống tàu ngầm (4 chiếc đầu
 tiên sẽ được giao vào năm 2012), một lô tên lửa chống hạm
 Harpoon, 6 tàu ngầm lớp Scorpene, có thể sẽ mua 6 máy bay cảnh
 báo sớm E-2D...
-
+-->
 
 URL:
 http://www.csmonitor.com/World/Asia-South-Central/2010/0830/China-warships-dock-in-Burma-rattling-rival-naval-power-India
