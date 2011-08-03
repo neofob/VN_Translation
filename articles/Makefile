@@ -4,7 +4,7 @@
 
 # Lists of html files to be generated in groups of five
 
-LIST4=US_India.html AmericaEdge.html
+LIST4=US_India.html AmericasEdge.html
 LIST3=020811_NYT.html 021611_CFR.html ChokePoint_vn.html ChokePoint_Solar_vn.html JWebb.html
 LIST2=1107.html 020711_CSM.html 020711_Tunisia.html 020711_food.html 020711_1989.html
 LIST1=HumanRights.html fp_invRace_vn.html NextEmpire_vn.html ngoai_giao.html china_iran.html
@@ -21,7 +21,7 @@ all: $(OUTPUT)
 US_India.html: US_India.txt
 	htmlizer.pl -t="Một bước tiến trong hợp tác quốc phòng Hoa Kỳ -- Ấn Độ" US_India.txt
 
-AmericaEdge.html: AmericaEdge.txt
+AmericasEdge.html: AmericasEdge.txt
 	htmlizer.pl -a="Anna-Marie Slaughter" -t="Lợi thế Hoa Kỳ" AmericasEdge.txt
 
 ################################################################################
