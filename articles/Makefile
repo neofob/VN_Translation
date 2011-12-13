@@ -4,7 +4,7 @@
 
 # Lists of html files to be generated in groups of five
 
-LIST4=US_India.html AmericasEdge.html
+LIST4=OCA.html US_India.html AmericasEdge.html
 LIST3=020811_NYT.html 021611_CFR.html ChokePoint_vn.html ChokePoint_Solar_vn.html JWebb.html
 LIST2=1107.html 020711_CSM.html 020711_Tunisia.html 020711_food.html 020711_1989.html
 LIST1=HumanRights.html fp_invRace_vn.html NextEmpire_vn.html ngoai_giao.html china_iran.html
@@ -16,7 +16,10 @@ all: $(OUTPUT)
 
 
 ################################################################################
-# LIST4 = US_India.html
+# LIST4 = US_India.html AmericasEdge.html
+
+OCA.html: OCA.txt
+	htmlizer.pl -t="Hãy chiếm giữ Đại Lộ Trường An" -a="Wu Yun -- Alec Ash translated" OCA.txt
 
 US_India.html: US_India.txt
 	htmlizer.pl -t="Một bước tiến trong hợp tác quốc phòng Hoa Kỳ -- Ấn Độ" US_India.txt
