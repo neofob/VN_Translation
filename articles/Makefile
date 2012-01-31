@@ -1,10 +1,10 @@
 # Silly Makefile for the unicode UTF8 html files
 # Author: Tuan T. Pham
-# Last updated: 08/02/11
+# Last updated: 01/31/12
 
 # Lists of html files to be generated in groups of five
 
-LIST4=OW.html OCA.html US_India.html AmericasEdge.html
+LIST4=XuanVan.html OW.html OCA.html US_India.html AmericasEdge.html
 LIST3=020811_NYT.html 021611_CFR.html ChokePoint_vn.html ChokePoint_Solar_vn.html JWebb.html
 LIST2=1107.html 020711_CSM.html 020711_Tunisia.html 020711_food.html 020711_1989.html
 LIST1=HumanRights.html fp_invRace_vn.html NextEmpire_vn.html ngoai_giao.html china_iran.html
@@ -15,8 +15,11 @@ OUTPUT=$(LIST0) $(LIST1) $(LIST2) $(LIST3) $(LIST4)
 all: $(OUTPUT)
 
 ################################################################################
-# LIST4 =OW.html OCA.html US_India.html AmericasEdge.html
+# LIST4 =XuanVan.html OW.html OCA.html US_India.html AmericasEdge.html
 
+XuanVan.html: XuanVan.txt
+	htmlizer.pl -t="Nhớ nhà: Tại sao người di trú Trung Quốc sẽ làm 3.2 Tỷ chuyến đi trong 40 ngày"\
+-a="Helen Gao" XuanVan.txt
 OW.html: OW.txt
 	htmlizer.pl -t="Chiếm giữ Ô Khảm" -a="Elizabeth C. Economy" OW.txt
 OCA.html: OCA.txt
