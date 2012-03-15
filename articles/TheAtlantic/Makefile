@@ -4,7 +4,7 @@
 
 # Lists of html files to be generated in groups of five
 
-LIST0=ElegantDecline.html NextEmpire.html NgoaiGiao.html XuanVan.html
+LIST0=ElegantDecline.html NextEmpire.html NgoaiGiao.html XuanVan.html ChinaIran.html
 
 OUTPUT=$(LIST0)
 
@@ -25,6 +25,9 @@ NextEmpire.html: NextEmpire.txt
 
 ElegantDecline.html: ElegantDecline.txt
 	htmlizer.pl -a="Robert D. Kaplan" -t="Sự Suy Thoái Tao Nhã" ElegantDecline.txt
+
+ChinaIran.html: ChinaIran.txt
+	htmlizer.pl -a="Kaplan D. Kaplan" -t="Bài Học Từ Trung Quốc và Iran" ChinaIran.txt
 
 clean:
 	rm -fr *.html
