@@ -6,7 +6,8 @@
 
 LIST0=NBR_US_India.html NYT_020811.html COB_ChokePoint.html COB_ChokePoint_Solar.html JTO_020711.html
 LIST1=LE_020711.html JTO_020611.html TN_HumanRights.html FP_012711.html FP_1210.html
-LIST2=OCA.html STRATFOR_RDK_1848.html STRATFOR_GeoChina.html
+LIST2=OCA.html STRATFOR_GeoChina.html
+# STRATFOR_RDK_1848.html 
 
 OUTPUT=$(LIST0) $(LIST1) $(LIST2)
 
