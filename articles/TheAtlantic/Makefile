@@ -1,14 +1,20 @@
 # Makefile for the unicode UTF8 html files
 # Author: Tuan T. Pham
-# Last updated: 02/14/12
+# Last updated: 02/22/12
 
 # Lists of html files to be generated in groups of five
 
+LIST1=VNSolution.html
 LIST0=ElegantDecline.html NextEmpire.html NgoaiGiao.html XuanVan.html ChinaIran.html
 
-OUTPUT=$(LIST0)
+OUTPUT=$(LIST0) $(LIST1)
 
 all: $(OUTPUT)
+
+################################################################################
+# LIST1 =VNSolution.html
+VNSolution.html: VNSolution.txt
+	htmlizer.pl -t="Giải Pháp Việt Nam" -a="Robert D. Kaplan" VNSolution.txt
 
 ################################################################################
 # LIST0 =XuanVan.html OW.html OCA.html US_India.html AmericasEdge.html
