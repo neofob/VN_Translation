@@ -4,7 +4,7 @@
 
 # Lists of html files to be generated in groups of five
 
-LIST1=VNSolution.html
+LIST1=VNSolution.html 4Signs.html
 LIST0=ElegantDecline.html NextEmpire.html NgoaiGiao.html XuanVan.html ChinaIran.html
 
 OUTPUT=$(LIST0) $(LIST1)
@@ -12,9 +12,12 @@ OUTPUT=$(LIST0) $(LIST1)
 all: $(OUTPUT)
 
 ################################################################################
-# LIST1 =VNSolution.html
+# LIST1 =VNSolution.html 4Signs.html
 VNSolution.html: VNSolution.txt
 	htmlizer.pl -t="Giải Pháp Việt Nam" -a="Robert D. Kaplan" VNSolution.txt
+
+4Signs.html: 4Signs.md
+	maruku 4Signs.md
 
 ################################################################################
 # LIST0 =XuanVan.html OW.html OCA.html US_India.html AmericasEdge.html
