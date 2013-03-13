@@ -77,4 +77,31 @@ bàn luận về một hệ thống chính trị mục ruỗng. Lê Văn Sơn d�
 của chính quyền là tất yếu.  Lê Quốc Quân chỉ trích vai trò trụ cột của Đảng Cộng
 Sản trong chính trị Việt Nam.
 
+Thật là hấp tấp mà cho rằng Việt Nam đang mở cửa bởi áp lực bởi cái mà Tạp Chí
+[*Time*](http://world.time.com/2012/12/27/vietnams-blogosphere-the-battleground-for-rival-factions-of-the-ruling-communists/#ixzz2GPoGDptL)
+gọi rằng "văn hóa biểu tình" đang trưởng thành.  Tạp chí *Economist* còn đưa
+ra giả thuyết là Đảng có nguy cơ đánh mất niềm tin mà nó nền tảng của quyền lực
+và đưa ra [cảnh báo](http://www.economist.com/news/asia/21570732-scandal-ridden-party-lashes-out-dissent-and-tries-tackle-corruption-thanh-man)
+rằng sự thất vọng của công luận đang gia tăng *"cho dù nó chưa đến mức dẫn đến
+cách mạng"*.
 
+Sau khi những cuộc biểu tình của Mùa Xuân Ả Rập làm rung chuyển Trung Đông
+và Bắc Phi, những kịch bản choáng váng của thay đổi được dự báo cho Iran
+Twitter, Trung Quốc Weibo, và Nga *blogging*. Những cuộc biểu tình về bầu
+cử vào năm 2009 ở Iran được gọi là Cách mạng Twitter.  Một trật tự xã hội
+mới? Christophe Deloire của Phóng viên Không Biên Giới gọi là "thời đại khiếp sợ"
+(0) với sự kiểm soát lan tràn bởi nhà nước và khủng bố không ngừng kể từ khi
+những cuộc biểu tình bắt đầu.  Ở những nước này cũng như ở Việt Nam, việc
+đàn áp những nhà bất đồng chính kiến và xu hướng gia tăng kiểm duyệt và kiểm
+soát là những điểm dừng cay đắng về dự đoán ngộp thở về một cuộc cách mạng.
+
+Hà Nội tỉnh ngộ ra rằng có một làn sóng dư luận trực tuyến trong nước và
+phản ứng đáp trả những nhà bất đồng chính kiến đang dò dẫm là chớp nhoáng
+và cực kỳ khắc nghiệt ngay cả đối với Đảng Cộng sản.  Sau đây là bốn dấu
+hiệu cho thấy ưu thế thuộc về Đảng và việc đàn áp bất đồng chính kiến sẽ
+tiếp tục một cách đáng sợ và hiệu quả.
+
+**1. Đảng đã thay đổi luật**
+
+(0): nguyên văn *era of terror*, chơi chữ từ *The Great Terror* từ thời kỳ
+được gọi là [*Đại thanh trừng*](http://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_thanh_tr%E1%BB%ABng) của Sô Viết. ND
