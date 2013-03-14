@@ -136,7 +136,7 @@ sát Việt Nam Martin Gainsbourough ghi nhận rằng công luận không
 còn niềm tin và nhận xét phổ thông là những quan tham "chẳng làm gì
 khác với những người khác."
 
-Một khi bị xử tù tùy tiện, một người phải có một sức mạnh hy hữu
+Một khi bị xử tù tùy tiện, người ta phải có một nghị lực hiếm có
 và can đảm để chỉ trích công khai nhà nước.
 
 **2. Những phiên tòa hình thức đã không gây phản đối nào**
@@ -153,7 +153,7 @@ trái chiều. Trong những phiên tòa hình thức mang dáng dấp của
 thời kỳ Sô Viết, những bài đả kích cay độc được dành cho những
 nhà viết blog và những phóng viên. Án chung thân có thể được
 tuyên trong một phiên tòa diễn ra trong hai ngày và các chánh án
-dễ dãi cho phép bên nhà nước độc quyền về chứng cứ.
+dễ dàng cho phép bên nhà nước độc quyền về chứng cứ.
 
 Sự đàn áp đang lấy đà đến mức Việt Nam có vẻ như trên đường
 đến hạng chót vào bảng sắp hạng năm 2013. Trong vòng hai tháng
