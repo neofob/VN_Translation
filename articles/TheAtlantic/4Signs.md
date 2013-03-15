@@ -81,8 +81,8 @@ Thật là hấp tấp mà cho rằng Việt Nam đang dần cởi mở do áp l
 mà Tạp Chí
 [*Time*](http://world.time.com/2012/12/27/vietnams-blogosphere-the-battleground-for-rival-factions-of-the-ruling-communists/#ixzz2GPoGDptL)
 gọi rằng "văn hóa biểu tình" đang trưởng thành. Tạp chí *Economist* còn đưa
-ra giả thuyết là Đảng có nguy cơ đánh mất quyền thế mà nó nền tảng của quyền lực
-và đưa ra [cảnh báo](http://www.economist.com/news/asia/21570732-scandal-ridden-party-lashes-out-dissent-and-tries-tackle-corruption-thanh-man)
+ra giả thuyết là Đảng đang đứng trước nguy cơ đánh mất đi tính chính nghĩa
+vốn đang là nền tảng quyền lực của mình và đưa ra [cảnh báo](http://www.economist.com/news/asia/21570732-scandal-ridden-party-lashes-out-dissent-and-tries-tackle-corruption-thanh-man)
 rằng sự thất vọng của công luận đang gia tăng *"cho dù nó chưa đến mức dẫn đến
 cách mạng"*.
 
@@ -184,7 +184,7 @@ bị giam vào tháng Sáu năm 2012 và vào tháng Mười 2012 có
 [thư phản đối](http://vietnamhumanrightsdefenders.wordpress.com/2012/11/02/letter-urging-president-truong-tan-sang-to-help-save-student-nguyen-phuong-uyen-arrested-by-the-police/)
 của các bạn học của một sinh viên bị bắt giam gởi đến Chủ
 tịch nước. Hai sự kiện đổ dầu vào lửa cho những chỉ trích
-trên mạng nhắm vào chính quyền thế nhưng tiếp sau đó là một
+trên mạng nhắm vào chính quyền nhưng tiếp sau đó là một
 sư im lặng đáng kể. Sau vụ bắt giữ Hoàng Khương vào năm 2011,
 một phóng viên điều tra làm rõ những vụ hối lộ của công an,
 công chúng lập tức cảm thấy bức xúc nhưng cũng chóng phai.
@@ -283,8 +283,8 @@ như vậy, sự suy giảm thu nhập gia đình của những gia đình Việ
 không giàu có là tai hại. Cũng vậy lạm phát gia tăng với giá cả
 sinh hoạt tăng trên 9 phần trăm trung bình mỗi tháng vào năm ngoái.
 
-Tệ hơn dự báo cho hay một khủng hoảng liên tục chứ hẳn chu kỳ, các
-nhà kinh tế đã nêu bật sự thiệt hại tai hại lâu dài. Sự mục ruỗng
+Tệ hơn dự báo cho hay một khủng hoảng liên tục chứ không hẳn chu kỳ,
+các nhà kinh tế đã nêu bật sự thiệt hại tai hại lâu dài. Sự mục ruỗng
 là do tham nhũng lan tràn và quản lý yếu kém của những đầu tàu công
 nghiệp Việt Nam, những tập đoàn quốc doanh. Một chuỗi những vụ
 đình đám kể từ năm 2011 đã bộc lộ quản lý yếu kém ở các tập đoàn
@@ -311,7 +311,7 @@ không lấy gì tin cậy của truyền thông xã hội cung cấp thêm nguy
 cho sự bất mãn. Đây là, suy cho cùng, lần đầu tiên kinh tế trì trệ của
 Việt Nam bị chỉ trích bởi cộng đồng mạng.
 
-Đứng trước nền móng lung lay quyền thế và danh tiếng quản lý kinh tế
+Đứng trước nền móng lung lay chính nghĩa và danh tiếng quản lý kinh tế
 của mình, Hà Nội sẽ tiếp tục điên cuồng cảnh giác trước những chỉ trích
 về cách chính sách kinh tế hoặc doanh nghiệp hàng đầu. Trên mặt trận
 dư luận quần chúng, nó sẽ dùng những vụ thanh trừng để trấn an công chúng.
@@ -346,6 +346,3 @@ Nói cách khác, sự đàn áp tiếp tục ở quốc gia nhát cáy này.
 
 (0): nguyên văn *era of terror*, chơi chữ từ *The Great Terror* từ thời kỳ
 được gọi là [*Đại thanh trừng*](http://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_thanh_tr%E1%BB%ABng) của Sô Viết. ND
-
-[*moral authority*](http://en.wikipedia.org/wiki/Moral_authority):
-tạm dịch là *quyền thế*, có lẽ không đúng. ND
