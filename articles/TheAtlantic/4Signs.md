@@ -10,7 +10,7 @@ CSS: ../neofob.css
 *Đảng Cộng sản đối phó với việc gia tăng viết blog chống chính quyền bằng
 một cuộc đàn áp đáng lo ngại.*
 
-```![Học sinh Việt Nam lướt Internet](http://cdn.theatlantic.com/static/mt/assets/international/vietnam%20internet.jpg)```  
+![Học sinh Việt Nam lướt Internet](http://cdn.theatlantic.com/static/mt/assets/international/vietnam%20internet.jpg)  
 Học sinh Việt Nam lướt Internet ở một quán cà phê ở Hà Nội, 18 tháng 3, 2004. (Reuters)
 
 Sau hơn một năm tạm giam, năm nhà blogger độc lập trong số những
@@ -81,7 +81,7 @@ Thật là hấp tấp mà cho rằng Việt Nam đang dần cởi mở do áp l
 mà Tạp Chí
 [*Time*](http://world.time.com/2012/12/27/vietnams-blogosphere-the-battleground-for-rival-factions-of-the-ruling-communists/#ixzz2GPoGDptL)
 gọi rằng "văn hóa biểu tình" đang trưởng thành. Tạp chí *Economist* còn đưa
-ra giả thuyết là Đảng có nguy cơ đánh mất niềm tin mà nó nền tảng của quyền lực
+ra giả thuyết là Đảng có nguy cơ đánh mất quyền thế mà nó nền tảng của quyền lực
 và đưa ra [cảnh báo](http://www.economist.com/news/asia/21570732-scandal-ridden-party-lashes-out-dissent-and-tries-tackle-corruption-thanh-man)
 rằng sự thất vọng của công luận đang gia tăng *"cho dù nó chưa đến mức dẫn đến
 cách mạng"*.
@@ -251,15 +251,101 @@ soát hình ảnh của nó. Những tin tặc yêu nước thường xuyên
 đánh gục các trang mạng với thông tin trái chiều và những
 website có máy chủ ở ngoài Việt Nam bằng cách sử dụng các
 tấn công từ chối dịch vụ (DDoS). Tổ chức Sáng kiến Mạng Mở
-(OpenNet Initiative) ghi nhật các vụ tấn công ngày càng tinh
-vi nhắm vào các trang mạng trái chiều và tay viết độc lập.
-Trong một vụ tấn công trùng hợp với ngày tổ chức phản đối
-việc bắt giam blogger Điếu Cày, mã độc nhiễm khoảng từ 10 000
-cho đến 20 000 máy tính, hầu hết là ở trong nước. Cho dù
-các mối liên hệ rõ ràng đến Hà Nội khó mà xác lập, mục tiêu
-của các vụ tấn công tinh vi có thể tin rằng là lỗi của nhà
-nước.
+(OpenNet Initiative)
+[ghi nhận](http://opennet.net/research/profiles/vietnam)
+các vụ tấn công ngày càng tinh vi nhắm vào các trang mạng
+trái chiều và tay viết độc lập. Trong một vụ tấn công trùng
+hợp với ngày tổ chức phản đối việc bắt giam blogger Điếu Cày,
+mã độc nhiễm khoảng từ 10 000 cho đến 20 000 máy tính, hầu
+hết là ở trong nước. Cho dù các mối liên hệ rõ ràng đến Hà
+Nội khó mà xác lập, mục tiêu của các vụ tấn công tinh vi
+có thể tin rằng là lỗi của nhà nước.
 
+**4. Kinh tế trì trệ**
+
+Việt Nam được mang danh là một con Rồng Châu Á kể từ khi mở
+cửa kinh tế bắt đầu vào năm 1986, sau Đổi Mới, những cải cách
+đưa đến hai thập niên của phát triển. Kể từ 2002 cho đến 2007,
+Việt Nam đạt được một tăng trưởng hàng năm
+[đều đặn trên 7 phần trăm](http://www.google.co.uk/publicdata/explore?ds=d5bncppjof8f9_&met_y=ny_gdp_mktp_kd_zg&idim=country:VNM&dl=en&hl=en&q=vietnam+gdp+growth).
+Giới trung lưu cũng tăng lên, và cho dù dân thành thị ở
+thành phố Hà Nội và thành phố Hồ Chí Minh hưởng lợi nhiều nhất
+từ việc mở rộng các dịch vụ và thị trường việc làm chuyên nghiệp,
+các thành phố bùng nổ ngoài hai thành phố này. Điều này mang lại
+một phần lớn dân Việt Nam vào tầng lớp đặc quyền.
+
+Kể từ khi suy thoái kinh tế 2008 làm lụn bại nền kinh tế toàn cầu,
+tăng trưởng của Việt Nam đã
+[trì trệ](http://www.foreignpolicy.com/articles/2012/11/20/southeast_asia_s_economic_poster_child_is_stalling?page=0,0)
+, giảm xuống khoảng 5 phần trăm vào năm 2012. Trong khi nhiều nước
+thu nhập cao sẽ đánh đổi độc quyền trong nước để có mức độ phát triển
+như vậy, sự suy giảm thu nhập gia đình của những gia đình Việt Nam
+không giàu có là tai hại. Cũng vậy lạm phát gia tăng với giá cả
+sinh hoạt tăng trên 9 phần trăm trung bình mỗi tháng vào năm ngoái.
+
+Tệ hơn dự báo cho hay một khủng hoảng liên tục chứ hẳn chu kỳ, các
+nhà kinh tế đã nêu bật sự thiệt hại tai hại lâu dài. Sự mục ruỗng
+là do tham nhũng lan tràn và quản lý yếu kém của những đầu tàu công
+nghiệp Việt Nam, những tập đoàn quốc doanh. Một chuỗi những vụ
+đình đám kể từ năm 2011 đã bộc lộ quản lý yếu kém ở các tập đoàn
+quốc doanh làm thất thoát hàng tỷ USD và nợ xấu. Đây là cú đánh chí
+tử vào hồ sơ quản lý của Hà Nội do các tập đoàn quốc doanh đem lại
+40 phần trăm sản lượng quốc gia.
+
+Đối phó với chuyện này, Hà Nội đã phát động những vụ thanh trừng công
+khai các lãnh đạo của các tập đoàn quốc doanh, đáng chú ý là chủ tịch
+và bốn giám đốc điều hành của công ty vận tải biển lớn nhất Việt Nam,
+Vinalines, và 9 vị giám đốc điều hành của công ty đóng tàu Vinashin.
+Tất cả đều bị bắt hoặc bỏ tù vào năm 2012.
+
+Liên can đến đống tập đoàn quốc doanh là Việt Nam rớt hạng ở
+[Chỉ số Cảm nhận Tham nhũng](http://cpi.transparency.org/cpi2012/results/)
+(Corruption Perceptions Index) xuống hạng 123 vào năm 2012 từ 112
+vào năm 2011. Thứ hạng thấp có thể cho thấy là các quan chức chính phủ
+dần dần áp dụng luật một cách tùy tiện và theo tư lợi, hay đơn giản là
+các công dân ngày càng nhận thức hơn nạn dịch tham nhũng.
+
+Đảng biết rằng những chính quyền có vẻ vững chắc bề ngoài có thể sụp
+đổ khi đối mặt với kinh tế chậm chạp, và nó sẽ không để sức mạnh
+không lấy gì tin cậy của truyền thông xã hội cung cấp thêm nguyên liệu
+cho sự bất mãn. Đây là, suy cho cùng, lần đầu tiên kinh tế trì trệ của
+Việt Nam bị chỉ trích bởi cộng đồng mạng.
+
+Đứng trước nền móng lung lay quyền thế và danh tiếng quản lý kinh tế
+của mình, Hà Nội sẽ tiếp tục điên cuồng cảnh giác trước những chỉ trích
+về cách chính sách kinh tế hoặc doanh nghiệp hàng đầu. Trên mặt trận
+dư luận quần chúng, nó sẽ dùng những vụ thanh trừng để trấn an công chúng.
+
+**oOo**
+
+Việc đàn áp bất đồng chính kiến ở Việt Nam là về chuyện kiểm soát.
+Đảng Cộng Sản Việt Nam là người bảo vệ và nhân tố quyết định trường
+kỳ của dân tộc Việt Nam, theo cách nói hoa mỹ của Hà Nội. Quá khứ
+gần đây của Việt Nam đầy ắp những sự kiện mà những biểu ngữ giăng khắp
+phố có thể thay đổi cứ vài mỗi tuần.
+
+Bản chất của Đảng, và có phần cả nước, là không bao giờ bị miễn nhiễm
+khỏi chi rẽ thế nhưng cuộc đấu tranh luôn là nội bộ, nếu không kể đến
+mối bất hòa lâu đời với một số sắc dân thiểu số. Đảng ngày nay đối mặt
+với mâu thuẫn nội bộ giữa phe thân Thủ tướng Dũng và những người ôn hòa
+như Nguyễn Phú Trọng, tổng bí thư. Cách đây mười năm đó là những cựu binh
+của chiến tranh chống Pháp
+[đụng độ](http://www.time.com/time/magazine/article/0,9171,543839,00.html)
+với viễn kiến của đám phe Dũng.
+
+Hiểm họa mới là bất mãn xã hội bị khuyếch đại bởi mạng internet.
+Nó đã bị vô hiệu hóa một cách sắc sảo bởi Hà Nội trong một cố gắng
+trùng hợp với suy thoái kinh tế toàn cầu và trở nên tàn nhẫn sau Mùa
+Xuân Ả Rập mà nó tạo những tiền lệ cho sự sụp đổ chế độ bất ngờ.
+Thông điệp của những biến động là cảnh giác. Dũng đã cho thấy bài học
+không bị chính quyền của ông lãng quên với một lời cảnh báo dịp Tết
+rằng "chúng ta thường xuyên bị thách thức bởi những âm mưu gây bất ổn
+chính trị xã hội."
+
+Nói cách khác, sự đàn áp tiếp tục ở quốc gia nhát cáy này.
 
 (0): nguyên văn *era of terror*, chơi chữ từ *The Great Terror* từ thời kỳ
 được gọi là [*Đại thanh trừng*](http://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_thanh_tr%E1%BB%ABng) của Sô Viết. ND
+
+[*moral authority*](http://en.wikipedia.org/wiki/Moral_authority):
+tạm dịch là *quyền thế*, có lẽ không đúng. ND
