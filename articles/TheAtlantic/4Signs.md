@@ -325,7 +325,7 @@ gần đây của Việt Nam đầy ắp những sự kiện mà những biểu 
 phố có thể thay đổi cứ vài mỗi tuần.
 
 Bản chất của Đảng, và có phần cả nước, là không bao giờ bị miễn nhiễm
-khỏi chi rẽ thế nhưng cuộc đấu tranh luôn là nội bộ, nếu không kể đến
+khỏi chia rẽ thế nhưng chuyện đấu đá luôn là nội bộ, nếu không kể đến
 mối bất hòa lâu đời với một số sắc dân thiểu số. Đảng ngày nay đối mặt
 với mâu thuẫn nội bộ giữa phe thân Thủ tướng Dũng và những người ôn hòa
 như Nguyễn Phú Trọng, tổng bí thư. Cách đây mười năm đó là những cựu binh
