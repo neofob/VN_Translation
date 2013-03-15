@@ -7,7 +7,7 @@ CSS: ../neofob.css
 *neofob* chuyển ngữ; **Nguồn:** [http://bit.ly/16nxICN](http://bit.ly/16nxICN)
 
 
-*Đảng Cộng sản đối phó với việc gia tăng blogging chống chính quyền bằng
+*Đảng Cộng sản đối phó với việc gia tăng viết blog chống chính quyền bằng
 một cuộc đàn áp đáng lo ngại.*
 
 ```![Học sinh Việt Nam lướt Internet](http://cdn.theatlantic.com/static/mt/assets/international/vietnam%20internet.jpg)```  
@@ -44,7 +44,7 @@ tốc độ thay đổi là ấn tượng. Số người dùng internet tăng
 từ năm 2010 đến 2011 và chính phủ vừa công bố một kế hoạch
 băng thông rộng hướng đến bao phủ
 [85 phần trăm dân số](http://moj.gov.vn/vbpq/en/Lists/Vn%20bn%20php%20lut/View_Detail.aspx?ItemID=10749)
-trước năm 2015. Tốc độ tăng trưởng của Việt Nam ở công nghệ thông tin và viễn thông (ITC),
+trước năm 2015. Tốc độ tăng trưởng của Việt Nam về công nghệ thông tin và viễn thông (ITC),
 theo ước lượng của Chỉ số Phát triển ICT, là một trong hàng cao nhất trên thế giới.
 Trong một bản báo cáo quốc gia, Liên minh Viễn thông Quốc tế
 [cho hay] (http://www.itu.int/ITU-D/tech/broadband_networks/WirelessBDMasterPlans_ASP/WBB_MasterPlan_VietNam.pdf)
@@ -66,7 +66,7 @@ tháng 9 năm 2012. Một số khác nổi tiếng bởi bút hiệu như Nguy�
 còn được biết là Điếu Cày, sáng lập viên của một hội bị cấm, Câu Lạc Bộ những
 Nhà báo Tự do.
 
-Các nhà viết blog phong phú thu hút nhiều người đọc bằng tường thuật về những
+Các nhà viết blog "mắn tay" thu hút nhiều người đọc bằng tường thuật về những
 sự kiện và những vấn đề bị ngăn chặn bởi các nhà kiểm duyệt của chính quyền.
 Lấy ví dụ Điếu Cày, nổi tiếng vì tường thuật những cuộc biểu tình về những
 tuyên bố về những tranh chấp ở Biển Đông. Cựu sĩ quan Công an Tạ Phong Tần
@@ -125,16 +125,15 @@ theo như Bộ Ngoại Giao Hoa Kỳ chỉ ra trong
 [bản báo cáo nhân quyền](http://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm#wrapper)
 năm 2011.
 
-
-Tuyên truyền chống nhà nước có thể lãnh đến 20 năm tù. Đi kèm với
-hình phạt khắc nghiệt, những luật mơ hồ về những gì cấu thành tội
-ngày càng đáng báo động. Một phần của cách chính quyền tiếp
+Tuyên truyền chống nhà nước có thể lãnh án đến 20 năm tù. Đi kèm
+với hình phạt khắc nghiệt, những luật mơ hồ về những gì cấu thành
+tội ngày càng đáng báo động. Một phần của cách chính quyền tiếp
 cận là làm cho dân chúng liên tục phỏng đoán: Một chiến lược khéo
 léo để khuyến khích tự kiểm duyệt đã được dùng hàng chục năm. Trong
 thời kỳ thanh trừng thanh nhũng vào cuối những năm 1990, nhà quan
-sát Việt Nam Martin Gainsbourough ghi nhận rằng công luận không
-còn niềm tin và nhận xét phổ thông là những quan tham "chẳng làm gì
-khác với những người khác."
+sát Việt Nam Martin Gainsbourough ghi nhận rằng sự hoài nghi của công
+luận trước những sự thất sủng có vẻ ngẫu nhiên, nhận xét phổ thông
+là những kẻ phạm tội "chẳng làm gì khác với người."
 
 Một khi bị xử tù tùy tiện, người ta phải có một nghị lực hiếm có
 và can đảm để chỉ trích công khai nhà nước.
@@ -148,20 +147,78 @@ Nam Á theo chỉ số biên soạn bởi Phóng viên Không Biên Giới do
 sự đàn áp của Đảng đối với những nhà viết blog.
 
 Trong năm vừa qua, Đảng thông qua kiểm soát tư pháp chặt chẽ,
-đã dựng một loạt những phiên tòa hình thức những nhà tư tưởng
-trái chiều. Trong những phiên tòa hình thức mang dáng dấp của
-thời kỳ Sô Viết, những bài đả kích cay độc được dành cho những
-nhà viết blog và những phóng viên. Án chung thân có thể được
+đã dựng một loạt những phiên tòa hình thức cho những nhà tư
+tưởng trái chiều. Trong những phiên tòa hình thức mang dáng dấp
+của thời kỳ Sô Viết, những bài đả kích cay độc được dành cho các
+nhà viết blog và các phóng viên. Án chung thân có thể được
 tuyên trong một phiên tòa diễn ra trong hai ngày và các chánh án
 dễ dàng cho phép bên nhà nước độc quyền về chứng cứ.
 
-Sự đàn áp đang lấy đà đến mức Việt Nam có vẻ như trên đường
-đến hạng chót vào bảng sắp hạng năm 2013. Trong vòng hai tháng
+Sự đàn áp đang lên đến mức Việt Nam có vẻ như trên đường đến
+hạng chót vào bảng sắp hạng năm 2013. Trong vòng hai tháng
 vừa qua, năm nhà viết blog đã bị kết án về những tội an ninh
 nhà nước, một người khác bị ép đưa vào viện tâm thần và 22 nhà
-hoạt động bị cầm tù vì tội lật đổ và tuyên án từ 10 năm tù
-cho đến tù chung thân.
+hoạt động bị cầm tù vì tội lật đổ và bị tuyên án từ 10 năm tù
+cho đến tù chung thân. Vào những ngày cuối năm 2012, luật sư
+nhân quyền và viết blog Lê Quốc Quân bị bắt và buộc tội trốn
+thuế. Vào tháng Chín, ba nhà viết blog độc lập và đồng sáng lập
+Câu lạc bộ Nhà báo Tự do bị tuyên án 12, 10, và bốn năm tù giam
+ngay cả sau khi việc bắt giữ làm dư luận quốc tế lên án kể cả
+từ [Nhà Trắng](http://www.whitehouse.gov/the-press-office/2012/05/03/statement-president-world-press-freedom-day).
 
+Theo Ủy ban Bảo vệ các Nhà báo, Việt Nam đã gia tăng tích cóp
+con số nhà báo trong tù trong vòng nhiều năm qua. Và trong năm
+2012 Việt Nam
+[đứng hạng](http://cpj.org/reports/2012/12/imprisoned-journalists-world-record.php)
+thứ sáu tồi tệ nhất về bỏ tù phóng viên. Ủy ban ghi chú rằng tất
+cả phóng viên đều viết báo trực tuyến hoặc viết blog ngoại trừ một người.
+
+Những cuộc bắt bớ và hình phạt khắc nghiệt cho các nhà báo, kể cả
+công dân viết blog, không phải là những trường hợp ngoại lệ mà là
+dấu chỉ của một chuyển biến rõ rệt trong chiến lược của chính quyền.
+Đáng chú ý là sự chuyển biến diễn ra mà không có phản ứng dư luận
+như người ta có thể hy vọng.
+
+Có những vụ đình đám như vụ tự thiêu của một bà mẹ của một nhà báo
+bị giam vào tháng Sáu năm 2012 và vào tháng Mười 2012 có
+[thư phản đối](http://vietnamhumanrightsdefenders.wordpress.com/2012/11/02/letter-urging-president-truong-tan-sang-to-help-save-student-nguyen-phuong-uyen-arrested-by-the-police/)
+của các bạn học của một sinh viên bị bắt giam gởi đến Chủ
+tịch nước. Hai sự kiện đổ dầu vào lửa cho những chỉ trích
+trên mạng nhắm vào chính quyền thế nhưng tiếp sau đó là một
+sư im lặng đáng kể. Sau vụ bắt giữ Hoàng Khương vào năm 2011,
+một phóng viên điều tra làm rõ những vụ hối lộ của công an,
+công chúng lập tức cảm thấy bức xúc nhưng cũng chóng phai.
+
+Tại sao những tia lửa này không tiếp tục cháy?
+
+Có vẻ như dự đoán được lòng công chúng và ý thức được quyền lực không
+chắc chắn của mình, chính quyền Việt Nam đã nhục mạ một cách có hệ
+thống những người bị xử án. Một phương pháp là có những buộc tội lố
+bịch ví dụ như những buộc tội chống lại Nguyễn Phương Uyên, sinh viên
+20 tuổi thoạt tiên bị bắt giam vì tội tuyên truyền chống nhà nước và
+bây giờ là bị điều tra vì tội khủng bố. Theo các bạn học của cô, tội
+thật của cô là phát tán truyền đơn chống chính sách ngoại giao của
+Trung Quốc.
+
+Phương pháp thứ hai là lột bỏ cá tính của họ. Sau khi bị bắt giam,
+Lê Quốc Quân được [giới thiệu](http://online.wsj.com/article/SB10001424127887323300404578206893003292384.html)
+đến bạn đọc của tờ *Wall Street Journal* là "một trong những nhà
+bất đồng chính kiến nổi tiếng nhất của Việt Nam", là tác giả của một
+blog nổi tiếng, là luật sư nhân quyền và là nhà tư vấn pháp luật,
+và là cựu nghiên cứu sinh của một hội do chính phủ Hoa Kỳ tài trợ
+ở Washington. Trên báo chí quốc doanh ở Việt Nam, Quân trở thành
+một chức vị lờ mờ "giám đốc của Công ty Giải pháp Việt Nam."
+
+*3. Đảng có thể đang chiếm lấy dư luận*
+
+Một nhân tố chủ yếu trong việc pha loãng cơn giận dữ của công chúng
+là chiến lược viễn thông trực tuyến của Đảng.
+
+Ẩn danh trên mạng vừa nguy hiểm vừa là cơ hội cho các chính quyền,
+cả độc đoán lẫn dân chủ. Đảng đã không giao nhiệm vụ gì cho các cảm
+tình viên theo đuổi những còm của các bài báo trên mạng, và một cách
+nặc danh đưa nó lại với những đường lối của đảng? Nếu không phải là
+chỉ thị trực tiếp, những du kích đã có sự chấp thuận ngầm.
 
 (0): nguyên văn *era of terror*, chơi chữ từ *The Great Terror* từ thời kỳ
 được gọi là [*Đại thanh trừng*](http://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_thanh_tr%E1%BB%ABng) của Sô Viết. ND
