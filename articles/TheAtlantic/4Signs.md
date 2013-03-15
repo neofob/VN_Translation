@@ -206,10 +206,10 @@ Lê Quốc Quân được [giới thiệu](http://online.wsj.com/article/SB10001
 bất đồng chính kiến nổi tiếng nhất của Việt Nam", là tác giả của một
 blog nổi tiếng, là luật sư nhân quyền và là nhà tư vấn pháp luật,
 và là cựu nghiên cứu sinh của một hội do chính phủ Hoa Kỳ tài trợ
-ở Washington. Trên báo chí quốc doanh ở Việt Nam, Quân trở thành
-một chức vị lờ mờ "giám đốc của Công ty Giải pháp Việt Nam."
+ở Washington. Trên báo chí quốc doanh ở Việt Nam, Quân được biết
+đến với một chức vị lờ mờ "giám đốc của Công ty Giải pháp Việt Nam."
 
-*3. Đảng có thể đang chiếm lấy dư luận*
+**3. Đảng có thể đang chiếm lấy dư luận**
 
 Một nhân tố chủ yếu trong việc pha loãng cơn giận dữ của công chúng
 là chiến lược viễn thông trực tuyến của Đảng.
@@ -219,6 +219,47 @@ cả độc đoán lẫn dân chủ. Đảng đã không giao nhiệm vụ gì c
 tình viên theo đuổi những còm của các bài báo trên mạng, và một cách
 nặc danh đưa nó lại với những đường lối của đảng? Nếu không phải là
 chỉ thị trực tiếp, những du kích đã có sự chấp thuận ngầm.
+
+Việc sử dụng các dư luận viên của chính quyền thu hút chú ý ở một
+diễn đàn vào năm 2011 về xung đột truyền thông xã hội tổ chức bởi Viện
+Hòa Bình của Hoa Kỳ (Institute of Peace). Những người thuyết trình
+suy tưởng về việc ngày càng khó khăn để phân biệt giữa những người
+ủng hộ độc lập và những dư luận viên chính phủ. Khoác lên vỏ bọc ẩn
+danh và nâng cao đều đặn cách viết truyền thông xã hội (một sự pha
+trộn giữa tiếng lóng và phong cách), các nhà bình luận của chính phủ
+hòa mình vào cuộc chơi.
+
+Vào tháng Giêng, người đứng đầu của Ban Tuyên Giáo và Bộ Giáo Dục của
+Đảng Cộng Sản tiết lộ rằng những người viết blog thân chính phủ được
+triển khai với hơn 400 tài khoản trực tuyến và 20 blog để đánh bóng
+Đảng và đánh trả lại chỉ trích. Con số người viết blog quốc doanh
+là không biết được nhưng được ước tính là gần 1000. Không có vẻ gì
+là xấu hổ hay thận trọng, Hồ Quang Lợi nói với
+[BBC](http://www.bbc.co.uk/news/world-asia-20982985)
+về sự thành công của chính sách nhằm chấm dứt những
+tin đồn thất thiệt về những vấn đề nhạy cảm và thật
+sự ngăn chặn những nỗ lực trên mạng nhằm tổ chức
+tụ tập đông người.
+
+Việc thao túng dư luận có hiệu quả và có thể sẽ tiếp tục một
+khi Đảng không dùng kỹ thuật tinh vi hơn mà dùng những dư
+luận viên đáng tin hơn: những người có thể chuyển tải một
+diện mạo hiện đại và "bình dân" đằng sau avtar.
+
+Đảng đang sử dụng những công cụ khác tinh vi hơn để kiểm
+soát hình ảnh của nó. Những tin tặc yêu nước thường xuyên
+đánh gục các trang mạng với thông tin trái chiều và những
+website có máy chủ ở ngoài Việt Nam bằng cách sử dụng các
+tấn công từ chối dịch vụ (DDoS). Tổ chức Sáng kiến Mạng Mở
+(OpenNet Initiative) ghi nhật các vụ tấn công ngày càng tinh
+vi nhắm vào các trang mạng trái chiều và tay viết độc lập.
+Trong một vụ tấn công trùng hợp với ngày tổ chức phản đối
+việc bắt giam blogger Điếu Cày, mã độc nhiễm khoảng từ 10 000
+cho đến 20 000 máy tính, hầu hết là ở trong nước. Cho dù
+các mối liên hệ rõ ràng đến Hà Nội khó mà xác lập, mục tiêu
+của các vụ tấn công tinh vi có thể tin rằng là lỗi của nhà
+nước.
+
 
 (0): nguyên văn *era of terror*, chơi chữ từ *The Great Terror* từ thời kỳ
 được gọi là [*Đại thanh trừng*](http://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_thanh_tr%E1%BB%ABng) của Sô Viết. ND
