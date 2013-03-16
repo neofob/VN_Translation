@@ -179,8 +179,8 @@ dấu chỉ của một chuyển biến rõ rệt trong chiến lược của ch
 Đáng chú ý là sự chuyển biến diễn ra mà không có phản ứng dư luận
 như người ta có thể hy vọng.
 
-Có những vụ đình đám như vụ tự thiêu của một bà mẹ của một nhà báo
-bị giam vào tháng Sáu năm 2012 và vào tháng Mười 2012 có
+Có những biến cố trọng đại như vụ tự thiêu của một bà mẹ của một nhà báo
+bị giam vào tháng Bảy năm 2012 và vào tháng Mười 2012 có
 [thư phản đối](http://vietnamhumanrightsdefenders.wordpress.com/2012/11/02/letter-urging-president-truong-tan-sang-to-help-save-student-nguyen-phuong-uyen-arrested-by-the-police/)
 của các bạn học của một sinh viên bị bắt giam gởi đến Chủ
 tịch nước. Hai sự kiện đổ dầu vào lửa cho những chỉ trích
@@ -311,10 +311,11 @@ không lấy gì tin cậy của truyền thông xã hội cung cấp thêm nguy
 cho sự bất mãn. Đây là, suy cho cùng, lần đầu tiên kinh tế trì trệ của
 Việt Nam bị chỉ trích bởi cộng đồng mạng.
 
-Đứng trước nền móng lung lay chính nghĩa và danh tiếng quản lý kinh tế
-của mình, Hà Nội sẽ tiếp tục điên cuồng cảnh giác trước những chỉ trích
-về cách chính sách kinh tế hoặc doanh nghiệp hàng đầu. Trên mặt trận
-dư luận quần chúng, nó sẽ dùng những vụ thanh trừng để trấn an công chúng.
+Đảng đang đứng trước nguy cơ đánh mất đi tính chính nghĩa vốn đang là
+nền tảng quyền lực của mình và danh tiếng quản lý kinh tế. Hà Nội sẽ
+tiếp tục điên cuồng cảnh giác trước những chỉ trích về cách chính sách
+kinh tế hoặc doanh nghiệp hàng đầu. Trên mặt trận dư luận quần chúng,
+nó sẽ dùng những vụ thanh trừng để trấn an công chúng.
 
 **oOo**
 
