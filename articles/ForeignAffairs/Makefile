@@ -6,7 +6,9 @@
 
 LIST0=FA_0109.html FA_0111.html
 
-OUTPUT=$(LIST0)
+MD_DOCS:=$(patsubst %.md,%.html,$(wildcard *.md))
+
+OUTPUT=$(LIST0) $(MD_DOCS)
 
 all: $(OUTPUT)
 
@@ -19,5 +21,8 @@ FA_0109.html: FA_0109.txt
 FA_0111.html: FA_0111.txt
 	htmlizer.pl -t="Sức Mạnh Chính Trị của Truyền Thông Xã Hội -- Clay Shirky" FA_0111.txt
 
+%.html:%.md
+	@maruku $< >/dev/null
+
 clean:
-	rm -fr *.html
+	rm -fr $(OUTPUT)
