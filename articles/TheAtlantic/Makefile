@@ -7,7 +7,9 @@
 LIST1=VNSolution.html 4Signs.html
 LIST0=ElegantDecline.html NextEmpire.html NgoaiGiao.html XuanVan.html ChinaIran.html
 
-OUTPUT=$(LIST0) $(LIST1)
+MD_DOCS:=$(patsubst %.md,%.html,$(wildcard *.md))
+
+OUTPUT=$(LIST0) $(LIST1) $(MD_DOCS)
 
 all: $(OUTPUT)
 
@@ -16,8 +18,8 @@ all: $(OUTPUT)
 VNSolution.html: VNSolution.txt
 	htmlizer.pl -t="Giải Pháp Việt Nam" -a="Robert D. Kaplan" VNSolution.txt
 
-4Signs.html: 4Signs.md
-	maruku 4Signs.md
+%.html:%.md
+	@maruku $< >/dev/null
 
 ################################################################################
 # LIST0 =XuanVan.html OW.html OCA.html US_India.html AmericasEdge.html
@@ -39,4 +41,4 @@ ChinaIran.html: ChinaIran.txt
 	htmlizer.pl -a="Kaplan D. Kaplan" -t="Bài Học Từ Trung Quốc và Iran" ChinaIran.txt
 
 clean:
-	rm -fr *.html
+	rm -fr $(OUTPUT)
