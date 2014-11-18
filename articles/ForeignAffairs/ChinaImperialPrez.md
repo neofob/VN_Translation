@@ -91,11 +91,11 @@ Trong nỗ lực thu tóm quyền lực của mình, Tập cũng đã tìm cách
 trừ những tiếng nói chính trị khác, đặc biệt là nơi đã từng là
 nhộn nhịp như Internet. Chính quyền đã bắt giữ, giam cầm, hoặc công
 khai hạ nhục những người viết blog nổi tiếng như nhà kinh doanh tỷ
-phú Pan Shiyi và Charles Xue. Những nhà bình luận như vậy, với hàng
+phú Phan Thạch Ngật và Tiết Tất Quần (microblog Tiết Man Tử). Những nhà bình luận như vậy, với hàng
 chục triệu người theo dõi trên mạng xã hội, đã thường hay thảo
 luận những vấn đề từ ô nhiễm môi trường cho đến kiểm duyệt cho
 đến buôn bán trẻ em. Cho dù họ đã không hoàn toàn bị buộc im miệng,
-họ không còn đi lang thang vào lãnh vực chính trị. Quả thực là Pan,
+họ không còn đi lang thang vào lãnh vực chính trị. Quả thực là Phan,
 một nhân vật chính của phong trào gây áp lực chính quyền Trung Quốc
 cải thiện chất lượng không khí của Bắc Kinh, bị buộc phải tự
 kiểm điểm trên đài truyền hình quốc gia vào năm 2013.  Sau đó ông
@@ -138,7 +138,7 @@ vừa rồi, một cán bộ đảng công khai đả phá Viện Khoa Học Xã
 Trung Quốc, một viện nghiên cứu của chính phủ, là đã bị *"xâm nhập
 bởi những thế lực nước ngoài."* Sự đả phá này gặp phải diễu
 cợt trong giới học giả nổi bật của Trung Quốc ở ngoài học viện
-bao gồm kinh tế gia Mao Yushi, giáo sư luật He Weifang, và nhà văn Liu Yiming.
+bao gồm kinh tế gia Mao Vu Thức, giáo sư luật Hạ Vệ Phương, và nhà văn Lưu Nhất Minh.
 Dẫu vậy, những lời cáo buộc sẽ có thể có một tác dụng làm nhụt
 nhụê khí đối với nghiên cứu học thuật và hợp tác quốc tế.
 
@@ -457,8 +457,8 @@ của những tập đoàn Trung Quốc. Điều này đã buộc Bắc Kinh ph�
 kiếm những phương thức mới để kinh doanh. Những quốc gia láng giềng
 của Trung Quốc, lo âu bởi thái độ nghênh ngang của Trung Quốc, đã
 bắt đầu thiết lập những hợp tác an ninh mới. Ngay cả những chuyên gia
-ngoại giao nổi tiếng trong Trung Quốc như Wang Jisi của Đại học Bắc
-Kinh và cựu Đại sứ Wu Jianmin, đã bày tỏ những mối quan ngại về tiến
+ngoại giao nổi tiếng trong Trung Quốc như Vương Tập Tư của Đại học Bắc
+Kinh và cựu Đại sứ Ngô Kiến Dân, đã bày tỏ những mối quan ngại về tiến
 trình của chính sách đối ngoại của Tập.
 
 Sau cùng, cho dù chính sách đối nội và đối ngoại của Tập ít có vẻ
