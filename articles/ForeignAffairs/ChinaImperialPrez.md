@@ -475,8 +475,8 @@ yếu lợi ích của Hoa Kỳ. Đối mặt với sự bất định của tư
 Quốc, các nhà hoạch định chính sách của Hoa Kỳ phải uyển chuyển và ứng
 phó nhanh chóng.
 
-**ELIZABETH C. ECONOMY** là Thành viên Cao cấp của C.V. Starr và là Tổng
-giám đốc của Nghiên cứu Châu Á ở Hội đồng Quan hệ Đối ngoại.
+**ELIZABETH C. ECONOMY** là Thành viên Thâm niên thuộc C.V. Starr và là
+Giám đốc của Ban Nghiên cứu Châu Á ở Hội đồng Quan hệ Đối ngoại.
 
 **Nguồn:** `http://fam.ag/1sKXjQZ`
 
