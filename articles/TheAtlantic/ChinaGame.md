@@ -1,7 +1,7 @@
-Title: Nước cờ Nguy hiểm của Trung Quốc
+Title: Ván cờ Nguy hiểm của Trung Quốc
 CSS: ./neofob.css
 
-##<center>Nước cờ Nguy hiểm của Trung Quốc</center>
+##<center>Ván cờ Nguy hiểm của Trung Quốc</center>
 ###*Howard W. French*, The Atlantic, số tháng 11, 2014
 ###*neofob cập nhật các phần bị bỏ sót và chỉnh sửa từ bản của vietnamnet*`[0]`
 
@@ -107,7 +107,7 @@ năm vừa qua. Một cách bất thình lình và hùng hổ, Trung Quốc
 khu vực làm các nước láng giềng và Hoa Kỳ bị bất ngờ.
 
 Kể từ giữa năm 2013, Trung Quốc dường như, thoạt tiên, gây
-hấn gần như bừa bãi với tất cả mọi bên ở phía đông
+hấn hầu như bừa bãi với tất cả mọi bên ở phía đông
 của họ. Vào tháng Bảy, một nhóm chiến hạm Trung Quốc,
 khởi hành từ một cảng phía bắc, lần đầu tiên đã làm
 một vòng hải trình quanh chu vi Nhật Bản. Bắc Kinh có vẻ như
@@ -367,7 +367,7 @@ xúc, và có lẽ không tránh khỏi, nó có thể không làm gì hơn
 là sụp bẫy của Trung Quốc. Nếu câu hỏi của việc đương
 đầu với Trung Quốc trở nên gắn chặt với sự tồn tại
 của chế độ thì tất cả những gì đạt được từ chiến tranh là
-sự thất bại công khai, mỉa mai thay, và sự thay đổi chế độ
+sự thất bại dư luận, mỉa mai thay, và việc thay đổi chế độ
 ở Việt Nam.
 
 Nếu Trung Quốc đang tìm kiếm một đối thủ nhỏ hơn để
@@ -377,8 +377,8 @@ hơn là chống cự--Philippines là một mục tiêu khả dĩ khác.
 Cho đến gần đây, Philippines nổi bật vì sự yếu kém của
 nó. Lấy ví dụ phi đội vận tải C-130 đã có thời là lớn
 của quốc gia nay chỉ còn hai hay ba chiếc còn hoạt động.
-Trong vòng 20 năm, Philippines đã bỏ lơ quân đội của họ mà nó
-chẳng mạnh từ lúc đầu.
+Trong vòng 20 năm, Philippines đã bỏ lơ quân đội của họ
+mà vốn dĩ nó chẳng mạnh từ đầu.
 
 Bắc Kinh đã bắt đầu bận rộn thay đổi nguyên trạng ở vùng
 biển tranh chấp ở biển Đông. Ở những hòn đảo trong tranh
@@ -420,81 +420,98 @@ tàu *Sierra Madre.* Khi tôi hỏi ông ta là liệu nước ông không
 được trang bị tốt cho một cuộc so găng có thể, ông ta trả lời,
 *"Chẳng phải điều đó hơi quá rõ ràng?"* Asuque nói thêm rằng
 vì tình thế mà Philippines đã phải chọn việc đưa xung đột với
-Bắc Kinh ra trước thế giới bất cứ khi nào có thể.
+Bắc Kinh ra trước thế giới bất cứ khi nào có thể. Nếu Trung
+Quốc chọn dùng vũ lực, ông giải thích, cộng đồng quốc tế sẽ ủng
+hộ kẻ yếu thế.
 
---WIP--
+Nước này đã dùng phương pháp tương tự trong việc theo đuổi
+một vụ kiện chống lại Trung Quốc theo Công ước LHQ về Luật
+Biển. LHQ không có quyền lực buộc Trung Quốc thi hành bất
+cứ phán quyết nào. Thế nhưng ở vị trí nước yếu hơn, Philippines
+đang dựa vào việc sỉ nhục quốc tế để buộc Trung Quốc tuân thủ
+hiệp ước mà họ đã thông qua vào năm 1996. *"Chúng tôi được lợi
+mọi đằng và chẳng có gì để mất,"* Harry Roque, giáo sư luật của
+Đại Học Philippines nói với tôi. Ông là ngưòi góp phần thuyết
+phục chính quyền theo đuổi vụ kiện chống Trung Quốc.
 
-Họ đã tiến hành vụ kiện chống lại Trung Quốc theo Công ước
-LHQ về Luật Biển. LHQ không có quyền lực buộc Trung Quốc
-tuân thủ nguyên tắc nhưng ở vị trí một quốc gia yếu hơn,
-Philipines đang tính về tác động tới hình ảnh quốc tế và
-sự xấu hổ sẽ buộc Trung Quốc tuân thủ quy ước. “Chúng
-tôi có tất cả để đạt được điều này, và không có gì
-để mất”, Harry Roque, Giáo sư luật tại Đại học Philippines--người
-góp phần thuyết phục chính phủ theo đuổi vụ kiện Trung Quốc nói.
+Tại Vịnh Oyster ở bờ biển trung tây của Palawan, chính
+quyền Philippines mới đây đã động thổ xây dựng  một căn
+cứ hải quân mới với những hy vọng muộn màng nhằm đẩy lui
+anh chàng hàng xóm khổng lồ và quả quyết. Chỉ trong năm
+ngoái đây thôi, Manila đã nhanh chóng tậu hai tàu khu trục
+qua sử dụng từ Ý, hàng loạt máy bay trực thăng tiêm kích
+và các loại khác,và một hạm đội tàu tuần duyên. Tổng thống
+Benigno Aquino đệ Tam thường xuyên nhắc đến việc mua sắm
+này là một nỗ lực nhằm bảo đảm cho nước ông ít ra là có khả
+năng ngăn cản tối thiểu. Chẳng có gì nghi ngờ là ông ta nhắm
+đến Trung Quốc.
 
-Tại Vịnh Oyster ở bờ biển phía tây Palawan, Philippines gần
-đây đã thiết lập một căn cứ hải quân mới. Trong năm ngoái,
-Manila đã nhanh chóng tậu hai tàu khu trục qua sử dụng từ Italy,
-hàng loạt trực thăng và máy bay tấn công, cũng như nâng cấp
-hạm đội tàu tuần duyên. Tổng thống Benigno Aquino III thường
-xuyên nói việc mua  sắm này là đảm bảo cho nước ông có
-đủ khả năng phòng thủ tối thiểu.
+Quan trọng nhất, hồi tháng Tư, Philippines đã ký một
+thỏa thuận phòng thủ chung với Hoa Kỳ. Một tháng sau khi
+thỏa thuận,trong một bài diễn văn ở West Point, Tổng thống
+Hoa Kỳ Obama nhấn mạnh thông điệp của thỏa thuận. *"Hãy 
+để tôi nhắc lại một nguyên tắc mà tôi đưa ra từ đầu nhiệm
+kỳ của tôi: Hoa Kỳ sẽ sử dụng quân lực, đơn phương nếu cần,
+khi những lợi ích cốt lõi cần đến--khi công dân chúng ta
+bị đe dọa, khi đời sống chúng ta bị lâm nguy, khi an ninh của
+các đồng minh của chúng ta bị nguy hiểm."*
 
-<font class="smcp">**Ai là hổ giấy?**</font>
+Sẽ có ý cho rằng thỏa thuận và những lời bình luận của
+Obama sẽ làm nản lòng Trung Quốc, và đó là nhận định chung
+không thắc mắc ở Hoa Kỳ--thế nhưng ở Thái Bình Dương, giá
+trị ngăn chặn của thỏa thuận có vẻ ít chắc chắn hơn. Tất
+nhiên, một cựu cố vấn an ninh quốc gia người Philippine nói
+với tôi rằng bởi vì chuyện gan dạ--mục tiêu là hất cẳng Hoa
+Kỳ vì Trung Quốc coi biển Đông là ao nhà của họ--có vẻ như
+là động lực chính đằng sau những động thái quả quyết mới đây
+của Trung Quốc. Họ có thể bây giờ coi Philippines là một mục
+tiêu hấp dẫn hơn. Bây giờ Manila có sự hậu thuẫn công khai
+của Hoa Kỳ, tìm một cách nào đó để hạ nhục Philippines sẽ cho
+phép Bắc Kinh chứng tỏ điều lớn hơn. Suy nghĩ này được tỏ
+tường sinh động trong những lời bình luận gần đây của Thiếu
+Tướng Chu Thành Hổ, giáo sư của Đại học Quốc phòng Trung Quốc.
+Nói chuyện với đài truyền hình ở Hương Cảng vào tháng Sáu, ông
+ta cảnh báo các đồng minh của Hoa Kỳ ở Châu Á là Hoa Kỳ đã trở
+thành một con hổ giấy. Ông ta liên hệ phản ứng của Washington
+đến khủng hoảng Ukraine với *"rối loạn cường dương."*
 
-Quan trọng nhất,  hồi tháng 4, Philippines đã ký thỏa thuận
-quốc phòng với Mỹ. Một tháng sau đó, Tổng thống Mỹ Obama
-tuyên bố: “Hãy để tôi nhắc lại một nguyên tắc mà tôi
-đưa ra ngay ở đầu nhiệm kỳ tổng thống: Mỹ sẽ sử dụng
-lực lượng quân sự, đơn phương nếu cần thiết, khi các lợi
-ích cốt lõi của chúng ta cần điều đó, khi người dân của
-chúng ta bị đe dọa, khi đời sống của chúng ta bị đe dọa
-và khi an ninh của các đồng minh chúng ta gặp nguy hiểm”.
+Từ quan điểm của Trung Quốc, kịch bản hoàn hảo có thể là lực
+lượng vũ trang còn thiếu kinh nghiệm của Philippines liều lĩnh
+sử dụng các vũ khí mới có, dẫn tới một cuộc trạm chán quân sự
+giới hạn. Điều đó sẽ giúp Trung Quốc phô trương ưu thế và có
+thể đưa ra yêu sách chủ quyền mới và mạnh hơn với các rạn san hô
+trong vùng--có lẽ trong vùng biển giàu dầu mỏ. Hoa Kỳ có thể
+khó mà đáp trả trong trường hợp nguy cấp như vậy. Đối với một
+số người giới tinh hoa ở Trung Quốc, cơ hội lột trần Hoa Kỳ chỉ
+là một đồng minh không tin cậy ở Thái Bình Dương thật là cám dỗ.
 
-Sự cắt giảm quy mô và ngân sách của Mỹ tại khu vực mà
-Trung Quốc coi là sân sau được Bắc Kinh tận dụng. Tướng
-Zhu Chenghu, Giáo sư Đại học Quốc phòng TQ gần đây khi phát
-biểu với một đài truyền hình ở Hong Kong đã cảnh báo các
-đồng minh của Mỹ tại châu Á rằng, Mỹ đã trở thành một
-“con hổ giấy”.
+Nếu những nguy cơ về việc hạ nhục Hoa Kỳ trong việc hậu thuẫn
+(hay là thất bại hậu thuẫn) một nước yếu hơn như Philippines
+là cao thì nguy cơ đối với Trung Quốc cũng là đáng kể. Lịch sử
+hải quân của Trung Quốc kể từ thế kỷ 19 có đầy những thất bại,
+thoạt tiên là chống lại những cường quốc Châu Âu và kế tiếp là
+chống lại một Nhật Bản đang lên. Nhật Bản đánh bại anh hàng xóm
+của họ trong một trận quyết định vào năm 1895. Bất cứ sự thất bại
+nào với Philippines sẽ là một sự bẽ mặt mà nó có thể gây mất ổn
+định Đảng Cộng sản một cách tiềm tàng. Và Washington có thể lật
+tẩy Bắc Kinh, bảo vệ Philippines, nếu giả sử Trung Quốc cố đuổi
+binh lính Philippines ra khỏi tiền đồn rỉ sét *Sierra Madre.*
+Điều này có thể cho thấy Trung Quốc hóa ra là một con hổ giấy.
 
-Từ quan điểm Trung Quốc, kịch bản hoàn hảo có thể là lực
-lượng vũ trang Philippines chưa đủ kinh nghiệm, mạo hiểm sử
-dụng các khí tài mới có được, dẫn tới một cuộc đối
-đầu quân sự giới hạn. Điều đó sẽ giúp Trung Quốc phô
-trương ưu thế, có thể đưa ra yêu sách chủ quyền mới hơn,
-mạnh hơn với các đảo ở Biển Đông. Mỹ do đó cũng khó có
-phản ứng thích hợp để rồi đây theo nhìn nhận của một
-số người trong giới tinh hoa Trung Quốc rằng đó chính là cơ
-hội cho thấy Mỹ không còn là đối tác đồng minh đáng tin
-cậy ở khắp Thái Bình Dương.
+<font class="smcp">**Ván cờ Sống Còn**</font>
 
-<font class="smcp">**Nhưng rủi ro với Trung Quốc cũng rất
-lớn**</font>
-
-Lịch sử hải quân Trung Quốc kể từ thế kỷ 19 có nhiều
-thất bại, như chống lại các cường quốc châu Âu và sau đó
-là một Nhật Bản mới trỗi dậy. Bất kỳ thất bại nào
-với Philippines sẽ là “sự sỉ nhục” lớn. Washington cũng
-có thể lật tẩy trò lường gạt của Bắc Kinh để bảo vệ
-Philippines. Ví dụ như chuyện Trung Quốc cố gắng đuổi lính
-Philippines khỏi tiền đồn cũ Sierra Madre. Khi ấy, Trung Quốc
-lại “đổi vai” để trở thành hổ giấy.
-
-<font class="smcp">**Trung Quốc sẽ chiếm Senkaku bằng vũ lực?**</font>
-
-Cách Philippines vài trăm km về phía bắc, Trung Quốc đang tranh
-giành với Nhật một nhóm đảo nhỏ, cằn cỗi và cho đến gần
-đây vẫn ít người biết đến gọi là Senkaku/Điếu Ngư. Dù có
-vẻ như không có ý nghĩa về mặt lãnh thổ - không có người
-sinh sống – sự tranh giành này có phần rủi ro cao hơn nhiều
-so với những vụ đụng độ ở khu vực khác.
-
-Tranh chấp giữa hai nước có thể quyết định tương lai của
-Đông Á. Trung Quốc theo đuổi vị thế cường quốc thế giới
-còn Nhật Bản đã thể hiện rõ ý định của mình là kiềm
-chế Trung Quốc.
+Cách Philippines vài trăm dặm anh về phía bắc, Trung Quốc đang
+so găng với Nhật về một nhóm đảo nhỏ, cằn cỗi và ít người biết
+đến cho đến gần đây, được biết đến trong tiếng Nhật là Senkaku.
+Nó nằm dưới quyền kiểm soát không tranh chấp của Nhật kể từ khi
+họ sát nhập vào năm 1895 cho đến khi Nhật bị đánh bại vào Đệ Nhị
+Thế Chiến. Cho dù có vẻ như là một lãnh thổ cỏn con--chẳng ai
+sống ở đó--việc tranh chấp này có tính nguy hiểm hơn cả những
+vụ chạm trán lẻ tẻ ở phía nam. Đây là nơi mà tương lai của Đông
+Á có thể được định đoạt. Khu vực chưa bao giờ có sự chung sống
+hòa bình giữa hai cường quốc Á Châu, và khi mà Trung Quốc theo
+đuổi vị thế cường quốc toàn cầu, còn Nhật Bản đã cho thấy  rõ ý
+định là sẽ kiềm chế Trung Quốc.
 
 Việc kiểm soát Senkaku (và có thể cả quần đảo Ryukyu, phía
 đông nam của quần đảo Senkaku) được Bắc Kinh coi là chìa
