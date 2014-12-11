@@ -22,7 +22,7 @@ dạt về chính trị. Đảng Cộng sản Trung Quốc, bị tràn ngập b�
 tham nhũng và thiếu vắng một lý tưởng hấp dẫn, đã đánh mất niềm
 tin trong công chúng và bất ổn xã hội trên đà gia tăng. Kinh tế Trung
 Quốc, dù vẫn tăng trưởng một cách ấn tượng, đã bắt đầu có
-dấu hiệu của giới hạn và sự không ổn định. Và về mặt quốc
+dấu hiệu của giới hạn và bất ổn. Và về mặt quốc
 tế thì cho dù ở vị trí cường quốc kinh tế toàn cầu, Trung Quốc
 vẫn chưa làm đúng sức của mình. Bắc Kinh đã thất bại trong việc
 phản ứng một cách có hiệu quả đối với những khủng hoảng ở
@@ -31,7 +31,7 @@ Libya và Syria và bàng quang khi mà thay đổi chính trị rung chuyển h
 và Bắc Triều Tiên. Đối với nhiều nhà quan sát, nó trông có vẻ là
 Trung Quốc không có chính sách ngoại giao chiến lược bao quát.
 
-Tập đã phản ứng với tình trạng mơ hồ này bằng một cuộc thâu tóm
+Tập đã đối phó với tình trạng mơ hồ này bằng một cuộc thâu tóm
 quyền lực--cho ông ta, cho Đảng Cộng sản, và cho Trung Quốc. Ông từ
 bỏ truyền thống của người cộng sản về lãnh đạo tập thể. Thay
 vào đó là việc ông thiết lập cho bản thân mình như là một lãnh
@@ -68,7 +68,7 @@ cần phải được ngăn cản trước khi chúng trở nên vững chắc.
 
 Viễn kiến của Tập cho một Trung Quốc hồi sinh dựa tất cả vào khả
 năng của ông để đưa cải cách chính trị theo phong cách đặc biệt
-của ông: thu tóm quyền lực bằng cách tạo ra những tổ chức, bịt
+của ông: thu tóm quyền lực bằng cách thành lập ra những tổ chức, bịt
 miệng chống đối chính trị, hợp pháp hóa sự lãnh đạo của ông ta
 và quyền lực của Đảng Cộng sản trong mắt nhân dân Trung Quốc. Kể
 từ khi nhậm chức, Tập đã nhanh chóng thu tóm quyền lực chính trị
@@ -115,11 +115,11 @@ gian hơn bốn tháng, Bắc Kinh đã đình chỉ, xóa, hoặc phạt hơn 1
 000 tài khoản trên Weibo vì vi phạm một trong bảy *"điểm mấu chốt"*
 được định nghĩa sơ sài cho giới hạn của ngôn luận cho phép. Những
 quy định này dẫn đến suy giảm 70 phần trăm các bài viết trên Weibo
-từ tháng Ba 2012 cho đến tháng Mười Hai 2013 trong 1,6 triệu người
+từ tháng Ba năm 2012 cho đến tháng Mười Hai năm 2013 trong 1,6 triệu người
 dùng Weibo theo một nghiên cứu được thi hành bởi *The Telegraph.*
 Và khi những công dân mạng Trung Quốc biết được những cách khác
 để liên lạc, ví dụ như sử dụng nền tảng tin nhắn nhóm WeChat,
-những tay kiểm duyệt của chính phủ bám đuôi họ. Vào tháng 8 2014,
+những tay kiểm duyệt của chính phủ bám đuôi họ. Vào tháng 8 năm 2014,
 Bắc Kinh ban hành những quy định mới về tin nhắn tức thời đòi
 hỏi người dùng phải đăng ký với tên thật, giới hạn chia sẻ tin
 tức chính trị, và bắt tuân theo một quy tắc ứng xử. Không lấy làm
@@ -242,7 +242,7 @@ của ông bao gồm thay đổi Trung Quốc từ trung tâm sản xuất của
 thế giới thành đầu mối của sáng tạo, tái cân bằng kinh tế Trung
 Quốc bằng việc ưu tiên tiêu thụ hơn là đầu tư, và mở rộng chỗ
 cho doanh nghiệp tư nhân. Kế hoạch của Tập bao gồm những cải cách
-cả về nền tảng và chính sách. Lấy ví dụ, ông đã thay đổi hệ thống
+cả về nền tảng lẫn chính sách. Lấy ví dụ, ông đã thay đổi hệ thống
 thuế bằng một cuộc đại tu đáng kể: ngân sách địa phương sẽ có từ
 nhiều nguồn thuế thay vì chủ yếu từ việc bán đất, điều mà đã dẫn
 đến tham nhũng và bất ổn xã hội. Hơn nữa, chính quyền trung ương,
@@ -457,7 +457,7 @@ của những tập đoàn Trung Quốc. Điều này đã buộc Bắc Kinh ph�
 kiếm những phương thức mới để kinh doanh. Những quốc gia láng giềng
 của Trung Quốc, lo âu bởi thái độ nghênh ngang của Trung Quốc, đã
 bắt đầu thiết lập những hợp tác an ninh mới. Ngay cả những chuyên gia
-ngoại giao nổi tiếng trong Trung Quốc như Vương Tập Tư của Đại học Bắc
+ngoại giao nổi tiếng ở Trung Quốc như Vương Tập Tư của Đại học Bắc
 Kinh và cựu Đại sứ Ngô Kiến Dân, đã bày tỏ những mối quan ngại về tiến
 trình của chính sách đối ngoại của Tập.
 
