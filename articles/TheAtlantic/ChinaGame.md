@@ -123,7 +123,7 @@ kiểm soát không lưu vùng trời bao phủ hầu hết vùng biển
 nằm giữa Trung Quốc và Nhật Bản, bao gồm cả những vùng
 được tuyên bố chủ quyền bởi không chỉ Nhật Bản mà còn
 bởi Nam Triều Tiên. Vùng mà họ thông thường có mối quan hệ
-êm thắm giữa các bên. Ngũ Giác Đài, thường hay cử máy bay
+êm thắm giữa các bên. Ngũ giác Đài, thường hay cử máy bay
 giám sát xuyên vùng này thường xuyên, ngay lập tức tuyên bố
 rằng họ sẽ không đếm xỉa đến đòi hỏi của Trung Quốc;
 tuy nhiên Hoa Kỳ đã khuyến cáo các hãng hàng không dân dụng
@@ -171,11 +171,11 @@ Trung Quốc.
 Vào tháng Hai, ba tàu chiến Trung Quốc tuần tra Ấn Độ Dương,
 lần đầu tiên đi qua ngõ hẹp Eo biển Sunda giữa quần đảo
 Java và Sumatra và sau cùng cơ động không báo trước đến ngay
-sát lãnh thổ của Úc ở Đảo Giáng Sinh. Trung Quốc là đối
-tác thương mại lớn nhất, không hài lòng với thỏa thuận
-của đồng minh truyền thống của Hoa Kỳ đã đồng ý vào năm
+sát lãnh thổ của Úc ở Đảo Giáng Sinh. Trung Quốc, đối
+tác thương mại lớn nhất của Úc, không hài lòng với thỏa thuận
+của đồng minh truyền thống của Hoa Kỳ này đã đồng ý vào năm
 2011 cho phép Hoa Kỳ bắt đầu luân chuyển lên đến 2500 thủy
-quân lục chiến ở một căn cứ huấn luyện ở bắc Úc. Đó
+quân lục chiến ở một căn cứ huấn luyện tại phía bắc nước Úc. Đó
 là một phần *xoay trục* trong tuyên bố của chính quyền Obama,
 một sự dịch chuyển các lực lượng quân đội Hoa Kỳ sang
 Thái Bình Dương, và là một sự phản ánh tầm quan trọng ngày
@@ -186,8 +186,8 @@ giải thích việc tuần tra này cho một phóng viên của *Sydney
 Morning Herald*: *"Hoa Kỳ đã can thiệp việc thống nhất Đài Loan
 với đại lục Trung Quốc, và những đồng minh khu vực đã phục
 vụ ý đồ can thiệp quân sự của họ. Úc nằm trên bàn cờ
-chiến lược cho ý đồ đó...Úc không nên mong đợi có quyền
-đi theo Hoa Kỳ để đe dọa Hoa Kỳ mà không tự làm hại mình."*
+chiến lược cho ý đồ đó của Hoa Kỳ...Úc không nên mong đợi có quyền
+theo đuôi Hoa Kỳ để đe dọa Trung Quốc mà không tự làm hại mình."*
 
 Những tháng sau đó đều có nhịp độ tương tự, những khiêu
 khích của Trung Quốc chỉ có gia tăng mạnh hơn. Vào đầu tháng
@@ -216,20 +216,18 @@ và nhà ở cho binh sĩ Trung Quốc. Họ có vẻ hy vọng là sẽ dùng
 sự hiện diện của họ trên những hòn đảo để yểm trợ và
 khẳng định những tuyên bố chủ quyền ở vùng biển chung quanh.
 
-Dù muốn hay không những hành động khiêu khích này có vẻ
-trông thế nào đi nữa thì cuộc tranh đấu mà Trung Quốc
-đã khởi động để làm bá chủ phía tây Thái Bình Dương
-là chẳng có ý bạt mạng tý nào. Thay vì thế nó nên được
-hiểu một cách hay nhất là một sự phối hợp nhuần nhuyễn
+Cho dù những hành động khiêu khích này có vẻ ra sao đi nữa,
+sự giành giật mà Trung Quốc đã khởi động để làm bá chủ phía
+tây Thái Bình Dương không phải là không có dự tính. Thay vì thế
+cách hay nhất nó nên được hiểu là một sự phối hợp nhuần nhuyễn
 từ hậu trường. Chừng nào Trung Quốc còn làm theo ý mình,
-những bước đầu tiên sẽ diễn ra ở biển Đông. Nơi này
-là nơi mà Trung Quốc hưởng lợi từ một sự chênh lệch và
-ngày càng gia tăng lực lượng so với những quốc gia nhỏ hơn
-như Việt Nam, Philippines, Đài Loan, Malaysia, Brunei, Indonesia.
-Thế nhưng sự tranh giành này sẽ trở nên kiên quyết hơn bao
-gồm Nhật Bản và ngoại vi của họ nếu tính toán sai lầm sẽ không
-mang lại xung đột trở thành hiện thực sớm hơn. Trong năm vừa rồi,
-tôi đã chu du khắp khu vực, nói chuyện với những nhà ngoại giao
+những nước đi đầu tiên sẽ diễn ra ở biển Đông. Nơi này
+là nơi mà Trung Quốc hưởng lợi từ sự chênh lệch và ngày càng gia
+tăng về lực lượng so với những quốc gia nhỏ hơn như Việt Nam, Philippines,
+Đài Loan, Malaysia, Brunei, Indonesia. Nếu việc tính toán sai lầm
+ấy mà sẽ không làm cuộc xung đột bùng nổ sớm hơn thì cuộc tranh
+chấp rốt cuộc sẽ lôi cuốn luôn cả Nhật Bản và cả vành đai của họ.
+Trong năm vừa rồi, tôi đã chu du khắp khu vực, nói chuyện với những nhà ngoại giao
 quan trọng và chiến lược gia quân sự của các quốc gia láng giềng
 của Trung Quốc--những quốc gia mà bây giờ đang hối hả để đối phó
 những vụ xâm nhập của Trung Quốc--để biết tình hình sẽ ra sao và
@@ -242,22 +240,22 @@ vào những nước cờ nguy hiểm.
 
 Đối thủ chính của Trung Quốc ở biển Đông là Việt Nam
 và Philippines. Các nhà phân tích ở cả hai quốc gia lo ngại
-rằng Bắc Kinh sẽ tìm lấy một trong số họ ra làm gương theo
+rằng Bắc Kinh sẽ lấy một trong số họ ra làm gương theo
 câu châm ngôn của Trung Quốc là giết gà dọa khỉ. Câu hỏi
 đặt ra là nước nào sẽ là gà; nước nào sẽ bị Trung Quốc
 hiếp đáp và làm nhục để dạy một bài học cho những láng
 giềng khác rằng chống cự là vô ích và sẽ chẳng có yểm
-trợ kiên quyết từ Hoa Kỳ.
+trợ quyết liệt từ Hoa Kỳ.
 
-Hiện nay chỉ có Việt Nam là quốc gia duy nhất trong vùng nỗ
-lực đặt ra giới hạn đáng kể lên tham vọng hàng hải của
+Hiện nay chỉ có Việt Nam là quốc gia duy nhất trong vùng cố
+gắng đặt ra giới hạn đáng kể lên tham vọng hàng hải của
 Trung Quốc nhưng lại không có một thỏa thuận quốc phòng
 với Hoa Kỳ. Điều này đưa đến việc họ là một mục tiêu
 hấp dẫn. Mặt khác, ngay cả khi họ dường như chỉ nhỉnh
 hơn một phần ba mươi của Trung Quốc, Việt Nam có một truyền
-thống tranh đấu đám gờm như Hoa Kỳ đã từng nếm trải vào
+thống đấu tranh đáng gờm như Hoa Kỳ đã từng nếm trải vào
 thập niên 60. Trung Quốc cũng vậy, họ chắc phải quen với
-thiên hướng chống ngoại xâm: Việt Nam đã đẩy lui cuộc xâm
+khuynh hướng chống ngoại xâm: Việt Nam đã đẩy lui cuộc xâm
 lăng của Trung Quốc vào biên giới phía Bắc vào năm 1979 làm
 Trung Quốc thiệt hại hơn 20000 binh sĩ. Dẫu vậy sự kiện này
 đã bị kiểm duyệt khỏi ý thức của quốc gia từ lâu. Và
@@ -266,8 +264,8 @@ quên đó, truyền thông của Trung Quốc gần đây đã nói đến
 nhu cầu cần *"dạy cho Việt Nam một bài học"* hoặc bắt nó
 phải *"trả một giá đắt."*
 
-Cho dù hai quốc gia là đồng minh về ý thức hệ, mối quan hệ
-của họ qua nhiều thế kỷ trải qua những đợt sóng xâm lăng
+Cho dù cả hai quốc gia là đồng minh về ý thức hệ, mối quan hệ
+của họ qua nhiều thế kỷ vượt qua những đợt sóng xâm lăng
 và đô hộ làm ảnh hưởng sâu đậm thái độ họ nghĩ về nhau.
 *"Xâm lược nằm trong máu của họ, và chống ngoại xâm nằm trong
 máu của chúng tôi"* là cách một nhà phân tích chính trị Việt
@@ -277,7 +275,7 @@ trong một bài báo trên *The New York Times* vào tháng Năm.
 Không một ai trong hàng tá các nhà ngoại giao và quan chức
 mà tôi gặp ở Việt Nam có bất cứ ảo tưởng nào về một
 chiến thắng trong một cuộc đối đầu trực diện với Trung
-Quốc về hải quân hay về mặt khác. Thế nhưng Việt Nam đã
+Quốc trên biển hay trên mặt trận khác. Thế nhưng Việt Nam đã
 nhiều lần tìm ra những phương cách độc đáo để đương
 đầu với kẻ thù được vũ trang tốt hơn và lớn hơn. Lịch
 sử của việc vượt qua những thời khắc ngặt nghèo này đã
@@ -285,7 +283,7 @@ sử của việc vượt qua những thời khắc ngặt nghèo này đã
 phất vẻ ngạo mạn.
 
 *"Chúng tôi là một nước nhỏ nhưng mỗi khi Trung Quốc muốn
-dùng vũ lực nhắm vào Việt Nam, chúng tôi đã chặn đứng họ,"*
+dùng vũ lực nhằm vào Việt Nam, chúng tôi đã chặn đứng họ,"*
 một nhà phân tích quân sự nổi tiếng của Việt Nam cho tôi
 hay ở Kuala Lumpur vào đầu năm nay. Chúng tôi gặp gỡ tại một
 phòng tiếp tân ở tòa đại sứ của nước ông. Phòng được
@@ -309,21 +307,19 @@ lọng"* mà Trung Quốc đã tròng vào cổ của nước của ông,
 
 Việt Nam phải cân nhắc việc họ đáp trả khiêu khích của
 Trung Quốc vì hai nước có sự mối quan hệ kinh tế ngày càng
-gắn bó. Vào năm 2012, trong một cuộc thời điểm căng thẳng
-với Manila, Trung Quốc đã dừng việc nhập khẩu chuối từ
-Philippines làm hàng đống hàng bị thối rữa ở cảng. Ngay khi
-những căng thẳng dâng cao lúc dàn khoan dầu được kéo vào
-vùng biển của Việt Nam, giao dịch thương mại giữa hai nước
-giảm đột ngột với truyền thông Trung Quốc cảnh cáo khả
-năng về những hậu quả kinh tế lâu dài.
+gắn bó. Vào năm 2012, vào lúc thời điểm căng thẳng với Manila,
+Trung Quốc đã dừng việc nhập khẩu chuối từ Philippines làm
+hàng đống hàng bị thối rữa ở cảng. Vào lúc những căng thẳng
+dâng cao khi dàn khoan dầu được kéo vào vùng biển của Việt Nam,
+giao dịch thương mại giữa hai nước giảm rõ rệt với truyền
+thông Trung Quốc cảnh cáo khả năng về những hậu quả kinh tế lâu dài.
 
-Đối với Việt Nam, sự kiện dàn khoan dầu đã không đạt đến
-ngưỡng cửa của chiến tranh. Nhiều quan chức Việt Nam đã nói
-với tôi rằng một nỗ lực chiếm lấy những đảo đang trong
-tranh chấp của Việt Nam (như họ làm vào năm 1974 và 1988) sẽ
-dẫn đến chiến tranh. Việc triển khai dàn khoan dầu đã dấy
-lên những cuộc biểu tình dữ dội ở Việt Nam nơi mà những
-cuộc biểu tình là hiếm có. Vào ngày đầu tiên, 11 tháng Năm,
+Đối với Việt Nam, sự kiện dàn khoan dầu đã không đến nỗi xảy ra chiến tranh.
+Nhiều quan chức Việt Nam đã nói với tôi rằng một nỗ lực
+chiếm lấy những đảo đang trong tranh chấp của Việt Nam (như họ
+làm vào năm 1974 và 1988) sẽ dẫn đến chiến tranh. Việc triển khai
+dàn khoan dầu đã dấy lên những cuộc biểu tình dữ dội ở Việt Nam
+nơi mà những cuộc biểu tình là hiếm có. Vào ngày đầu tiên, 11 tháng Năm,
 hàng trăm người có mặt một cách ôn hòa ở Hà Nội, mang theo
 biểu ngữ với khẩu hiệu *"Bảo vệ chủ quyền đất nước."*
 Vào những ngày tiếp theo, những đám đông đổ đến những
@@ -333,41 +329,40 @@ biểu tình thiệt mạng, đã cho thấy một cảnh báo rõ rệt là tí
 chính danh của chính quyền sẽ sụp đổ nếu nó không đáp
 trả bất cứ một cuộc chiếm đảo mới nào của Trung Quốc.
 
-Nhiều nhà phân tích phương Tây xem cách tiếp cận của
-Trung Quốc ở Thái Bình Dương là một kiểu gia tăng có tính
-toán. Trong đó một sự hiện diện của Trung Quốc và những
-quyền lợi trên thực tế của Trung Quốc trong những vùng tranh
-chấp được củng cố từ từ trong một chuỗi những khiêu
-khích mà chúng vừa nhỏ để làm cho những sự chống đối khó
-khăn về chính trị nhưng về lâu dài thì chúng tạo ra tiền
-lệ cho nguyên trạng. Người Trung Quốc tất nhiên là có tên cho
-phương pháp này: chiến lược bắp cải. Một vùng bị bao vây
-từ từ bởi những *"lá cải"* riêng rẽ--một chiếc tàu đánh
-cá chỗ này, một chiếc tàu hải giám chỗ kia--cho đến khi
-nó bị bao phủ bởi nhiều lớp như một cây bắp cải.(*"Salami
-slicing"*--cắt lát salami--là tên gọi khác cho chiến lược này.)
+Nhiều nhà phân tích phương Tây xem cách tiếp cận của Trung Quốc
+ở Thái Bình Dương là một kiểu leo thang được cân nhắc từng nấc
+một, nhắm vào việc thiết lập từng bước sự có mặt của Trung Quốc
+cũng như thực quyền của họ qua hàng loạt hành vi khiêu khích,
+mỗi cái chỉ nho nhỏ để tránh dẫn đến tình trạng kháng cự chính
+trị mãnh liệt, nhưng gộp chung lại chúng sẽ thiết lập ra
+các tiền lệ, và rồi thì trở thành chuyện được chấp nhận.
+Người Trung Quốc tất nhiên là có tên cho phương pháp này:
+chiến lược bắp cải. Một vùng bị bao vây từ từ bởi những
+*"lá cải"* riêng rẽ--một chiếc tàu đánh cá chỗ này, một chiếc
+tàu hải giám chỗ kia--cho đến khi nó bị bao phủ bởi nhiều lớp
+như một cây bắp cải.(*"Salami slicing"*--cắt lát salami--là
+tên gọi khác cho chiến lược này.)
 
 Dĩ nhiên là Trung Quốc sẽ thỏa mãn nếu Việt Nam đơn giản
 chấp nhận những mở rộng từ từ về đòi hỏi lãnh hải và lãnh
-thổ của họ. Thế nhưng nhịp độ và cường độ của những hành động
-của Trung Quốc gần đây cho thấy là Bắc Kinh có thể sẵn sàng
-chiến đấu với Hà Nội đặc biệt là nếu Việt Nam bị nhận thấy
-là nước sẽ bị đánh trước tiên. Điều này rút cục cho thấy là
-việc Trung Quốc triển khai dàn khoan dầu, hậu thuẫn bởi một
-đội tàu nên được hiểu ra sao: nó sẽ hỗ trợ cho việc hợp pháp
-hóa những tuyên bố chủ quyền của Trung Quốc nếu Việt Nam chẳng
-làm gì, và nó sẽ cho một cơ hội đập ruồi với một trận chiến
-giới hạn--và có lẽ sẽ ban hành những cấm vận làm tê liệt kinh
-tế--nếu Hà Nội quật lại.
+thổ của họ. Thế nhưng qua nhịp độ và cường độ mà Trung Quốc
+đã hành động gần đây, ta thấy là Bắc Kinh sẽ vui thú mà đọ sức
+với Hà Nội, đặc biệt nếu Việt Nam được xem là nước ra tay
+trước. Nắm được điểm này là nòng cốt để giúp ta hiểu được việc
+Trung Quốc triển khai dàn khoan dầu, được hậu thuẫn bởi một đội tàu:
+nó sẽ hỗ trợ cho việc hợp pháp hóa những tuyên bố chủ quyền
+của Trung Quốc nếu Việt Nam chẳng làm gì, và nó sẽ cho một cơ hội
+đập ruồi với một trận chiến giới hạn--và có lẽ sẽ ban hành những
+cấm vận làm tê liệt kinh tế--nếu Hà Nội quật lại.
 
 Tất nhiên, đương đầu với lực lượng áp đảo của Bắc
 Kinh, một số quan chức Việt Nam gần đây đã cảnh báo rằng
-cho dù hành động quân sự từ phía họ là hấp dẫn về cảm
+cho dù hành động quân sự từ phía họ là cám dỗ về cảm
 xúc, và có lẽ không tránh khỏi, nó có thể không làm gì hơn
 là sụp bẫy của Trung Quốc. Nếu câu hỏi của việc đương
 đầu với Trung Quốc trở nên gắn chặt với sự tồn tại
-của chế độ thì tất cả những gì đạt được từ chiến tranh là
-sự thất bại dư luận, mỉa mai thay, và việc thay đổi chế độ
+của chế độ thì tất cả những gì đạt được từ chiến tranh
+là làm dư luận thất vọng, mỉa mai thay, và việc thay đổi chế độ
 ở Việt Nam.
 
 Nếu Trung Quốc đang tìm kiếm một đối thủ nhỏ hơn để
@@ -375,7 +370,7 @@ làm gương ở biển Đông--để cho thấy là kẻ bắt nạt sẽ
 chắc chắn muốn gì được đó, rằng nhân nhượng thì tốt
 hơn là chống cự--Philippines là một mục tiêu khả dĩ khác.
 Cho đến gần đây, Philippines nổi bật vì sự yếu kém của
-nó. Lấy ví dụ phi đội vận tải C-130 đã có thời là lớn
+nó. Lấy ví dụ phi đội vận tải C-130 đã có thời là hùng mạnh
 của quốc gia nay chỉ còn hai hay ba chiếc còn hoạt động.
 Trong vòng 20 năm, Philippines đã bỏ lơ quân đội của họ
 mà vốn dĩ nó chẳng mạnh từ đầu.
@@ -388,15 +383,15 @@ và thậm chí trường học cho trẻ em của binh sĩ Trung Quốc
 tàu cá về hình thức để chiếm lĩnh những bãi cạn hay bãi
 ngầm đang trong tranh chấp. Các tàu cá được trang bị GPS và
 điện đài,và các thuyền trưởng nhận trợ cấp vì họ đóng
-vai trò một hệ thống cảnh báo sớm cho Bắc Kinh về động
+vai trò của một hệ thống cảnh báo sớm cho Bắc Kinh về động
 thái của những tàu nước khác. Trung Quốc phản ứng với
 hầu hết những vụ xâm nhập vào vùng biển tranh chấp bằng
 việc sử dụng ngày càng tinh vi và mạnh mẽ lực lượng cảnh
-sát biển để tránh vẻ quân sự hóa bề ngoài. Philippines,
+sát biển để tránh vẻ quân sự hóa về bề ngoài. Philippines,
 cũng như hầu hết các quốc gia trong khu vực, không thể đọ
 sức với những tàu như vậy ngoài việc dùng tàu hải quân,
-điều mà trông có vẻ như làm xung đột leo thang đối với thế
-giới bên ngoài. Để chắc ăn, những tàu hải quân Trung Quốc
+điều mà trông có vẻ như làm xung đột leo thang đối với
+người ngoài cuộc. Để chắc ăn, những tàu hải quân Trung Quốc
 thường lãng vãng ở phía sau để khuyếch trương thanh thế và
 sẵn sàng trong trường hợp khẩn cấp.
 
@@ -405,10 +400,10 @@ họ ở những đảo nhỏ và bãi cạn ngoài khơi của họ cũng tài 
 không kém thế nhưng rốt cuộc lại phản ánh sự tuyệt vọng. Nổi
 tiếng nhất là vụ năm 1999, quốc gia này ủi bãi một con tàu
 rỉ sét thừa hưởng từ Hoa Kỳ, còn được biết đến với tên
-*Sierra Madre,* ngay ở Bãi Cỏ Mây (Second Thomas Shoal--ND)
+*Sierra Madre,* ngay ở Second Thomas Shoal(Bãi Cỏ Mây--ND)
 ở Trường Sa, 105 hải lý về phía Tây của Palawan. Các thủy thủ
-vẫn trú trên tàu đang tan vỡ là bằng chứng khẳng định quyết
-tâm của Manily về chủ quyền ở bãi cạn. Dẫu vậy sự tồn tại của
+vẫn đồn trú trên tàu đang tan vỡ là hiện thân rõ rệt quyết
+tâm của Manila về chủ quyền ở bãi cạn. Dẫu vậy sự tồn tại của
 họ ngày càng phụ thuộc vào trò mèo vờn chuột với Hải quân Trung
 Quốc vì nó tìm cách cắt đứt tiếp tế của các thủy thủ này.
 
@@ -417,7 +412,7 @@ về các vấn đề hải dương, gặp tôi ở một phòng hội nghị v�
 bản đồ hàng hải ở bộ ngoại giao của Philippines. *"Người Trung
 Quốc liên tục bảo chúng tôi kéo bỏ tàu đi,"* ông nói, ngụ ý con
 tàu *Sierra Madre.* Khi tôi hỏi ông ta là liệu nước ông không
-được trang bị tốt cho một cuộc so găng có thể, ông ta trả lời,
+được trang bị tốt cho một cuộc so găng có thể có, ông ta trả lời,
 *"Chẳng phải điều đó hơi quá rõ ràng?"* Asuque nói thêm rằng
 vì tình thế mà Philippines đã phải chọn việc đưa xung đột với
 Bắc Kinh ra trước thế giới bất cứ khi nào có thể. Nếu Trung
@@ -428,14 +423,14 @@ Nước này đã dùng phương pháp tương tự trong việc theo đuổi
 một vụ kiện chống lại Trung Quốc theo Công ước LHQ về Luật
 Biển. LHQ không có quyền lực buộc Trung Quốc thi hành bất
 cứ phán quyết nào. Thế nhưng ở vị trí nước yếu hơn, Philippines
-đang dựa vào việc sỉ nhục quốc tế để buộc Trung Quốc tuân thủ
+đang dựa vào việc làm Trung Quốc xấu hổ trên trường quốc tế để buộc Trung Quốc tuân thủ
 hiệp ước mà họ đã thông qua vào năm 1996. *"Chúng tôi được lợi
 mọi đằng và chẳng có gì để mất,"* Harry Roque, giáo sư luật của
 Đại Học Philippines nói với tôi. Ông là ngưòi góp phần thuyết
 phục chính quyền theo đuổi vụ kiện chống Trung Quốc.
 
 Tại Vịnh Oyster ở bờ biển trung tây của Palawan, chính
-quyền Philippines mới đây đã động thổ xây dựng  một căn
+quyền Philippines mới đây đã động thổ xây dựng một căn
 cứ hải quân mới với những hy vọng muộn màng nhằm đẩy lui
 anh chàng hàng xóm khổng lồ và quả quyết. Chỉ trong năm
 ngoái đây thôi, Manila đã nhanh chóng tậu hai tàu khu trục
@@ -443,7 +438,7 @@ qua sử dụng từ Ý, hàng loạt máy bay trực thăng tiêm kích
 và các loại khác,và một hạm đội tàu tuần duyên. Tổng thống
 Benigno Aquino đệ Tam thường xuyên nhắc đến việc mua sắm
 này là một nỗ lực nhằm bảo đảm cho nước ông ít ra là có khả
-năng ngăn cản tối thiểu. Chẳng có gì nghi ngờ là ông ta nhắm
+năng ngăn chặn vừa đủ. Chẳng có gì nghi ngờ là ông ta nhắm
 đến Trung Quốc.
 
 Quan trọng nhất, hồi tháng Tư, Philippines đã ký một
@@ -461,14 +456,13 @@ Obama sẽ làm nản lòng Trung Quốc, và đó là nhận định chung
 không thắc mắc ở Hoa Kỳ--thế nhưng ở Thái Bình Dương, giá
 trị ngăn chặn của thỏa thuận có vẻ ít chắc chắn hơn. Tất
 nhiên, một cựu cố vấn an ninh quốc gia người Philippine nói
-với tôi rằng bởi vì chuyện gan dạ--mục tiêu là hất cẳng Hoa
-Kỳ vì Trung Quốc coi biển Đông là ao nhà của họ--có vẻ như
-là động lực chính đằng sau những động thái quả quyết mới đây
-của Trung Quốc. Họ có thể bây giờ coi Philippines là một mục
-tiêu hấp dẫn hơn. Bây giờ Manila có sự hậu thuẫn công khai
-của Hoa Kỳ, tìm một cách nào đó để hạ nhục Philippines sẽ cho
-phép Bắc Kinh chứng tỏ điều lớn hơn. Suy nghĩ này được tỏ
-tường sinh động trong những lời bình luận gần đây của Thiếu
+với tôi vì kế sách mưu mô--mục tiêu là hất cẳng Hoa
+Kỳ vì Trung Quốc coi biển Đông là ao nhà của họ--là một động lực chính
+đằng sau cái thế công khai ra mặt mới đây của Trung Quốc. Bây giờ họ có
+thể coi Philippines là một mục tiêu hấp dẫn hơn. Một khi
+mà Manila có sự hậu thuẫn công khai của Hoa Kỳ, tìm một cách nào đó để
+hạ nhục Philippines sẽ cho phép Bắc Kinh chứng tỏ điều quan trọng hơn. Suy
+nghĩ này được tỏ tường sinh động trong những lời bình luận gần đây của Thiếu
 Tướng Chu Thành Hổ, giáo sư của Đại học Quốc phòng Trung Quốc.
 Nói chuyện với đài truyền hình ở Hương Cảng vào tháng Sáu, ông
 ta cảnh báo các đồng minh của Hoa Kỳ ở Châu Á là Hoa Kỳ đã trở
@@ -477,23 +471,24 @@ thành một con hổ giấy. Ông ta liên hệ phản ứng của Washington
 
 Từ quan điểm của Trung Quốc, kịch bản hoàn hảo có thể là lực
 lượng vũ trang còn thiếu kinh nghiệm của Philippines liều lĩnh
-sử dụng các vũ khí mới có, dẫn tới một cuộc trạm chán quân sự
+sử dụng các vũ khí mới có, dẫn tới một cuộc chạm trán quân sự
 giới hạn. Điều đó sẽ giúp Trung Quốc phô trương ưu thế và có
 thể đưa ra yêu sách chủ quyền mới và mạnh hơn với các rạn san hô
 trong vùng--có lẽ trong vùng biển giàu dầu mỏ. Hoa Kỳ có thể
 khó mà đáp trả trong trường hợp nguy cấp như vậy. Đối với một
-số người giới tinh hoa ở Trung Quốc, cơ hội lột trần Hoa Kỳ chỉ
-là một đồng minh không tin cậy ở Thái Bình Dương thật là cám dỗ.
+số người trong giới hoạch định chính sách ở Trung Quốc, cơ hội
+lột trần Hoa Kỳ chỉ là một đồng minh không đáng tin cậy ở Thái
+Bình Dương quả thật có sức cám dỗ.
 
 Nếu những nguy cơ về việc hạ nhục Hoa Kỳ trong việc hậu thuẫn
-(hay là thất bại hậu thuẫn) một nước yếu hơn như Philippines
+(hay thất bại hậu thuẫn) một nước yếu hơn như Philippines
 là cao thì nguy cơ đối với Trung Quốc cũng là đáng kể. Lịch sử
 hải quân của Trung Quốc kể từ thế kỷ 19 có đầy những thất bại,
 thoạt tiên là chống lại những cường quốc Châu Âu và kế tiếp là
 chống lại một Nhật Bản đang lên. Nhật Bản đánh bại anh hàng xóm
 của họ trong một trận quyết định vào năm 1895. Bất cứ sự thất bại
-nào với Philippines sẽ là một sự bẽ mặt mà nó có thể gây mất ổn
-định Đảng Cộng sản một cách tiềm tàng. Và Washington có thể lật
+nào trong việc thắng thế với Philippines sẽ là một sự bẽ mặt có tiềm
+năng gây mất ổn định Đảng Cộng sản. Và Washington có thể lật
 tẩy Bắc Kinh, bảo vệ Philippines, nếu giả sử Trung Quốc cố đuổi
 binh lính Philippines ra khỏi tiền đồn rỉ sét *Sierra Madre.*
 Điều này có thể cho thấy Trung Quốc hóa ra là một con hổ giấy.
@@ -506,163 +501,418 @@ so găng với Nhật về một nhóm đảo nhỏ, cằn cỗi và ít ngườ
 Nó nằm dưới quyền kiểm soát không tranh chấp của Nhật kể từ khi
 họ sát nhập vào năm 1895 cho đến khi Nhật bị đánh bại vào Đệ Nhị
 Thế Chiến. Cho dù có vẻ như là một lãnh thổ cỏn con--chẳng ai
-sống ở đó--việc tranh chấp này có tính nguy hiểm hơn cả những
+sống ở đó--vụ tranh chấp này chứa đựng nguy hiểm còn hơn cả những
 vụ chạm trán lẻ tẻ ở phía nam. Đây là nơi mà tương lai của Đông
 Á có thể được định đoạt. Khu vực chưa bao giờ có sự chung sống
 hòa bình giữa hai cường quốc Á Châu, và khi mà Trung Quốc theo
-đuổi vị thế cường quốc toàn cầu, còn Nhật Bản đã cho thấy  rõ ý
-định là sẽ kiềm chế Trung Quốc.
+đuổi vị thế cường quốc toàn cầu còn Nhật Bản đã cho thấy  rõ ý
+định là sẽ kiềm chế Trung Quốc. Quần đảo Nhật Bản dài khiến
+Trung Quốc bị hạn chế hoạt động ở vùng biển duyên hải. Việc
+kiểm soát quần đảo Senkaku (và có thể kể cả quần đảo Ryukyu ở
+phía đông nam của Senkaku) được Bắc Kinh xem là chìa khóa cho
+việc tiếp cận trực tiếp không hạn chế ra đại dương--và quan
+trọng là một bước ngoặt để tiến đến chiếm lấy Đài Loan, một
+mục tiêu chủ yếu của Trung Quốc trong hàng chục năm.
 
-Việc kiểm soát Senkaku (và có thể cả quần đảo Ryukyu, phía
-đông nam của quần đảo Senkaku) được Bắc Kinh coi là chìa
-khóa để tiếp cận trực tiếp, tự do ra khu vực đại dương
-bên ngoài và quan trọng hơn, là một bước ngoặt để tiếp
-quản Đài Loan, một mục tiêu cơ bản của Trung Quốc trong
-nhiều thập kỷ.
+Trung Quốc đã không tranh cãi chủ quyền của Nhật Bản trên quần
+đảo Senkaku, mà họ gọi là quần đảo Điếu Ngư, cho đến tận năm 1971
+khi Hoa Kỳ từ bỏ vết tích cuối cùng của việc chiếm đóng
+quần đảo Nhật Bản bằng việc giao lại quyền tài phán cho Tokyo.
+Trông có vẻ tình cờ nhưng không ngẫu nhiên chút nào, chỉ hai
+năm trước khi Trung Quốc bắt đầu tuyên bố chủ quyền vùng này,
+LHQ công bố kết quả của một cuộc khảo sát địa chất khu vực
+kết luận rằng *"thềm lục địa giữa Đài Loan và Nhật Bản có
+thể là một trong những mỏ dầu có trữ lượng phong phú nhất thế
+giới."*
 
-Trung Quốc không tranh cãi chủ quyền của Nhật Bản trên quần
-đảo Senkaku, mà họ gọi là quần đảo Điếu Ngư, cho đến
-năm 1971, khi Mỹ chuyển giao quần đảo cho Tokyo quản lý. Chỉ
-hai năm trước khi Trung Quốc tuyên bố chủ quyền với quần
-đảo, LHQ công bố kết quả một cuộc khảo sát địa chất
-khu vực, kết luận rằng *"thềm lục địa giữa Đài Loan và
-Nhật Bản có thể là một trong những mỏ dầu lớn nhất trên
-thế giới."*
+Vào năm 1978, sau nhiều năm lác đác lời qua tiếng lại, lãnh đạo Trung
+Quốc Đặng Tiểu Bình nói với lãnh đạo Nhật Bản là hai nước nên
+hoãn lại vấn đề chủ quyền của quần đảo cho *"thế hệ sau"*.
+Căng thẳng lại nổi lên rõ rệt vào năm 2010, 13 năm sau khi
+Đặng mất, khi một tàu đánh cá của Trung Quốc húc một tàu tuần
+duyên của Nhật Bản ở vùng biển gần đó. Nhật Bản bắt giữ
+thuyền trưởng đã làm dấy động làn sóng dân tộc chủ nghĩa ở
+Trung Quốc.
 
-Năm 1978, sau vài năm tranh cãi, ông Đặng Tiểu Bình nói với phía
-Nhật rằng hai nước nên hoãn lại vấn đề quyền sở hữu
-các hòn đảo để cho “một thế hệ trong tương lai”. Căng
-thẳng lại nổi lên mạnh trong năm 2010, 13 năm sau khi Đặng
-Tiểu Bình qua đời, khi một tàu đánh cá Trung Quốc đâm vào
-một tàu Cảnh sát biển Nhật Bản ở vùng biển gần đó.
+Kể từ đó, Trung Quốc thường xuyên đưa tàu cảnh sát biển vào
+vùng biển 12 hải lý quanh quần đảo Senkaku để thẳng thừng
+thách thức nhà cầm quyền Nhật Bản. Hết lúc này đến lúc khác,
+quân đội hai nước trực tiếp đối đầu. Vào tháng 12 năm 2012,
+ba tháng sau khi chính quyền Nhật Bản quốc hữu hóa một số đảo
+Senkaku (lãnh thổ được sở hữu bởi một công dân Nhật), một máy
+bay trinh sát của Trung Quốc xâm nhập không phận phía trên
+quần đảo buộc Nhật Bản cất cánh chiến đấu cơ từ Okinawa gần đó.
+Một tháng sau đó, trong một động thái mà các chuyên gia hải quân
+nói rằng có thể dễ dàng dẫn đến nổ súng, một tàu khu trục của
+Trung Quốc đã chốt radar điều khiển bắn lên diệt lôi hạm *Yudachi*
+của Nhật Bản`[1]`. Vào tháng Sáu này, máy bay quân sự của hai quốc
+gia được tường thuật là đã bay sát nhau đến 30 mét trên vùng trời
+của vùng biển tranh chấp với những pha bay nguy hiểm mà cả hai bên
+buộc tội lẫn nhau. Khi được hỏi trong một cuộc thăm dò được tiến
+hành mùa hè năm nay, rằng tranh chấp lãnh thổ nên được giải quyết
+ra sao, 64 phần trăm người Trung Quốc trả lời rằng Trung Quốc
+nên *"củng cố kiểm soát có hiệu quả"* lãnh thổ. Quá nửa nói rằng họ
+dự đoán một cuộc xung đột quân sự với Nhật Bản sẽ xảy ra trong tương
+lai, dẫu vậy chỉ có 11 phần trăm dự đoán nó sẽ xảy ra trong vài năm
+tới.
 
-Nhật Bản có mối quan ngại rằng sớm hay muộn Trung Quốc sẽ
-cố gắng chiếm quần đảo Senkaku bằng vũ lực. Bên cạnh các
-lợi ích khác, việc kiểm soát các hòn đảo sẽ cung cấp cho
-Trung Quốc một nền tảng để tấn công tàu Mỹ đặt ở xa
-các căn cứ ở Okinawa, ngăn ngừa tiếp cận Trung Quốc hay can
-thiệp vào một cuộc xung đột chiếm quyền kiểm soát Đài Loan.
+Vào tháng 12 năm 2012, Nhật Bản đã trao quyền cho một thủ tướng dân
+tộc chủ nghĩa nhất trong thế hệ vừa qua. Shinzo Abe đã gia tăng
+chi tiêu quốc phòng lần đầu tiên trong nhiều năm và hứa hẹn sửa
+đổi hiến pháp, mà nó nghiêm cấm sử dụng vũ lực trong tranh chấp, để
+thành lập một quân đội quốc gia một cách hợp pháp. Abe và những người
+đồng sự đã cho thấy một thiên hướng thổi bùng những bức xúc của Trung
+Quốc bằng cách tỏ vẻ ra coi nhẹ những tội ác của Nhật Bản trong Đệ
+Nhị Thế Chiến như vụ cưỡng bức nô lệ tình dục phụ nữ người Hoa bởi
+quân đội Nhật Bản. Abe có một mối liên hệ cá nhân mạnh mẽ đến lịch sử
+đen tối này, điều mà ông ta chưa từng bao giờ giữ thái độ xa cách
+với nó: ông ngoại Nobusuke Kishi của ông là quan chức cao cấp của
+vùng Mãn Châu Lý dưới sự chiếm đóng của Nhật. Tháng 12 vừa qua, ông
+ta là thủ tướng Nhật Bản đầu tiên viếng thăm Đền Yasukuni ở Tokyo nơi
+mà những tội đồ chiến tranh được thờ. Mối liên hệ không ăn năn của
+Abe với thời kỳ này làm cho ngoại giao ở mức cao nhất với Trung Quốc
+là bất khả.
 
-Nhật Bản có mối quan ngại rằng sớm hay muộn Trung Quốc sẽ
-cố gắng chiếm quần đảo Senkaku bằng vũ lực. Bên cạnh các
-lợi ích khác, việc kiểm soát các hòn đảo sẽ cung cấp cho
-Trung Quốc một nền tảng để tấn công tàu Mỹ đặt ở xa
-các căn cứ ở Okinawa, ngăn ngừa tiếp cận Trung Quốc hay can
-thiệp vào một cuộc xung đột chiếm quyền kiểm soát Đài Loan.
+Abe đã công khai nói đến đương đầu với Trung Quốc. Trong một những
+biện pháp quốc phòng quan trọng đầu tiên của ông là phê chuẩn việc
+thành lập một lực lượng mô phỏng theo Thủy quân Lục chiến của Hoa Kỳ.
+Tokyo cũng đã tham dự vào cuộc chạy đua đóng hàng không mẫu hạm bằng
+việc đóng và vừa mới cho vào biên chế hàng không mẫu hạm hạng nhẹ,
+chiếc *Izumo*, mà chỉ mang máy bay trực thăng vào lúc này. Nhật
+Bản cũng đã tuyên bố các kế hoạch để tăng cường hạm đội tàu ngầm
+cực kỳ cao cấp từ 16 chiếc lên 22 chiếc. Năm ngoái Washington tỏ vẻ
+không bằng lòng khi Nhật Bản tuyên bố rằng họ sẽ bắn hạ bất cứ máy
+bay không người lái nào vi phạm không phận Nhật Bản.
 
-Đầu năm nay, phát biểu tại một hội nghị ở San Diego, GĐ
-hoạt động thông tin tình báo của Hạm đội Thái Bình Dương
-Hoa Kỳ James Fanell, cho rằng, Bắc Kinh đã chuẩn bị lực lượng
-của mình “để có thể tiến hành một cuộc chiến nhanh gọn
-tiêu diệt lực lượng Nhật Bản tại biển Hoa Đông, sau đó
-chiếm quần đảo Senkaku hoặc thậm chí quần đảo Ryukyus ở
-phía nam”.
+Trong một chuyến thăm Nhật Bản gần đây, tôi đã đến một trong những
+nơi mà quốc gia này đang mở rộng hiện diện quân đội của họ, Yonaguni.
+Đó là hòn ngọc bình yên của một hòn đảo chỉ có hai con đường
+chính nằm ở phía cực nam của chuỗi quần đảo Ryukyu. Nơi đó là một
+trong những điểm ngoài vùng quần đảo Senkaku, trên cao điểm, dưới
+một hải đăng cũ kỹ mà giống ngựa lùn địa phương gặm cỏ. *"Hầu hết
+người dân ở đây không muốn có một căn cứ trên đảo,"* một cư dân cho
+tôi hay. *"Thế nhưng để triển khai nhanh chóng, chẳng có chỗ nào tốt
+hơn."*
+
+Lý do căn bản của Nhật Bản trong việc thiết lập tiền đồn, cũng như
+những nỗ lực củng cố lực lượng gần đây, là sớm muộn Trung Quốc
+sẽ chiếm lấy Senkaku bằng vũ lực. Những lợi ích khác là việc kiểm
+soát những hòn đảo sẽ đem lại cho Trung Quốc một căn cứ hậu phương
+để tấn công những tàu chiến của Hoa Kỳ ra khơi từ những căn cứ ở
+Okinawa ngăn chúng không đến được Trung Quốc hoặc can thiệp vào xung
+đột về quyền kiểm soát Đài Loan gần đó.
+
+Đầu năm nay, phát biểu tại một hội nghị ở San Diego, chỉ huy
+trưởng của ban tình báo và hành quân của Hạm đội Thái Bình Dương
+Hoa Kỳ, hạm trưởng James Fanell, cho rằng Bắc Kinh đã chuẩn bị
+lực lượng của họ *"để có thể tiến hành một cuộc chiến nhanh gọn
+nhằm tiêu diệt các lực lượng Nhật Bản tại biển Hoa Đông, tiếp theo
+là chiếm quần đảo Senkaku hoặc thậm chí quần đảo Ryukyu ở phía nam."*
+Ngũ giác Đài sau đó không thừa nhận những bình luận của Fanell mà một
+số chuyên gia cho là chỉ gieo hoang mang. Cho dù ý định thật của Trung
+Quốc là gì đi nữa, những lời bình luận của Fanell chuyển tải một cảm
+nhận báo trước của Hoa Kỳ về những căng thẳng dâng cao giữa Nhật Bản
+và Trung Quốc.
 
 Nếu chiến tranh nổ ra vào lúc này, nhiều nhà phân tích tin rằng
-Nhật Bản sẽ thắng thế. Ngoài hệ thống vũ khí tối tân do
-Mỹ cung cấp, lực lượng Nhật Bản còn được hưởng lợi từ
-nhiều năm liên kết đào tạo cùng với các đối tác Mỹ, và có
-lẽ sẵn sàng chiến đấu tốt hơn so với hải quân Trung Quốc.
+Nhật Bản sẽ thắng thế. Bên cạnh hệ thống vũ khí hàng đỉnh của
+của Hoa Kỳ, các lực lượng Nhật Bản còn hưởng lợi từ nhiều năm
+huấn luyện hỗn hợp cùng với các đối tác Hoa Kỳ, và có lẽ thiện
+chiến hơn so với Hải quân Quân Giải phóng quân Trung Quốc.
 
-Vì lý do đó, so với nhiều chuyên gia khác, các nhà phân tích
-Nhật Bản nhận thấy ít có khả năng Trung Quốc sẽ quan
-tâm đến một cuộc đụng độ trực diện lớn trong thời
-gian sớm. Tuy nhiên, nhiều đánh giá khác nhìn chung tin rằng
-Trung Quốc sẽ tiếp tục kích động dồn Nhật Bản vào thế
-khó và có thể bao gồm cả những cuộc đụng độ nhỏ với
-các máy bay quân sự Nhật như quấy rối, đâm tàu cảnh sát
-biển. Mục tiêu cuối cùng là đạt được thắng lợi trong
-một cuộc chơi dài hơi hơn.
+Vì thế, cũng như các chuyên gia khác, các chuyên gia phân tích
+nổi tiếng của Nhật Bản nhận thấy ít có khả năng Trung Quốc sẽ
+muốn có một cuộc chạm súng trực diện lớn trong nay mai. *"Họ biết
+rằng chúng tôi sẽ đánh bại họ,"* một chuyên gia hàng đầu về an
+ninh nói với tôi một cách thẳng thừng. Thế nhưng ông ta và những
+chuyên gia khác nói chung tin là Trung Quốc sẽ tiếp tục khiêu
+khích những vụ nằm trong gang tấc và có lẽ kể cả những vụ chạm
+trán nhỏ với quân đội Nhật Bản--ví dụ như quấy rối máy bay của
+Nhật, húc tàu tuần duyên của Nhật. Mục đích, theo họ nói, là khó
+thấy và chủ yếu là mục tiêu lâu dài. Nó bao gồm dư luận quần
+chúng ở Nhật Bản và ở Hoa Kỳ.
 
-Nếu Tokyo bị coi là kẻ gây chiến, hoặc thậm chí chỉ đơn
-thuần là thiếu thận trọng, các nhà phân tích Nhật Bản lo
-sợ phản ứng dữ dội ở cả trong và ngoài nước. Công luận
-Nhật Bản có thể sẽ quay lưng lại với Abe, hoặc một chính
-phủ trong tương lai.
+Một khi Nhật Bản và Trung Quốc tiến hành những phi vụ và
+cơ động nguy hiểm trên và trong vùng biển động giữa họ,
+xác xuất nổ súng tăng lên và đi kèm là nguy cơ thương vong.
+Bất cứ bên nào trông có vẻ chịu trách nhiệm gây ra đụng độ
+sẽ chịu hình ảnh quốc tế của mình bị hoen ố thảm hại và sẽ
+đối diện với áp lực to lớn để nhượng bộ. Nếu Tokyo bị xem
+là kẻ gây hấn, hoặc chỉ là bất cẩn, các chuyên gia Nhật Bản
+sợ rằng sẽ có một phản ứng dữ dội từ cả trong lẫn ngoài nước.
+Dư luận ở Nhật Bản, với chủ nghĩa yêu chuộng hòa bình phổ biến
+sâu đậm, có thể quay ra chống lại Abe hoặc chính phủ tương lai
+một khi dân chúng hoảng loạn khi cho rằng những nhà lãnh đạo
+của họ đang đưa họ đến chiến tranh với gã láng giềng khổng lồ.
 
-Thậm chí nguy hiểm nhiều hơn, trong con mắt của các nhà phân
-tích Nhật Bản, là phản ứng của công chúng Mỹ. Nếu Mỹ
-dao động trong cam kết của mình đối với Tokyo, hoặc lẩn
-tránh hoàn toàn, Bắc Kinh khi đó đã đi được cả một chặng
-đường dài hướng tới mục tiêu lâu dài lớn nhất: làm suy
-yếu liên minh giữa Mỹ và Nhật Bản. Washington sẽ mất uy tín
-trong khu vực, và lần lượt các quốc gia, thậm chí có thể
-bao gồm cả Nhật Bản, sẽ bắt đầu thực hiện các tính
-toán mới nhằm thích nghi với Trung Quốc.
+Thậm chí nguy hại hơn cả, trong con mắt của các chuyên gia
+phân tích Nhật Bản, sẽ là phản ứng của công chúng Hoa Kỳ. Kể từ
+năm 1996, Bộ ngoại giao của Nhật Bản đã thăm dò trực tiếp
+về sự ủng hộ của người Hoa Kỳ về ủng hộ của họ dành cho những
+cam kết phòng thủ của Hoa Kỳ đối với Nhật Bản. Năm ngoái, hai
+phần ba người được hỏi ủng hộ thế nhưng đó là mức độ ủng hộ
+thấp nhất kể từ khi cuộc thăm dò khởi đầu. Khi được hỏi quốc
+gia nào ở Châu Á là *"đối tác quan trọng nhất của Hoa Kỳ,"*
+nhiều người Hoa Kỳ nói rằng Trung Quốc hơn là Nhật Bản. Đặc
+biệt khi mà vào thời điểm Hoa Kỳ mệt mỏi với chiến tranh, một
+cuộc chạm trán bất ngờ giữa Nhật Bản và Trung Quốc vì cái mà
+nó trông từ xa như một đống những mỏm đá vô nghĩa sẽ gợi một
+câu hỏi đáng lo: Liệu Hoa Kỳ có sẵn sàng để đánh Trung Quốc,
+bảo vệ Nhật Bản vì một vấn đề lãnh thổ khó hiểu.
+
+*"Tai nạn sẽ xảy ra,"* Narushige Michishita, giám đốc của
+chương trình an ninh và nghiên cứu quốc tế tại Viện Bồi dưỡng
+Quốc gia về Nghiên cứu Chính sách của Nhật Bản thẳng thừng nói
+với tôi ở Tokyo. *"Chúng tôi phải hoạch định chính sách của chúng
+tôi dựa trên giả định"* rằng là có những lúc trò đánh bài tháu
+cáy rút cục sẽ cho kết quả xấu, dẫn đến binh sĩ thiệt mạng.
+*"Trọng tâm phải là chuyện giảm thiểu thiệt hại."* Nhiều phân
+tích viên tin rằng Trung Quốc đang cố gắng trêu tức Nhật Bản--
+bằng những khiêu khích bền bỉ và có cân nhắc cẩn thận--để nó phản
+ứng quá đà và sẽ tiếp tục làm như vậy.
+
+Nếu Hoa Kỳ dao động trong cam kết của họ đối với Tokyo, hoặc
+lẫn tránh hoàn toàn, Bắc Kinh chắc hẳn đã tìm được một phương
+pháp đáng kể để đạt được mục tiêu lớn nhất từ lâu: làm suy yếu
+liên minh Mỹ-Nhật. Washington sẽ mất uy tín khắp vùng, và hết
+nước này sang nước khác, có lẽ kể cả Nhật Bản, sẽ bắt đầu có
+những toan tính mới nhằm để dàn xếp với Trung Quốc.
+
+Một lần nữa, phải công nhận là có đầy những cơ hội cho tính toán
+sai lầm, và có thể tăng nhanh trong những năm sắp đến. Giả như Trung
+Quốc thành công trong việc băt nạt một trong đối thủ ở Biển Đông,
+lấy ví dụ--Philippines chẳng hạn--thì giới lãnh đạo quân sự và chính
+trị có thể cảm thấy bạo gan. Và cho dù cùng là một kịch bản ấy, trách
+nhiệm của Washington phải ủng hộ Nhật Bản sẽ là dữ dội khác thường,
+nếu không thì toàn bộ cấu trúc đồng minh ở Á Châu đổ vỡ. Washington
+sẽ có nhiều lựa chọn trong bất cứ sự chạm trán nào giữa Trung Quốc
+và Nhật Bản, kể từ giao chiến trực tiếp cho đến yểm trợ hết mình bằng
+thông tin tình báo trực tiếp vệ tinh và radar, yểm trợ hậu cần, và
+kể cả đánh chặn tên lửa của Trung Quốc. Một danh sách đa dạng như vậy
+có thể cho phép Hoa Kỳ xác định phản ứng quân sự của họ đối với bất kỳ
+chiến sự nào, phối hợp với ngoại giao nhần nhuyễn, và để làm êm thấm
+xung đột trong khi vẫn giữ vững vị thế của mình. Lịch sử cho thấy nghiêm
+túc mà nói thì những động thái đòi hỏi khắt khe cũng có thể đi theo chiều
+hướng xấu.
 
 <font class="smcp">**Trói buộc người khổng lồ**</font>
 
-Sự tự cao của Trung Quốc khiến tất cả các quốc gia xung
-quanh đều lo ngại. Nhiều nước đã bắt đầu thiết lập quan
-hệ đối tác có cùng mối quan tâm: kiềm chế Bắc Kinh.
+Tính huênh hoang của Trung Quốc khiến tất cả các quốc gia xung
+quanh đều phải để ý. Nhiều nước đã bắt đầu thiết lập những mối quan hệ
+đối tác ít ai nghĩ đến với một mục đích chung: kiềm chế Bắc Kinh.
 
-Đây cũng có thể là mục tiêu nổi bật nhất của trục Mỹ:
-làm dày mạng lưới các nước láng giềng lo ngại Trung Quốc,
-những bên có lợi ích chung trong việc ngăn chặn Trung Quốc
-sử dụng vũ lực.
+Đề cập đến một trong những mối quan hệ mới này, một nhà ngoại giao Việt
+Nam ở Đông Nam Á nói với tôi một cách khôi hài là Ấn Độ *"sẵn sàng đánh
+Trung Quốc đến người Việt Nam cuối cùng,"* nghĩa là Ấn Độ sẽ dùng Việt
+Nam để chiến đấu thay họ trong bất cứ cuộc xung đột nào với Trung Quốc.
+Dehli đã đồng ý sẽ huấn luyện thủy thủ Việt Nam về chiến tranh tàu ngầm
+và đã hứa hẹn một khoản tín dụng trị giá 100 triệu USD cho Hà Nội để mua
+thiết bị quân sự bao gồm các tàu tuần tra hàng hải. Đó chẳng là gì so với
+tiêu chuẩn về chi của khu vực nhưng nó có lẽ chỉ là bước đầu.
 
-Thời điểm này, trừ Nhật Bản, không nước nào có khả năng
-chiếm ưu thế trong cuộc đối đầu với Trung Quốc, và một
-số chỉ là những nhân vật tí hon. Tuy nhiên, trên sân khấu,
-ngay cả khi không tham gia liên minh tuyệt đối, họ vẫn có thể
-ràng buộc người khổng lồ vào các quy tắc quốc tế được
-hai bên chấp nhận.
+Đây có lẽ là mục tiêu  nổi bật nhất của sự xoay trục của Hoa Kỳ: làm dày
+đặc mạng lưới giữa các láng giềng lo âu của Trung Quốc. Họ có một lợi ích
+chung nhằm giữ Trung Quốc khỏi việc vũ lực để lật úp trật tự hiện thời.
+Cho lúc này Nhật Bản chấp nhận là không có nước nào có triển vọng thắng
+thế trong chuyện đối đầu với Trung Quốc và một số là người tí hon Lilliputian
+thẳng thắn mà nói. Phối hợp nhịp nhàng, dẫu vậy, ngay cả không phải là đồng minh
+công khai, họ có thể trói buộc người khổng lồ và chế ngự hắn vào các quy tắc
+quốc tế mà đôi bên chấp nhận.
 
-Trong mọi trường hợp, các nước láng giềng của Trung Quốc
-không hẳn bị động chờ đợi Mỹ chỉ đường. Nhật Bản
-đóng góp nhiệt tình hỗ trợ củng cố tiềm lực hải quân
-của một số nước Đông Nam Á. Ngay cả Hàn Quốc, vốn là
-một trong những các nước láng giềng quan tâm nhất đến Trung
-Quốc, cũng đang bán trang thiết cho Philippines.
+Dầu thế nào đi nữa, như ví dụ Ấn-Việt cho thấy một cách sống động, các láng
+giềng của Trung Quốc không hẳn đợi Hoa Kỳ vẽ đường chỉ lối. Nhật Bản đang
+đóng góp nhiệt tình cho việc tăng cường phòng thủ hàng hải ở cả Việt Nam
+lẫn Philippines. Ngay cả Nam Triều Tiên, thường là một trong những quốc
+gia say mê Trung Quốc nhất, bây giờ đang bán quân cụ cho Philippines.
 
 Cuối cùng, hoạt động cân bằng trong khu vực như thế này có
-thể triển vọng tốt nhất để tránh một cuộc đối đầu
-trực tiếp giữa Trung Quốc và Mỹ ở tây Thái Bình Dương.
+thể mang đến một triển vọng tốt nhất để tránh một cuộc đối đầu
+trực tiếp giữa Trung Quốc và Mỹ ở tây Thái Bình Dương--và có
+lẽ là một triển vọng tốt nhất hơn cả. Trong quyển sách vào năm
+2012, *Sự Trỗi Dậy của Trung Quốc đối với Chiến Lược Luận,* Edward
+N. Luttwak viết về cách tiếp cận giống như mạng lưới này để quân
+bình là một trong những chuyện phản ánh căn bản nhất trong lĩnh vực
+chiến lược. Sử dụng sự tương tự của thời Đệ Nhất Thế Chiến để mô
+tả những gì đang diễn ra ở Thái Bình Dương, ông ta nói rằng
+*"Hành động của Đức về việc đóng tàu chiến đại dương đã đem lại,
+không chỉ là việc chạy đua vũ trang của những cường quốc đại dương
+của một thế giới nếu không thì y nguyên, mà còn là một sự chuyển biến
+chiến lược toàn cầu để bảo đảm cuối cùng thì sức mạnh hải quân của
+Đức vô hiệu và sau đó là thua trận."*
 
 Trung Quốc càng nhận thấy một phản ứng phối hợp của nhiều
-nước đối với sự tăng cường quân sự và tấn công hải
-quân, càng có khả năng Bắc Kinh sẽ chuyển hướng sang ngoại
-giao, và ngừng tìm kiếm ưu thế áp đảo trong khu vực. Và,
-tất nhiên, đó không phải là khả năng duy nhất.
+nước đối với sự tăng cường lực lượng và đột nhập hải quân
+thì càng có khả năng Bắc Kinh sẽ chuyển hướng sang ngoại
+giao, và ngừng tìm kiếm ưu thế áp đảo trong khu vực. Và
+dẫu vậy, tất nhiên, đó chẳng phải là điều có thể duy nhất
+theo cách suy diễn giải thích rõ ràng của Luttwak. Câu hỏi
+lớn đặt ra ngày nay là liệu giới lập chính sách của Trung
+Quốc dưới trướng của Tập Cận Bình, một lãnh đạo quyết đoán
+hiếm thấy, đã vượt giới hạn tương tự như giới lập chính sách
+Đức đã làm cách đây một thế kỷ, hoặc có thể làm điều đó trong
+một ngày sắp đến.
 
-<font class="smcp">**Nguồn gốc sự hung hăng của Trung Quốc**</font>
+<font class="smcp">**Nguồn gốc những sự hung hăng của Trung Quốc**</font>
 
-Trong suốt nhiều thập kỷ, bắt đầu với Đặng Tiểu Bình,
-khẩu hiệu địa chiến lược của Trung Quốc là ẩn mình chờ
-thời. Tôn chỉ của Đặng Tiểu Bình đã không bao giờ mất
-đi giá trị, nhưng hành động của Trung Quốc kể từ giữa
-năm 2013 cho thấy rõ ràng rằng cách tiếp cận của ông này
-đã bị gạt sang một bên. Giới diều hâu trong quân đội
-Trung Quốc không ngớt kêu gọi phải quyết đoán hơn nữa,
-thậm chí đến mức hiếu chiến.
+Trong suốt nhiều thập niên, bắt đầu với Đặng Tiểu Bình,
+khẩu hiệu địa chiến lược của Trung Quốc là *ẩn mình chờ
+thời.* Tôn chỉ của Đặng Tiểu Bình đã không bao giờ bị
+từ bỏ trắng trợn, thế nhưng hành động của Trung Quốc
+kể từ giữa năm 2013 cho thấy rõ ràng rằng cách tiếp cận
+của ông đã bị bỏ qua một bên. Giới diều hâu trong quân đội
+Trung Quốc không ngừng kêu gọi phải quyết đoán hơn nữa,
+thậm chí đến mức hiếu chiến. Một trong những ví dụ gần đây,
+Lưu Á Châu, một chính trị viên của Đại Học Quốc Phòng Giải
+Phóng Quân, nghe như thể một chiến lược gia Trung Quốc thời
+cổ đại khi ông phát biểu trong một cuộc phỏng vấn với tạp chí:
+*"Một quân đội mà không đạt được chiến thắng quân sự thì chẳng
+có nghĩa lý gì. Những biên ải mà quân đội chúng ta giành được
+chiến thắng thì hòa bình và ổn định hơn, thế nhưng những nơi mà
+chúng ta quá nhút nhát thì có nhiều tranh chấp hơn."*
 
-Một ví dụ gần đây là, Lưu Á Châu, ủy viên chính trị
-tại Đại học Quốc phòng Quân đội Giải phóng Nhân dân,
-nghe giống như binh pháp thời cổ đại Trung Quốc khi ông nói
-trong một cuộc phỏng vấn tạp chí: “Không có chiến thắng
-quân sự thì chẳng nghĩa lý gì. Những khu vực biên giới mà
-quân đội của chúng ta đã giành được chiến thắng thì hòa
-bình và ổn định hơn, nhưng những nơi chúng ta đã quá nhút
-nhát thì tranh chấp nhiều hơn”.
+Dẫu cho Lưu đã bị nhiều người cho là không đại diện cho tiếng
+nói chung, bản thân Tập Cận Bình đã công khai cổ vũ phát triển
+vũ khí và khuyến khích quân đội sẵn sàng. Trong một chuyến đi
+đầu tiên của ông ngoài Bắc Kinh sau khi nhậm chức vào tháng 11
+năm 2012, ông ghé thăm binh sĩ ở Quân Khu Quảng Châu, được tường
+thuật là đã phát biểu, *"Tất chiến tất thắng là linh hồn của một
+quân đội mạnh."* Vào tháng Tám năm 2013, ông kinh lý hàng không
+mẫu hạm *Liêu Ninh* trước khi nó bắt đầu hành quân và đã cổ vũ
+hạm trưởng để nâng cao sẵn sàng chiến đấu. Trong một bài diễn văn
+vào mùa thu năm ngoái ở Moscow, Thời Ân Hoằng, một sử gia về ngoại
+giao nổi tiếng của Trung Quốc, tóm tắt sự thay đổi về chính sách
+dưới thời của Tập, lưu ý việc sử dụng thường xuyên khẩu hiệu của
+nhà lãnh đạo mới *"sự hồi sinh vĩ đại của quốc gia Trung Quốc"*;
+một sự giảm sút đáng kể của câu nói một thời *phát triển hòa bình*;
+và hoàn toàn bỏ đi ý của Đặng về chuyện ẩn mình.
 
-Tiếng nói của Lưu Á Châu có thể bị coi là không chính thức,
-nhưng bản thân ông Tập Cận Bình đã công khai cổ vũ phát
-triển vũ khí và khuyến khích trang bị quân sự. Trong chuyến
-đi đầu tiên của mình sau khi nhậm chức ra ngoài thủ đô Bắc
-Kinh vào tháng 11/2012, ông này đã tới thăm quân sĩ tại Quân
-khu Quảng Châu, và đã phát biểu, *"tất chiến, tất thắng
-là linh hồn của một đội quân mạnh."*
+Mục tiêu bá chủ khu vực của Trung Quốc không khó hiểu một khi những
+khả năng kinh tế và quân sự bắt kịp với tham vọng của họ, chúng ta
+có thể chỉ bước vào những giai đoạn đầu của một thời kỳ dài và nguy
+hiểm mà Trung Quốc tìm cách tự khẳng định chính họ ngày càng mạnh mẽ
+hơn. John J. Mearsheimer, một người duy thực và là nhà khoa học về
+chính trị, đã từng tiên đoán rằng Trung Quốc sẽ không trỗi dậy hòa
+bình ít ra kể từ quyển sách của ông vào năm 2001, *Bi Kịch của Chính
+trị giữa các Cường quốc.* Trong một cuộc tranh luận vào mù thu năm
+ngoái với Diêm Học Thông, một học giả về quan hệ quốc tế, Mearsheimer
+đã nói: *"Liệu chúng ta có nên hy vọng Trung Quốc sẽ có Học thuyết
+Monroe của chính họ? Dĩ nhiên rồi."* Thế nhưng điều đó không có nghĩ
+là Hoa Kỳ sẽ thích nghi với nó. Mearsheimer chỉ ra rằng Trung Quốc
+đang phạm phải sai lầm lớn trong việc chọn thời điểm của những
+cú huých gần đây, đụng vào Hoa Kỳ một cách hấp tấp thay vì đợi một
+hay hai thế kỷ nữa khi mà sức mạnh tương đối của họ có thể mạnh hơn
+nhiều và khả năng của một chuyện đã rồi cao hơn.
 
-Nhiều nhà phân tích cho rằng thay đổi gần đây của nước
-này là do họ có sự sự tự tin lớn hơn trong bối cảnh của
-cuộc khủng hoảng tài chính toàn cầu năm 2008 khiến hầu hết
-các nền kinh tế phương Tây kiệt quệ trong khi Trung Quốc chỉ
-bị ảnh hưởng nhẹ. Các sự kiện tiếp theo, như sự kiện vũ
-khí hóa học của Syria và việc Washington không thể ngăn chặn
-Nga sáp nhập Crimea, có thể cũng góp phần khiến Bắc Kinh cảm
-nhận rằng tiềm năng của Mỹ ở nước ngoài đang suy giảm.
+Nhiều nhà phân tích ráp nối thay đổi gần đây về quan điểm của nước này
+với dâng trào về sự tự tin, thậm chí là hân hoan chiến thắng, trong bối
+cảnh khủng hoảng kinh tế toàn cầu vào năm 2008. Điều mà đã giáng cho
+những nền kinh tế tây phương một cú chí tử nhưng Trung Quốc thì tương
+đối không sút mẻ gì. Những chuyện tiếp theo sau, ví như giới hạn giả tạo
+mà Tòa Bạch Ốc vạch ra về việc dùng vũ khí hóa học ở Syria và sự bất lực
+của Washington nhằm ngăn cản Nga khỏi sát nhập Crimea, có thể đã góp phần
+khiến Bắc Kinh cảm nhận rằng sinh lực của Hoa Kỳ ở hải ngoại đang
+giảm sút.
+
+Và dẫu vậy, thật nghịch lý thay, hành xử mới đây của Trung Quốc trông như là
+một phản ảnh của không chỉ là sự trỗi dậy về năng lực hay tự tin mà còn
+là sự trỗi dậy của bất an trong giới lãnh đạo của Đảng Cộng Sản. Sự chính
+danh của họ ở quốc gia thời hậu lý tưởng đã luôn dựa trên trụ cột song sinh
+của phát triển kinh tế và chủ nghĩa dân tộc. Sự bùng nổ của truyền thông xã
+hội ở Trung Quốc đã khuếch đại tiếng nói của những người dân túy cực đoan
+mà luôn yêu cầu quốc gia của họ thẳng thắn đương đầu và không ngại sử dụng
+bạo lực. Điều này dường như đã gieo rắng nỗi sợ hãi trông nhu nhược vào giới
+lãnh đạo. Khi được hỏi rằng liệu một nhà lãnh đạo Trung Quốc có thể tuyên bố
+công khai thỏa hiệp với những láng giềng của họ, Ngô Kiến Dân, một cựu phát
+ngôn viên ngoại giao và là cựu hiệu trưởng của Đại học Ngoại giao Trung Quốc,
+nói với *Asahi Shimbun*, một nhật báo Nhật Bản, *"Anh sẽ là một 'kẻ phản bội.'"*
+
+Trong khi đó, lãnh vực sản xuất của Trung Quốc, đã từ lâu là đầu tàu của
+phát triển, đã sa thải nhân công trong nhiều năm qua khi mà tiền lương dần
+tăng và công nghệ rút ngắn công việc có mặt khắp nơi. Nền kinh tế và công
+việc làm tiếp tục tăng trưởng nhanh chóng nhưng sự phát triển đó là do bởi
+chi tiêu chưa từng thấy của các tập đoàn và nợ công. Theo một số phép đo
+gần đây, năng suất phát triển đang giảm. Có thể nói rằng các láng giềng của
+Trung Quốc có nhiều lý do để lo ngại về khả năng của một sụt giảm kinh tế
+đột ngột ở Trung Quốc, điều mà nhiều chuyên gia đã dự báo từ lâu, cũng như
+họ tiếp tục chú trọng về tăng trưởng nhanh: nếu một trụ cột của chính danh
+mà yếu đi thì cái còn lại phải chịu gánh nặng nhiều hơn.
+
+Giới lãnh đạo cấp cao của Trung Quốc tiếp tục, cho một mức độ nào đó, là một
+bí ẩn, và chẳng ai có thể quả quyết rằng tại sao quốc gia đột nhiên khẳng định
+quyền lợi của họ quyết liệt ở Đông Á. Tuy vậy có thể bào chữa cho việc này, rằng
+đây là khoảnh khắc của Hoa Kỳ cho cơ hội chín muồi đối diện với Trung Quốc, một
+cơ hội để lèo lái nó vào lề lối cùng tồn tại ít gây hấn hơn mà trong đó những quy
+tắc quốc tế sẽ được chấp thuận, thay vì được tái tạo dưới trướng của Bắc Kinh.
+
+Dẫu cho Trung Quốc sẽ chắc là nền kinh tế lớn nhất thế giới, một số chỉ dấu
+cho thấy là quốc gia có thể đã bước vào thời kỳ của tiềm lực tối đa tương đối
+so với phần còn lại của thế giới--rằng là những báo động đỏ đã xuất hiện có
+thể báo trước một sự thay đổi về quỹ đạo kinh tế hơn chỉ là một cú mắc nghẹn.
+Bức tranh của dân số Trung Quốc cho thấy một sự thiếu hứa hẹn về một lực lượng
+lao động  bắt đầu suy giảm rõ rệt, và một xã hội mà nó có thể già trước khi nó
+giàu thật sự, tính theo đầu người mà nói. Ngay cả ở Trung Quốc, chỉ có vài kinh
+tế gia tin rằng quốc gia có thể duy trì mọi thứ với tỷ lệ phát triển như trong
+vài thập niên vừa qua, và một số tin rằng nó đã bước vào bẫy thu nhập trung
+bình. Những quốc gia đang phát triển từng có kinh tế vượt bậc khó mà tiếp tục
+phát triển để đi vào hàng ngũ các quốc gia công nghiệp với sáng kiến và dịch vụ
+cao cấp thay thế sản xuất đơn giản. Như nhà khoa học chính trị David Shambaugh
+đã chỉ ra gần đây *"Không có lấy một công ty Trung Quốc đứng trong 100
+thương hiệu hàng đầu thế giới theo xếp hạng của tạp chí BusinessWeek."*
+
+Nếu Washington có thể tiếp tục tìm ra những phương cách để yểm trợ đồng minh của
+mình, đặc biệt là những nền dân chủ ở Đông Á, và nếu Hoa Kỳ và Trung Quốc có thể
+tránh những tính toán sai lầm trọng đại trong những năm sắp đến thì sự quả quyết
+của Trung Quốc vào lúc này có thể dọn đường cho một sự tự tin sáng sủa và thực
+tế hơn ở Bắc Kinh. Nếu Trung Quốc có thể dần xoay chuyển một cách thành công, và
+nếu chính phủ có thể từ từ tìm ra những nguồn lực cho chính danh--giả dụ bằng
+một sự minh bạch hơn, những phương pháp chống tham nhũng nghiêm ngặt hơn, kiểm
+soát ô nhiễm, và những cải thiện mức sống bền vững cho dân chúng--giới hoạch
+định chính sách có thể nhận ra rằng chẳng có lợi gì trong việc đối đầu các
+láng giềng của họ.
+
+Một chiều tháng Giêng, tôi ghé thăm căn cứ hải quân của Philippines ở ngoại ô
+của Manila để được thuyết trình bởi một cựu đô đốc và là cố vấn an ninh quốc
+gia. Ông ta cho tôi hay rằng chi tiêu quân sự của nước ông có lẽ sẽ tăng gấp
+đôi trong nay mai với một phần lớn của sự gia tăng cho hải quân và không quân.
+Một vài phút sau, ông đặt một câu hỏi cho tôi với vẻ kinh ngạc: *"Anh có nghĩ
+rằng đó là điều tự nhiên cho một siêu cường hành xử như Trung Quốc?"*
+
+Khi cuộc họp dài hơi đến hồi tan, một số sĩ quan tham mưu được khuyến khích
+phát biểu lần đầu tiên, và một hạm trưởng quay sang tôi và hỏi tôi nghĩ gì
+về một lịch trình có thể cho một cuộc xung đột trong tương lai với Trung Quốc.
+Một chốc sau, anh ta ngắt lời tôi trong lúc tôi tuôn tràng một câu trả lời
+đầy rào đón và nói *"Tôi hy vọng là nó không xảy ra trong đời tôi."*
+
+<font class="scmp">**Căng thẳng dâng cao: Nhật Bản và Trung Quốc **</font>
+
+*Một danh sách không đầy đủ của những khiêu khích gần đây*  
+(1) Tháng 12 năm 2012: Một máy bay trinh sát Trung Quốc xâm nhập vào không phận
+trên quần đảo Senkaku; Nhật Bản xuất kích máy bay phản lực chiến đấu để nghênh
+cản.  
+(2) Tháng Giêng năm 2013: Một khu trục hạm Trung Quốc chốt radar điều khiển bắn
+lên diệt lôi hạm Yudachi.  
+(3) Tháng Hai năm 2013: Ba tàu hải giám Trung Quốc xâm nhập vùng biển quanh
+Senkaku.  
+(4) Tháng Hai năm 2013: máy bay Trung Quốc bị nghênh cản bởi máy bay phản lực
+của Nhật Bản trong không phận của vùng tranh chấp.  
+(5) Tháng Bảy năm 2013: chiến hạm Trung Quốc hải hành vòng quanh Nhật Bản.  
+(6) Tháng Bảy năm 2013: Trung Quốc và Nga tiến hành một cuộc tập trận hải quân
+hỗn hợp ở Biển Nhật Bản.  
+(7) Tháng 11 năm 2013: Bắc Kinh tuyên bố một *"vùng nhận dạng phòng không"*
+trên hầu hết khắp vùng biển giữa Trung Quốc và Nhật Bản.  
+(8) Tháng Sáu năm 2014: máy bay quân sự Trung Quốc bay trong vòng 30 mét của
+máy bay quân sự Nhật Bản trong không phận vùng tranh chấp.
+
+
+**Nguồn:**  
+`http://www.theatlantic.com/magazine/archive/2014/11/chinas-
+dangerous-game/380789/`
 
 **Cước chú:**  
 `[0]`: Bài viết trên vietnamnet.vn của *Minh Tâm, Đình Ngân* viết
 *"Theo The Atlantic"*  
-`http://vietnamnet.vn/vn/tuanvietnam/203196/gianh-dao-voi-nhat--trung-quoc-nham-vao-dau-.html`
+`http://vietnamnet.vn/vn/tuanvietnam/203196/gianh-dao-voi-nhat--trung-quoc-nham-vao-dau-.html`  
+`[1]`: Thông thường tàu chiến chỉ dùng radar với tín hiệu radio không mã hóa để
+theo dõi, xác định khoảng cách và hướng đi của các tàu chung quanh. Khi radar
+điều khiển bắn *chốt* (lock) mục tiêu, nó chuyển sang dùng tín hiệu radio mã
+hóa và chuyển băng tần liên tục--FHSS, Frequency Hopping Spread Spectrum.
