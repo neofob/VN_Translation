@@ -905,13 +905,12 @@ máy bay quân sự Nhật Bản trong không phận vùng tranh chấp.
 
 
 **Nguồn:**  
-`http://www.theatlantic.com/magazine/archive/2014/11/chinas-dangerous-game/380789/`
-
+`http://theatln.tc/ZWLpdl`
 
 **Cước chú:**  
 `[0]`: Bài viết trên vietnamnet.vn của *Minh Tâm, Đình Ngân* viết
 *"Theo The Atlantic"*  
-`http://vietnamnet.vn/vn/tuanvietnam/203196/gianh-dao-voi-nhat--trung-quoc-nham-vao-dau-.html`  
+`http://bit.ly/1vVJnXr`  
 `[1]`: Thông thường tàu chiến chỉ dùng radar với tín hiệu radio không mã hóa để
 theo dõi, xác định khoảng cách và hướng đi của các tàu chung quanh. Khi radar
 điều khiển bắn *chốt* (lock) mục tiêu, nó chuyển sang dùng tín hiệu radio mã
