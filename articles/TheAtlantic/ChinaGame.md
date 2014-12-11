@@ -708,7 +708,7 @@ Nam để chiến đấu thay họ trong bất cứ cuộc xung đột nào vớ
 Dehli đã đồng ý sẽ huấn luyện thủy thủ Việt Nam về chiến tranh tàu ngầm
 và đã hứa hẹn một khoản tín dụng trị giá 100 triệu USD cho Hà Nội để mua
 thiết bị quân sự bao gồm các tàu tuần tra hàng hải. Đó chẳng là gì so với
-tiêu chuẩn về chi của khu vực nhưng nó có lẽ chỉ là bước đầu.
+tiêu chuẩn về chi tiêu của khu vực nhưng nó có lẽ chỉ là bước đầu.
 
 Đây có lẽ là mục tiêu  nổi bật nhất của sự xoay trục của Hoa Kỳ: làm dày
 đặc mạng lưới giữa các láng giềng lo âu của Trung Quốc. Họ có một lợi ích
@@ -793,10 +793,10 @@ hiểm mà Trung Quốc tìm cách tự khẳng định chính họ ngày càng 
 hơn. John J. Mearsheimer, một người duy thực và là nhà khoa học về
 chính trị, đã từng tiên đoán rằng Trung Quốc sẽ không trỗi dậy hòa
 bình ít ra kể từ quyển sách của ông vào năm 2001, *Bi Kịch của Chính
-trị giữa các Cường quốc.* Trong một cuộc tranh luận vào mù thu năm
+trị giữa các Cường quốc.* Trong một cuộc tranh luận vào mùa thu năm
 ngoái với Diêm Học Thông, một học giả về quan hệ quốc tế, Mearsheimer
 đã nói: *"Liệu chúng ta có nên hy vọng Trung Quốc sẽ có Học thuyết
-Monroe của chính họ? Dĩ nhiên rồi."* Thế nhưng điều đó không có nghĩ
+Monroe của chính họ? Dĩ nhiên rồi."* Thế nhưng điều đó không có nghĩa
 là Hoa Kỳ sẽ thích nghi với nó. Mearsheimer chỉ ra rằng Trung Quốc
 đang phạm phải sai lầm lớn trong việc chọn thời điểm của những
 cú huých gần đây, đụng vào Hoa Kỳ một cách hấp tấp thay vì đợi một
@@ -848,8 +848,8 @@ Dẫu cho Trung Quốc sẽ chắc là nền kinh tế lớn nhất thế giới
 cho thấy là quốc gia có thể đã bước vào thời kỳ của tiềm lực tối đa tương đối
 so với phần còn lại của thế giới--rằng là những báo động đỏ đã xuất hiện có
 thể báo trước một sự thay đổi về quỹ đạo kinh tế hơn chỉ là một cú mắc nghẹn.
-Bức tranh của dân số Trung Quốc cho thấy một sự thiếu hứa hẹn về một lực lượng
-lao động  bắt đầu suy giảm rõ rệt, và một xã hội mà nó có thể già trước khi nó
+Bức tranh dân số Trung Quốc cho thấy một sự thiếu hứa hẹn về một lực lượng
+lao động bắt đầu suy giảm rõ rệt, và một xã hội mà nó có thể già trước khi nó
 giàu thật sự, tính theo đầu người mà nói. Ngay cả ở Trung Quốc, chỉ có vài kinh
 tế gia tin rằng quốc gia có thể duy trì mọi thứ với tỷ lệ phát triển như trong
 vài thập niên vừa qua, và một số tin rằng nó đã bước vào bẫy thu nhập trung
@@ -905,8 +905,8 @@ máy bay quân sự Nhật Bản trong không phận vùng tranh chấp.
 
 
 **Nguồn:**  
-`http://www.theatlantic.com/magazine/archive/2014/11/chinas-
-dangerous-game/380789/`
+`http://www.theatlantic.com/magazine/archive/2014/11/chinas-dangerous-game/380789/`
+
 
 **Cước chú:**  
 `[0]`: Bài viết trên vietnamnet.vn của *Minh Tâm, Đình Ngân* viết
