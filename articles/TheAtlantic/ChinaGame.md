@@ -505,7 +505,7 @@ sống ở đó--vụ tranh chấp này chứa đựng nguy hiểm còn hơn c�
 vụ chạm trán lẻ tẻ ở phía nam. Đây là nơi mà tương lai của Đông
 Á có thể được định đoạt. Khu vực chưa bao giờ có sự chung sống
 hòa bình giữa hai cường quốc Á Châu, và khi mà Trung Quốc theo
-đuổi vị thế cường quốc toàn cầu còn Nhật Bản đã cho thấy  rõ ý
+đuổi vị thế cường quốc toàn cầu còn Nhật Bản đã cho thấy rõ ý
 định là sẽ kiềm chế Trung Quốc. Quần đảo Nhật Bản dài khiến
 Trung Quốc bị hạn chế hoạt động ở vùng biển duyên hải. Việc
 kiểm soát quần đảo Senkaku (và có thể kể cả quần đảo Ryukyu ở
@@ -610,8 +610,8 @@ nhằm tiêu diệt các lực lượng Nhật Bản tại biển Hoa Đông, ti
 là chiếm quần đảo Senkaku hoặc thậm chí quần đảo Ryukyu ở phía nam."*
 Ngũ giác Đài sau đó không thừa nhận những bình luận của Fanell mà một
 số chuyên gia cho là chỉ gieo hoang mang. Cho dù ý định thật của Trung
-Quốc là gì đi nữa, những lời bình luận của Fanell chuyển tải một cảm
-nhận báo trước của Hoa Kỳ về những căng thẳng dâng cao giữa Nhật Bản
+Quốc là gì đi nữa, những lời bình luận của Fanell chuyển tải một linh
+tính báo trước của Hoa Kỳ về những căng thẳng dâng cao giữa Nhật Bản
 và Trung Quốc.
 
 Nếu chiến tranh nổ ra vào lúc này, nhiều nhà phân tích tin rằng
@@ -658,7 +658,7 @@ biệt khi mà vào thời điểm Hoa Kỳ mệt mỏi với chiến tranh, m�
 cuộc chạm trán bất ngờ giữa Nhật Bản và Trung Quốc vì cái mà
 nó trông từ xa như một đống những mỏm đá vô nghĩa sẽ gợi một
 câu hỏi đáng lo: Liệu Hoa Kỳ có sẵn sàng để đánh Trung Quốc,
-bảo vệ Nhật Bản vì một vấn đề lãnh thổ khó hiểu.
+bảo vệ Nhật Bản vì một vấn đề lãnh thổ mập mờ.
 
 *"Tai nạn sẽ xảy ra,"* Narushige Michishita, giám đốc của
 chương trình an ninh và nghiên cứu quốc tế tại Viện Bồi dưỡng
@@ -712,9 +712,9 @@ tiêu chuẩn về chi tiêu của khu vực nhưng nó có lẽ chỉ là bư�
 
 Đây có lẽ là mục tiêu  nổi bật nhất của sự xoay trục của Hoa Kỳ: làm dày
 đặc mạng lưới giữa các láng giềng lo âu của Trung Quốc. Họ có một lợi ích
-chung nhằm giữ Trung Quốc khỏi việc vũ lực để lật úp trật tự hiện thời.
-Cho lúc này Nhật Bản chấp nhận là không có nước nào có triển vọng thắng
-thế trong chuyện đối đầu với Trung Quốc và một số là người tí hon Lilliputian
+chung nhằm giữ Trung Quốc khỏi việc dùng vũ lực để lật úp trật tự hiện thời.
+Cho lúc này Nhật Bản thừa nhận là không có nước nào có triển vọng thắng
+thế trong chuyện đối đầu giữa Trung Quốc và một số là người tí hon Lilliputian
 thẳng thắn mà nói. Phối hợp nhịp nhàng, dẫu vậy, ngay cả không phải là đồng minh
 công khai, họ có thể trói buộc người khổng lồ và chế ngự hắn vào các quy tắc
 quốc tế mà đôi bên chấp nhận.
@@ -723,16 +723,16 @@ Dầu thế nào đi nữa, như ví dụ Ấn-Việt cho thấy một cách s�
 giềng của Trung Quốc không hẳn đợi Hoa Kỳ vẽ đường chỉ lối. Nhật Bản đang
 đóng góp nhiệt tình cho việc tăng cường phòng thủ hàng hải ở cả Việt Nam
 lẫn Philippines. Ngay cả Nam Triều Tiên, thường là một trong những quốc
-gia say mê Trung Quốc nhất, bây giờ đang bán quân cụ cho Philippines.
+gia say mê Trung Quốc nhất, giờ đây đang bán quân cụ cho Philippines.
 
 Cuối cùng, hoạt động cân bằng trong khu vực như thế này có
 thể mang đến một triển vọng tốt nhất để tránh một cuộc đối đầu
-trực tiếp giữa Trung Quốc và Mỹ ở tây Thái Bình Dương--và có
+trực tiếp giữa Trung Quốc và Hoa Kỳ ở tây Thái Bình Dương--và có
 lẽ là một triển vọng tốt nhất hơn cả. Trong quyển sách vào năm
 2012, *Sự Trỗi Dậy của Trung Quốc đối với Chiến Lược Luận,* Edward
 N. Luttwak viết về cách tiếp cận giống như mạng lưới này để quân
 bình là một trong những chuyện phản ánh căn bản nhất trong lĩnh vực
-chiến lược. Sử dụng sự tương tự của thời Đệ Nhất Thế Chiến để mô
+chiến lược. Sử dụng sự tương đồng của thời Đệ Nhất Thế Chiến để mô
 tả những gì đang diễn ra ở Thái Bình Dương, ông ta nói rằng
 *"Hành động của Đức về việc đóng tàu chiến đại dương đã đem lại,
 không chỉ là việc chạy đua vũ trang của những cường quốc đại dương
@@ -792,7 +792,7 @@ có thể chỉ bước vào những giai đoạn đầu của một thời kỳ
 hiểm mà Trung Quốc tìm cách tự khẳng định chính họ ngày càng mạnh mẽ
 hơn. John J. Mearsheimer, một người duy thực và là nhà khoa học về
 chính trị, đã từng tiên đoán rằng Trung Quốc sẽ không trỗi dậy hòa
-bình ít ra kể từ quyển sách của ông vào năm 2001, *Bi Kịch của Chính
+bình ít ra từ quyển sách của ông kể từ năm 2001, *Bi Kịch của Chính
 trị giữa các Cường quốc.* Trong một cuộc tranh luận vào mùa thu năm
 ngoái với Diêm Học Thông, một học giả về quan hệ quốc tế, Mearsheimer
 đã nói: *"Liệu chúng ta có nên hy vọng Trung Quốc sẽ có Học thuyết
