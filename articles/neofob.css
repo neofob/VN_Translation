@@ -22,6 +22,7 @@ p:first-of-type:first-letter {
   float: left;
   margin: 0 0;
   line-height: 0.8;
+  text-align: justify;
 }
 
 p:not(:first-of-type){
@@ -33,7 +34,10 @@ p:first-of-type:first-line {
   font-variant: small-caps;
   text-align: justify;
   text-indent: 0em;
-  float: left;
+}
+
+p:first-of-type{
+  text-align: justify;
 }
 
 A {
