@@ -2,6 +2,7 @@
  * and new ones from Markdown files with Maruku.
  * Tuan T. Pham
  */
+
 body {
 /* use the first ligature and the second available swash character set */
 -moz-font-feature-settings: "swsh" 2, "dlig" 1, "liga" 1, "kern" 1;
@@ -17,18 +18,22 @@ p.firstLetter:first-letter {
 }
 
 p:first-of-type:first-letter {
-  font-size: xx-large;
-  font-weight: bold;
-  text-float: left;
+  font-size: 60px;
+  float: left;
+  margin: 0 0;
+  line-height: 0.8;
+}
+
+p:not(:first-of-type){
+  text-indent: 25px;
+  text-align: justify;
 }
 
 p:first-of-type:first-line {
   font-variant: small-caps;
-}
-
-p {
-  text-indent: 20px;
   text-align: justify;
+  text-indent: 0em;
+  float: left;
 }
 
 A {
