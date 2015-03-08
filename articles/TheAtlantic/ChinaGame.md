@@ -53,7 +53,7 @@ chín đoạn"*, một kỷ tích thời kỳ dân tộc chủ nghĩa vào
 phản ảnh quan điểm của Trung Quốc về cái nhìn phiến diện
 truyền thống của họ. Bản đồ này không có sự nhìn nhận
 của quốc tế và chẳng ai để ý cho đến khi Trung Quốc vực
-nó dậy gần đây. Bây nó có mặt trong tất cả bản đồ của
+nó dậy gần đây. Bây giờ nó có mặt trong tất cả bản đồ của
 Trung Quốc. Kể từ năm 2012, nó được in trong những hộ chiếu
 mới cấp cho công dân Trung Quốc.
 
