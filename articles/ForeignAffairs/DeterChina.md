@@ -311,5 +311,5 @@ ngự Quần đảo sẽ chẳng đem lại một phương thuốc trị bá b�
 những hình thức gây hấn khác nhau của Trung Quốc hơn là ngăn chặn truyền thống
 của NATO đã giải quyết những vấn đề đặt ra bởi những cuộc chiến tranh giải phóng
 dân tộc và sự tăng cường lực lượng hạt nhân của Moscow. Thế nhưng thiết lập một
-tư thế như vậy sẽ cho thấy một bước đi chính yếu---nếu không nói là hơi trễ---
-đầu tiên trong việc đối trọng những tham vọng xét lại của Trung Quốc.
+tư thế như vậy sẽ cho thấy một bước đi chính yếu---nếu không nói là hơi trễ---đầu
+tiên trong việc đối trọng những tham vọng xét lại của Trung Quốc.
