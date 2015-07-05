@@ -7,7 +7,7 @@ CSS: neofob_alt.css
 ####*neofob chuyển ngữ*
 
 Đối với quân đội Hoa Kỳ, ít ra là chuyện *"xoay trục"* sang Châu Á đã
-xảy ra rồi. Đến năm 2020, lực lượng hải quân và không quân hoạch định
+diễn ra rồi. Đến năm 2020, lực lượng hải quân và không quân hoạch định
 bố trí 60 phần trăm lực lượng của họ ở khu vực Châu Á Thái Bình Dương.
 Ngũ Giác Đài, trong khi đó đang đầu tư một phần lớn những máy bay ném
 bom tầm xa và tàu ngầm hạt nhân được thiết kế để hoạt động trong vùng
@@ -57,9 +57,9 @@ không cho tiếp cận các tiền đồn của họ ở Quần đảo Trườn
 đó, Trung Quốc di chuyển một giàn khoan vào vùng đặc quyền kinh tế của Việt
 Nam, đụng độ với tàu cá của Việt Nam. Những hành động này lặp lại những vụ
 trước đó ở Biển Hoa Đông. Vào tháng 10 năm 2010, để trả đũa cho việc bắt giữ
-thuyền trưởng tàu đã đâm vào hai tàu duyên của Nhật Bản, Trung Quốc tạm thời
-không xuất khẩu đất hiếm sang Nhật Bản---đất hiếm là nguyên liệu cần thiết để
-sản xuất điện thoại di động và máy tính. Và vào tháng 11 năm 2013, Trung Quốc
+thuyền trưởng của tàu đã đâm vào hai tàu duyên của Nhật Bản, Trung Quốc tạm
+thời không xuất khẩu đất hiếm sang Nhật Bản---đất hiếm là nguyên liệu cần thiết
+để sản xuất điện thoại di động và máy tính. Và vào tháng 11 năm 2013, Trung Quốc
 đơn phương tuyên bố *"vùng nhận dạng phòng không"* lên không phận thuộc quần
 đảo Senkaku đang trong tranh chấp và những vùng khác của Biển Hoa Đông buộc
 các máy bay phải tuân theo quy định không lưu của họ. Họ cảnh báo rằng sẽ có
@@ -106,10 +106,10 @@ cường chúng.
 Dẫu cho nếu quá khứ là đoạn mở đầu, Trung Quốc sẽ không tìm cách giải quyết
 những mục tiêu bành trướng của họ bằng gây hấn công khai. Chiếu theo tập quán
 chiến lược của họ, họ muốn chậm mà chắc dịch chuyển cán cân lực lượng quân sự
-khu vực theo chiều có lợi cho họ. Điều này nhằm để khu vực chẳng có lựa chọn nào
-khác ngoài chuyện phục tùng cưỡng bức của Trung Quốc. Phần nhiều là các quốc gia
-láng giềng của Trung Quốc tin rằng cam kết ngoại giao và ràng buộc kinh tế sẽ
-chẳng làm suy chuyển thực tế đơn giản này. Nhiều quốc gia trong số đó, kể cả
+của khu vực theo chiều có lợi cho họ. Điều này nhằm để khu vực chẳng có lựa chọn
+nào khác ngoài chuyện phục tùng cưỡng bức của Trung Quốc. Phần nhiều là các quốc
+gia láng giềng của Trung Quốc tin rằng cam kết ngoại giao và ràng buộc kinh tế
+sẽ chẳng làm suy chuyển thực tế đơn giản này. Nhiều quốc gia trong số đó, kể cả
 Nhật Bản, Philippines, và Việt Nam, đang tăng cường chú trọng quân đội của họ
 vào nhiệm vụ chống lại những tham vọng quân sự của Trung Quốc. Họ biết rõ mười
 mươi là những hành động riêng lẻ sẽ không đủ để ngăn chặn Bắc Kinh khỏi việc
@@ -126,7 +126,7 @@ QĐGPND `[Trung Quốc]` sẽ phải làm chủ cả hai chiến trường kể 
 khả năng của họ---cả hai sẽ hỗ trợ cho việc cân bằng những nỗ lực của QĐGPND nhằm
 phá vỡ sự ổn định của cân bằng quân sự khu vực. Nói chung thì những mục tiêu đó
 có thể đạt được bằng các lực lượng trên bộ mà chúng sẽ không thay thế những lực
-lượng không quân và hải quân mà hỗ trợ họ thêm.
+lượng không quân và hải quân mà còn hỗ trợ họ thêm.
 
 Khi nói đến phòng không, các quốc gia dọc theo chuỗi đảo thứ nhất có thể củng
 cố khả năng của họ để phủ nhận kiểm soát của Trung Quốc đối với không phận bằng
@@ -181,12 +181,12 @@ phóng từ hỏa tiễn để buộc các tàu ngầm hủy bỏ nhiệm vụ v
 Nếu Trung Quốc xâm chiếm một đồng minh hoặc đối tác của Hoa Kỳ, ngay cả một lực
 lượng nhỏ lục quân cũng có thể yểm trợ các lực lượng địa phương kháng cự mãnh
 liệt. Những cuộc xung đột gần đây ở Đông Nam Á và Trung Đông đã cho thấy rằng
-những kết quả gì một lực lượng lục quân không chính quy cỡ trung bình có thể gặt
-hái được nhờ sự yểm trợ của vũ khí hiện đại và các cố vấn có khả năng. Nhờ sự
-trợ giúp của các cố vấn Hoa Kỳ và không lực, một quân đội miền Nam Việt Nam bị
-áp đảo về quân số co thể chống trả lại một cuộc tấn công toàn diện bởi các lực
-lượng Bắc Việt vào năm 1972. Gần ba thập niên sau đó, vào năm 2001, một lực
-lượng nhỏ Đặc Nhiệm Biệt phái của Hoa Kỳ, yểm trợ bởi máy bay cường kích, đã
+những thành quả mà một lực lượng lục quân không chính quy cỡ trung bình có thể
+gặt hái được nhờ sự yểm trợ của vũ khí hiện đại và các cố vấn có khả năng. Nhờ
+sự trợ giúp của các cố vấn Hoa Kỳ và không lực, một quân đội miền Nam Việt Nam
+bị áp đảo về quân số co thể chống trả lại một cuộc tấn công toàn diện bởi các
+lực lượng Bắc Việt vào năm 1972. Gần ba thập niên sau đó, vào năm 2001, một lực
+lượng nhỏ Đặc nhiệm Biệt phái của Hoa Kỳ, yểm trợ bởi máy bay cường kích, đã
 giúp Lực lượng Liên minh Phương Bắc Afghanistan đánh bại Taliban. Và vào năm
 2006, các chiến binh Hezbollah ở Lebanon với sự giúp đỡ của các cố vấn Iran, đã
 đánh cho Lực lượng Phòng Vệ Do Thái đến chỗ bế tắc trong một tháng. Một nỗ lực
@@ -202,7 +202,7 @@ không phận và hải phận mà họ cần để triển khai các cuộc hà
 các lực lượng lục quân có thể giải vây cho các lực lượng không quân và hải quân
 của Hoa Kỳ và đồng minh để thi hành các nhiệm vụ mà chỉ có họ có thể hoàn thành
 như viễn thám và không tập. Giả như chuyện ngăn chặn không thành, những lực
-lượng không quân và hải quân sẽ là then chốt để phòng thủ chuồi quần đảo thứ
+lượng không quân và hải quân sẽ là then chốt để phòng thủ chuỗi quần đảo thứ
 nhất và cân bằng những lợi thế của QĐGPND. Lấy ví dụ, QĐGPND có thể tập trung lực
 lượng ở bất kỳ điểm nào dọc theo chuỗi quần đảo thứ nhất nhanh chóng hơn Hoa Kỳ
 và đồng minh vì họ có quân đội phân tán mỏng hơn. Và họ không cần phải lo về
@@ -235,7 +235,7 @@ khai những hệ thống này. Dẫu vậy bằng cách trang bị các lực l
 những tên lửa tương đối rẻ tiền mà vẫn tuân theo những giới hạn về cự ly và bằng
 cách bố trí chúng dọc theo chuỗi đảo thứ nhất để cắt giảm chi phí cho việc
 phóng hỏa tiễn tầm xa, Washington và các đồng minh có thể thuận buồm xuôi gió
-trong việc điều chỉnh chuyện bất cân bằng quyền lực với chi phí thấp. Và nếu lục
+trong việc điều chỉnh chuyện bất cân bằng hỏa lực với chi phí thấp. Và nếu lục
 quân không thể hành quân nhanh chóng để đối phó với một sự cố chọc thủng phòng
 tuyến của phòng ngự quần đảo, những lực lượng gần đó có thể nhanh chóng đối phó
 bằng cách tập trung hỏa lực hỏa tiễn vào vùng bị đe dọa.
@@ -245,7 +245,7 @@ Hoa Kỳ---những hệ thống then chốt mà có thể đảm trách mọi th
 kiểm soát binh sĩ và hậu cần cho đến dẫn đường vũ khí. Hệ thống này hiện nay dựa
 chủ yếu vào vệ tinh và các máy bay không người lái điều mà QĐGPND có thể triệt
 hạ được. Các tốt nhất để giảm thiểu mối nguy đó là thiết lập một mạng lưới viễn
-thông dựa vào cáp quang được chông dưới đất và lòng biển dọc theo chuỗi đảo cho
+thông dựa vào cáp quang được chôn dưới đất và lòng biển dọc theo chuỗi đảo cho
 phép những lực lượng trong tình trạng nguy cấp có thể thu phát dữ liệu một cách
 an toàn từ những trung tâm hành quân từ đất liền. Các lực lượng phòng không và
 chống xâm nhập đường biển đóng ở đảo cũng như những bãi mìn chống hạm có thể bảo
@@ -256,10 +256,10 @@ vệ các đường cáp quang chạy giữa các hòn đảo.
 Cũng như với bất cứ khái niệm hành quân nào, Phòng ngự Quần đảo đối mặt với
 nhiều chướng ngại. Hai điểm lớn nhất là tài chính và địa chính trị: chi phí
 trong tương lai và ý chí của các quốc gia hợp tác dọc theo chuỗi quần đảo
-thứ nhất. Thế nhưng cho dù cái giá phải trả cho tình hình mới, cộng đồng quốc
-phòng ở Hoa Kỳ bắt đầu nhận ra rằng những dự tính cắt giảm ngân sách cho Ngũ
-giác Đài không tương xứng với tình hình an ninh ngày càng nguy hiểm. Nhóm Quốc
-phòng (The National Defense Panel--ND), một nhóm không đảng phái bao gồm những
+thứ nhất. Thế nhưng cho dù cái giá phải trả cho tình hình mới, giới quốc phòng
+ở Hoa Kỳ bắt đầu nhận ra rằng những dự tính cắt giảm ngân sách cho Ngũ giác Đài
+không tương xứng với tình hình an ninh ngày càng nguy hiểm. Nhóm Quốc phòng
+(The National Defense Panel--ND), một nhóm không đảng phái bao gồm những
 chuyên gia quốc phòng Hoa Kỳ, gần đây cho ra đề nghị rằng chính phủ Obama và
 Quốc Hội khôi phục chi tiêu quốc phòng trở lại mức được dự tính trong ngân sách
 của Ngũ giác Đài vào năm 2012. Chấp nhận đề nghị đó sẽ gia tăng đáng kể các
@@ -281,7 +281,7 @@ bảo vệ Nam Triều Tiên khỏi một cuộc tấn công từ Bắc Triều 
 xâm lược quy mô là không chắc chắn; hiểm họa lớn nhất là Bình Nhưỡng có thể
 mở đầu một cuộc tấn công với tên lửa mang đầu đạn hạt nhân hoặc hóa học. Dù gì
 đi nữa thì Nam Triều Tiên có dân số đông gấp hai và thu nhập đầu người gấp 15
-lần đối phương. Seoul có thể và nên chung vai một phần đáng kể của gánh nặng
+lần đối phương. Seoul có thể và nên gánh vác một phần đáng kể của gánh nặng
 quốc phòng của họ để chống lại một cuộc xâm lược truyền thống trên bộ.
 
 Ngay cả với những nguồn lực thích hợp, đối phó với một trùng dương sóng cuộn bao
