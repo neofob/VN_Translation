@@ -13,8 +13,8 @@ Dân Scythia là những kỵ binh du mục đã thống trị một vùng thả
 vùng phía bắc của Hắc Hải, ngày nay là Ukraine và miền nam nước Nga, từ thế kỷ
 thứ bảy cho đến thế kỷ thứ ba trước Công Nguyên. Không như những sắc dân cổ đại
 khác ra đi chẳng để lại dấu vết gì, dân Scythia tiếp tục tồn tại và làm mọi
-người khiếp sợ dù đã đi qua. Herodotus ghi chép rằng họ *"đã tàn phá khắp Châu.
-Họ không chỉ nhận triều cống từ các sắc dân mà còn có những cuộc đột kích và
+người khiếp sợ dù đã đi qua. Herodotus ghi chép rằng họ *"đã tàn phá khắp Châu
+Á. Họ không chỉ nhận triều cống từ các sắc dân mà còn có những cuộc đột kích và
 cướp phá mọi thứ những sắc dân này có."* Napoleon, vào lúc chứng kiến người Nga
 sẵn sàng thà thiêu trụi thủ đô của chính họ hơn là mất vào tay quân đội của ông,
 được cho là đã thốt lên: *"Họ là dân Scythia!"*
