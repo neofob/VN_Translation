@@ -41,7 +41,7 @@ cho ngày nay. Chiến tranh ngày càng diễn ra trong không gian bao la hơn
 có đơn vị tham chiến hơn là vào ngày xưa khi mà có những trận đánh độc lập của
 Thời Đại Công Nghiệp. Bài học liên quan: đừng săn hình bắt bóng và đừng để lún
 sâu vào trường hợp mà lợi thế nền văn minh của anh chẳng hỗ trợ được gì. Hay là,
-nói theo cách của nhà hiền triết cổ đại của Trung Quốc, Tôn Tẫn, *"Biết khi nào
+nói theo cách của nhà hiền triết cổ đại của Trung Quốc, Tôn Tử, *"Biết khi nào
 thì đánh khi nào thì không thì thắng. Có những huyệt đạo không nên đi, đội quân
 không nên đánh, thành không nên công."* Tiền lệ cho điểm này là Đội quân Viễn
 chinh Sicily yểu mệnh ở cuối thế kỷ thứ năm trước Công Nguyên, được ký sự bởi
@@ -79,7 +79,7 @@ phép, nói ví dụ thế, quốc gia bị lôi kéo sâu vào cuộc xung đ�
 Kỳ yểm trợ việc lật đổ nhà độc tài Bashar al-Assad vào thứ Tư, thì họ phải làm
 gì vào thứ Năm khi mà họ khám phá ra rằng họ đã cho ra chính phủ thánh chiến
 Sunni, hoặc vào thứ Sáu khi mà thanh trừng sắc tộc nhắm đến người Alawite theo
-khuynh hướng Shia bắt đầu? Có lẽ đây là trận chiến, mà Tôn Tẫn có thể quyết định,
+khuynh hướng Shia bắt đầu? Có lẽ đây là trận chiến, mà Tôn Tử có thể quyết định,
 mà không nên đánh. *Thế nhưng Assad đã giết hàng chục ngàn người, và có thể
 nhiều hơn nữa, và ông ta đang được Iran yểm trợ!* Đúng vậy, nhưng nên nhớ cho
 rằng cảm xúc, cho dù đúng đến đâu, có thể là kẻ thù của việc phân tích.
@@ -99,6 +99,6 @@ hãy để Hoa Kỳ quay trở về căn cơ của họ là một cường quố
 là một người bảo vệ trên bộ ở Châu Âu, nơi mà có ít kẻ hành động như người Scythia
 và nhiều kẻ côn đồ thông thường. Những kẻ Scythia là kẻ thù của những quốc gia
 thích khai phóng, những quốc gia mà không tuân theo sự hạn chế nào cả. Hẳn là
-Hoa Kỳ nên vươn đến---nhưng đùng như Darius---quá hăm hở.
+Hoa Kỳ nên vươn đến---nhưng đừng như Darius---quá hăm hở.
 
 [0]: http://www.theatlantic.com/magazine/archive/2015/06/the-art-of-avoiding-war/392060/ "Atlantic article"
