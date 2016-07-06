@@ -2,10 +2,12 @@
 # Last update: 03/14/12
 # Tuan T. Pham
 LIST0=NPR_062110.html NPR_071810.html NPR_012611.html
+SUB_DIRS=GTR
 
 OUTPUT=$(LIST0)
 
 all: $(OUTPUT)
+	-for d in $(SUB_DIRS); do (cd $$d; make all); done
 
 ################################################################################
 #LIST0=NPR_062110.html NPR_071810.html NPR_012611.html
@@ -20,3 +22,4 @@ NPR_062110.html: NPR_062110.txt
 
 clean:
 	rm -fr NPR_*.html
+	-for d in $(SUB_DIRS); do (cd $$d; make clean); done
